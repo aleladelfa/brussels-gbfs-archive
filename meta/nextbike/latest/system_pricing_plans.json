@@ -1,0 +1,22 @@
+{
+ "data": {
+  "plans": [
+   {
+    "currency": "EUR",
+    "description": "EUR 0 < 24h, EUR 20/24h, max. EUR 20/24h",
+    "is_taxable": false,
+    "name": "EUR 0 < 24h, EUR 20/24h, max. EUR 20/24h",
+    "per_min_pricing": [
+     {
+      "interval": 1440,
+      "rate": 20,
+      "start": 1440
+     }
+    ],
+    "plan_id": "Rate0679",
+    "price": 0
+   }
+  ]
+ },
+ "version": "2.3"
+}

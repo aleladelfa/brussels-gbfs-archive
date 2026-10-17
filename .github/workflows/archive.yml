@@ -1,0 +1,53 @@
+name: archive-brussels-gbfs
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch feeds
+        run: python fetch_gbfs.py
+      - name: Upload snapshots to the day's release
+        run: |
+          set -e
+          TAG="snap-$(date -u +%Y-%m-%d)"
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            gh release create "$TAG" --title "$TAG" --notes "GBFS snapshots of $TAG, one gzip CSV per operator and quarter hour. See README." || true
+          fi
+          FILES=$(find data -name "*.csv" -type f)
+          if [ -n "$FILES" ]; then
+            echo "$FILES" | xargs gzip -f
+            gh release upload "$TAG" $(find data -name "*.csv.gz" -type f) --clobber
+          fi
+      - name: Commit metadata and log
+        run: |
+          git config user.name "gbfs-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A meta logs
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -q -m "meta and log $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -q || true
+            git push -q
+          fi

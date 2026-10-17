@@ -1,0 +1,8 @@
+{
+  "bolt": {"url": "https://mds.bolt.eu/gbfs/3/336/gbfs", "stations": false},
+  "dott": {"url": "https://gbfs.api.ridedott.com/public/v2/brussels/gbfs.json", "stations": false},
+  "villo": {"url": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/gbfs.json", "stations": true},
+  "cooltra": {"url": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/gbfs.json", "stations": false},
+  "nextbike": {"url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/gbfs.json", "stations": true},
+  "lime": {"url": "https://data.lime.bike/api/partners/v2/gbfs/brussels/gbfs.json", "stations": false}
+}

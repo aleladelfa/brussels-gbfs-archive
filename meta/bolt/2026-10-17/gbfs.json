@@ -1,0 +1,10 @@
+{
+ "gbfs_versions": "https://mds.bolt.eu/gbfs/3/336/gbfs_versions",
+ "geofencing_zones": "https://mds.bolt.eu/gbfs/3/336/geofencing_zones",
+ "station_information": "https://mds.bolt.eu/gbfs/3/336/station_information",
+ "station_status": "https://mds.bolt.eu/gbfs/3/336/station_status",
+ "system_information": "https://mds.bolt.eu/gbfs/3/336/system_information",
+ "system_pricing_plans": "https://mds.bolt.eu/gbfs/3/336/system_pricing_plans",
+ "vehicle_status": "https://mds.bolt.eu/gbfs/3/336/vehicle_status",
+ "vehicle_types": "https://mds.bolt.eu/gbfs/3/336/vehicle_types"
+}

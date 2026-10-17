@@ -1,0 +1,72 @@
+{
+ "data": {
+  "email": "contact.villo@jcdecaux.com",
+  "feed_contact_email": "developer@jcdecaux.com",
+  "languages": [
+   "en",
+   "nl",
+   "fr"
+  ],
+  "license_url": "https://developer.jcdecaux.com/files/Open-Licence-fr.pdf",
+  "name": [
+   {
+    "language": "en",
+    "text": "Villo!"
+   },
+   {
+    "language": "nl",
+    "text": "Villo!"
+   },
+   {
+    "language": "fr",
+    "text": "Villo!"
+   }
+  ],
+  "opening_hours": "Mo-Su,PH 00:00-24:00",
+  "privacy_last_updated": "2024-05-24",
+  "privacy_url": [
+   {
+    "language": "en",
+    "text": "https://www.villo.be/en/legal-information/privacy-policy"
+   },
+   {
+    "language": "nl",
+    "text": "https://www.villo.be/nl/legal-information/privacy-policy"
+   },
+   {
+    "language": "fr",
+    "text": "https://www.villo.be/fr/legal-information/privacy-policy"
+   }
+  ],
+  "purchase_url": "https://www.villo.be/en/offers/groups",
+  "rental_apps": {
+   "android": {
+    "discovery_uri": "com.jcdecaux.vls.bruxelles://",
+    "store_uri": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.bruxelles"
+   },
+   "ios": {
+    "discovery_uri": "com.jcdecaux.vls.bruxelles://",
+    "store_uri": "https://itunes.apple.com/app/id1414204999"
+   }
+  },
+  "system_id": "bruxelles",
+  "terms_last_updated": "2021-12-14",
+  "terms_url": [
+   {
+    "language": "en",
+    "text": "https://www.villo.be/en/documents/cgau/vls"
+   },
+   {
+    "language": "nl",
+    "text": "https://www.villo.be/nl/documents/cgau/vls"
+   },
+   {
+    "language": "fr",
+    "text": "https://www.villo.be/fr/documents/cgau/vls"
+   }
+  ],
+  "timezone": "Europe/Brussels",
+  "url": "https://www.villo.be/"
+ },
+ "version": "3.0"
+}

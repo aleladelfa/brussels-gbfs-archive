@@ -1,0 +1,11 @@
+{
+ "data": {
+  "attribution_organization_name": "Lime",
+  "language": "en",
+  "license_url": "https://www.li.me/gbfs-terms",
+  "name": "Lime Brussels",
+  "system_id": "lime_brussels",
+  "timezone": "Europe/Brussels"
+ },
+ "version": "2.2"
+}

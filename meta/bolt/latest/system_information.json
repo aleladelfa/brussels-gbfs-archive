@@ -1,0 +1,30 @@
+{
+ "data": {
+  "feed_contact_email": "gbfs@bolt.eu",
+  "languages": [
+   "en"
+  ],
+  "license_url": "https://bolt.eu/en/legal/security-gbfs-license/?category=micromobility",
+  "name": [
+   {
+    "language": "en",
+    "text": "Bolt Technology OÜ"
+   }
+  ],
+  "opening_hours": "24/7",
+  "rental_apps": {
+   "android": {
+    "discovery_uri": "bolt://",
+    "store_uri": "https://bolt.sng.link/Epy3j/o9sr?pcn=Mobimeo&_smtype=3&client_id=all_germany_mobimeo&_dl=GBFS_PROVIDER_DEEPLINK"
+   },
+   "ios": {
+    "discovery_uri": "bolt://",
+    "store_uri": "https://bolt.sng.link/Epy3j/o9sr?pcn=Mobimeo&_smtype=3&client_id=all_germany_mobimeo&_dl=GBFS_PROVIDER_DEEPLINK"
+   }
+  },
+  "system_id": "BoltEU_Brussels",
+  "timezone": "Europe/Brussels",
+  "url": "https://www.bolt.eu/"
+ },
+ "version": "3.0"
+}

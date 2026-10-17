@@ -1,0 +1,11 @@
+{
+ "free_bike_status": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/free_bike_status.json",
+ "geofencing_zones": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/geofencing_zones.json",
+ "station_information": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/station_information.json",
+ "station_status": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/station_status.json",
+ "system_hours": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/system_hours.json",
+ "system_information": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/system_information.json",
+ "system_pricing_plans": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/system_pricing_plans.json",
+ "system_regions": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/system_regions.json",
+ "vehicle_types": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/en/vehicle_types.json"
+}

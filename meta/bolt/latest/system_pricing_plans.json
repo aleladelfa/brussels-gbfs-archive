@@ -1,0 +1,107 @@
+{
+ "data": {
+  "plans": [
+   {
+    "currency": "EUR",
+    "description": [
+     {
+      "language": "en",
+      "text": "Unlock 0.75 EUR, 0.22 EUR/MIN."
+     }
+    ],
+    "is_taxable": false,
+    "name": [
+     {
+      "language": "en",
+      "text": "BRUSSELS SCOOTER"
+     }
+    ],
+    "per_min_pricing": [
+     {
+      "interval": 1,
+      "rate": 0.22,
+      "start": 0
+     }
+    ],
+    "plan_id": "4a39c348-2816-5261-bf18-9d6ca2f56f08",
+    "price": 0.75
+   },
+   {
+    "currency": "EUR",
+    "description": [
+     {
+      "language": "en",
+      "text": "Unlock 0.00 EUR, 0.25 EUR/MIN."
+     }
+    ],
+    "is_taxable": false,
+    "name": [
+     {
+      "language": "en",
+      "text": "BRUSSELS EBIKE"
+     }
+    ],
+    "per_min_pricing": [
+     {
+      "interval": 1,
+      "rate": 0.25,
+      "start": 0
+     }
+    ],
+    "plan_id": "03139b94-9edc-5ac0-8a93-411ecf55dffe",
+    "price": 0
+   },
+   {
+    "currency": "EUR",
+    "description": [
+     {
+      "language": "en",
+      "text": "Unlock 0.99 EUR, 0.31 EUR/MIN."
+     }
+    ],
+    "is_taxable": false,
+    "name": [
+     {
+      "language": "en",
+      "text": "BRUSSELS SCOOTER"
+     }
+    ],
+    "per_min_pricing": [
+     {
+      "interval": 1,
+      "rate": 0.31,
+      "start": 0
+     }
+    ],
+    "plan_id": "fe6071cc-f2d3-5719-91b8-223a71da85cb",
+    "price": 0.99
+   },
+   {
+    "currency": "EUR",
+    "description": [
+     {
+      "language": "en",
+      "text": "Unlock 0.00 EUR, 0.25 EUR/MIN."
+     }
+    ],
+    "is_taxable": false,
+    "name": [
+     {
+      "language": "en",
+      "text": "BRUSSELS EBIKE"
+     }
+    ],
+    "per_min_pricing": [
+     {
+      "interval": 1,
+      "rate": 0.25,
+      "start": 0
+     }
+    ],
+    "plan_id": "16ca6c3b-0ce0-5d54-b518-a480d587a6ab",
+    "price": 0
+   }
+  ]
+ },
+ "version": "3.0"
+}

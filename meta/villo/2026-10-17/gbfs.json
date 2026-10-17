@@ -1,0 +1,7 @@
+{
+ "gbfs_versions": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/gbfs_versions.json",
+ "station_information": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/station_information.json",
+ "station_status": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/station_status.json",
+ "system_information": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/system_information.json",
+ "vehicle_types": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/vehicle_types.json"
+}

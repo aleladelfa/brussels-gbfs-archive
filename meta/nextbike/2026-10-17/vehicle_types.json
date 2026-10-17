@@ -1,0 +1,26 @@
+{
+ "data": {
+  "vehicle_types": [
+   {
+    "_description": "",
+    "form_factor": "bicycle",
+    "name": "Classic bike",
+    "propulsion_type": "human",
+    "rider_capacity": 1,
+    "vehicle_image": "https://static.nextbike.net/app/biketypes-v5/type/hf/150/h500.png",
+    "vehicle_type_id": "150"
+   },
+   {
+    "_description": "- e-eco B frame with Framelock\r\n- aluminum basket with ad panel\r\n- e-CFC fork with charging contact and RFID chip\r\n- Rollerbrake back and front\r\n- RFID Reader \r\n",
+    "form_factor": "bicycle",
+    "max_range_meters": 60000,
+    "name": "e-SMARTbike 2.0 RFID",
+    "propulsion_type": "electric_assist",
+    "rider_capacity": 1,
+    "vehicle_image": "https://static.nextbike.net/app/biketypes-v5/type/hf/143/h500.png",
+    "vehicle_type_id": "143"
+   }
+  ]
+ },
+ "version": "2.3"
+}

@@ -1,0 +1,117 @@
+{
+ "data": {
+  "vehicle_types": [
+   {
+    "default_pricing_plan_id": "basic_bike",
+    "form_factor": "bicycle",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_bike"
+    ],
+    "propulsion_type": "electric_assist",
+    "vehicle_type_id": "ARCADE_X2C",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "ASKOLL_ES2",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "ASKOLL_ES2_B2B",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "ASKOLL_MY26",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "GOVECS_DIRT",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "GOVECS_GOS",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "NIU_N1S",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_moped",
+    "form_factor": "moped",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_moped"
+    ],
+    "propulsion_type": "electric",
+    "vehicle_type_id": "NIU_N1S_25",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_bike",
+    "form_factor": "bicycle",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_bike"
+    ],
+    "propulsion_type": "electric_assist",
+    "vehicle_type_id": "SEGWAY_A300",
+    "wheel_count": 2
+   },
+   {
+    "default_pricing_plan_id": "basic_bike",
+    "form_factor": "bicycle",
+    "max_range_meters": 80000,
+    "pricing_plan_ids": [
+     "basic_bike"
+    ],
+    "propulsion_type": "electric_assist",
+    "vehicle_type_id": "SEGWAY_B200",
+    "wheel_count": 2
+   }
+  ]
+ },
+ "version": "3.0"
+}

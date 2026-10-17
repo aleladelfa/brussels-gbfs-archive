@@ -1,0 +1,57 @@
+{
+ "data": {
+  "plans": [
+   {
+    "currency": "EUR",
+    "description": [
+     {
+      "language": "en",
+      "text": "No unlock fee and 0.28 per minute."
+     }
+    ],
+    "is_taxable": false,
+    "name": [
+     {
+      "language": "en",
+      "text": "Basic bike"
+     }
+    ],
+    "per_min_pricing": [
+     {
+      "interval": 1,
+      "rate": 0.28,
+      "start": 0
+     }
+    ],
+    "plan_id": "basic_bike",
+    "price": 0
+   },
+   {
+    "currency": "EUR",
+    "description": [
+     {
+      "language": "en",
+      "text": "No unlock fee and 0.38 per minute."
+     }
+    ],
+    "is_taxable": false,
+    "name": [
+     {
+      "language": "en",
+      "text": "Basic moped"
+     }
+    ],
+    "per_min_pricing": [
+     {
+      "interval": 1,
+      "rate": 0.38,
+      "start": 0
+     }
+    ],
+    "plan_id": "basic_moped",
+    "price": 0
+   }
+  ]
+ },
+ "version": "3.0"
+}

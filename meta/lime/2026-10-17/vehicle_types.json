@@ -1,0 +1,30 @@
+{
+ "data": {
+  "vehicle_types": [
+   {
+    "form_factor": "scooter",
+    "max_range_meters": 24140,
+    "propulsion_type": "electric",
+    "vehicle_type_id": "1"
+   },
+   {
+    "form_factor": "scooter",
+    "max_range_meters": 40233,
+    "propulsion_type": "electric",
+    "vehicle_type_id": "2"
+   },
+   {
+    "form_factor": "bicycle",
+    "max_range_meters": 85000,
+    "propulsion_type": "electric_assist",
+    "vehicle_type_id": "3"
+   },
+   {
+    "form_factor": "bicycle",
+    "propulsion_type": "human",
+    "vehicle_type_id": "4"
+   }
+  ]
+ },
+ "version": "2.2"
+}

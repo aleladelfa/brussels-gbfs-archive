@@ -1,0 +1,36 @@
+{
+ "data": {
+  "email": "info@cooltra.com",
+  "feed_contact_email": "zeus@cooltra.com",
+  "languages": [
+   "en"
+  ],
+  "name": [
+   {
+    "language": "en",
+    "text": "Cooltra"
+   }
+  ],
+  "opening_hours": "Mo-Su 00:00-24:00",
+  "operator": [
+   {
+    "language": "en",
+    "text": "Cooltra"
+   }
+  ],
+  "rental_apps": {
+   "android": {
+    "discovery_uri": "felyx://mapa",
+    "store_uri": "https://play.google.com/store/apps/details?id=com.felyx.android"
+   },
+   "ios": {
+    "discovery_uri": "felyx://mapa",
+    "store_uri": "https://apps.apple.com/es/app/felyx/id1250107307"
+   }
+  },
+  "system_id": "brussels",
+  "timezone": "CET",
+  "url": "https://cooltra.com"
+ },
+ "version": "3.0"
+}

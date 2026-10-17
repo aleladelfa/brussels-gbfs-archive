@@ -1,0 +1,7 @@
+{
+ "geofencing_zones": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/geofencing_zones.json",
+ "system_information": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/system_information.json",
+ "system_pricing_plans": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/system_pricing_plans.json",
+ "vehicle_status": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/vehicle_status.json",
+ "vehicle_types": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/vehicle_types.json"
+}

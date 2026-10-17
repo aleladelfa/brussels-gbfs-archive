@@ -1,0 +1,13 @@
+{
+ "data": {
+  "stations": [
+   {
+    "lat": 50.808,
+    "lon": 4.4064,
+    "name": "Brussels",
+    "station_id": "brussels"
+   }
+  ]
+ },
+ "version": "2.2"
+}
