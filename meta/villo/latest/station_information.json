@@ -172,8 +172,8 @@
    {
     "address": "Bd Maurice Lemonnier 44 / Maurice Lemonnierlaan 44",
     "capacity": 35,
-    "lat": 50.843974,
-    "lon": 4.345226,
+    "lat": 50.8439741957865,
+    "lon": 4.34522583269336,
     "name": [
      {
       "language": "en",
@@ -655,8 +655,8 @@
    {
     "address": "Rue Antoine Dansaert 64 / Antoine Dansaertstraat 64",
     "capacity": 35,
-    "lat": 50.8502235708238,
-    "lon": 4.34613673736941,
+    "lat": 50.850224,
+    "lon": 4.346137,
     "name": [
      {
       "language": "en",
@@ -2756,7 +2756,7 @@
     "address": "Av. du Château / Kasteellaan 133",
     "capacity": 24,
     "lat": 50.866795,
-    "lon": 4.3092224,
+    "lon": 4.309222,
     "name": [
      {
       "language": "en",
