@@ -1,0 +1,7567 @@
+{
+ "data": {
+  "stations": [
+   {
+    "address": "Av. de Tervueren 218 / Tervurenlaan 218",
+    "capacity": 20,
+    "lat": 50.836304,
+    "lon": 4.41505,
+    "name": [
+     {
+      "language": "en",
+      "text": "LEOPOLD II"
+     },
+     {
+      "language": "nl",
+      "text": "LEOPOLD II"
+     },
+     {
+      "language": "fr",
+      "text": "LEOPOLD II"
+     }
+    ],
+    "station_id": "1"
+   },
+   {
+    "address": "ELOY - Rue Eloy / Eloystraat",
+    "capacity": 25,
+    "lat": 50.836151,
+    "lon": 4.326019,
+    "name": [
+     {
+      "language": "en",
+      "text": "ELOY"
+     },
+     {
+      "language": "nl",
+      "text": "ELOY"
+     },
+     {
+      "language": "fr",
+      "text": "ELOY"
+     }
+    ],
+    "station_id": "2"
+   },
+   {
+    "address": "PORTE DE FLANDRE/VLAAMSEPOORT - BLD DE NIEUPORT/NIEUWPOORTLAAN 1",
+    "capacity": 21,
+    "lat": 50.853203,
+    "lon": 4.341823,
+    "name": [
+     {
+      "language": "en",
+      "text": "PORTE DE FLANDRE / VLAAMSEPOORT"
+     },
+     {
+      "language": "nl",
+      "text": "PORTE DE FLANDRE / VLAAMSEPOORT"
+     },
+     {
+      "language": "fr",
+      "text": "PORTE DE FLANDRE / VLAAMSEPOORT"
+     }
+    ],
+    "station_id": "3"
+   },
+   {
+    "address": "JARDIN AUX FLEURS/BLOEMENHOF - PLACE DU JARDIN AUX FLEURS/BLOEMENHOFPLEIN - RUE DES 6 JETONS/ZES PENNIGENSTRAAT 71",
+    "capacity": 20,
+    "lat": 50.847865,
+    "lon": 4.343521,
+    "name": [
+     {
+      "language": "en",
+      "text": "JARDIN AUX FLEURS / BLOEMENHOF"
+     },
+     {
+      "language": "nl",
+      "text": "JARDIN AUX FLEURS / BLOEMENHOF"
+     },
+     {
+      "language": "fr",
+      "text": "JARDIN AUX FLEURS / BLOEMENHOF"
+     }
+    ],
+    "station_id": "4"
+   },
+   {
+    "address": "",
+    "capacity": 44,
+    "lat": 50.848893,
+    "lon": 4.349396,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "5"
+   },
+   {
+    "address": "GARE CENTRALE/CENTRAAL STATION - BLD DE L'IMPERATRICE/KEIZERINLAAN",
+    "capacity": 40,
+    "lat": 50.845333,
+    "lon": 4.356475,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE CENTRALE / CENTRAAL STATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE CENTRALE / CENTRAAL STATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE CENTRALE / CENTRAAL STATION"
+     }
+    ],
+    "station_id": "6"
+   },
+   {
+    "address": "PARC/PARK - RUE ROYALE  (FACE N°66-68)/KONINGSSTRAAT (TEGENOVER N°66-68)",
+    "capacity": 25,
+    "lat": 50.846319,
+    "lon": 4.362244,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARC / PARK"
+     },
+     {
+      "language": "nl",
+      "text": "PARC / PARK"
+     },
+     {
+      "language": "fr",
+      "text": "PARC / PARK"
+     }
+    ],
+    "station_id": "7"
+   },
+   {
+    "address": "Av. des Arts 24 / Kunstlaan 24",
+    "capacity": 42,
+    "lat": 50.845683,
+    "lon": 4.368582,
+    "name": [
+     {
+      "language": "en",
+      "text": "ARTS-LOI / KUNST-WET"
+     },
+     {
+      "language": "nl",
+      "text": "ARTS-LOI / KUNST-WET"
+     },
+     {
+      "language": "fr",
+      "text": "ARTS-LOI / KUNST-WET"
+     }
+    ],
+    "station_id": "8"
+   },
+   {
+    "address": "Bd Maurice Lemonnier 44 / Maurice Lemonnierlaan 44",
+    "capacity": 35,
+    "lat": 50.843974,
+    "lon": 4.345226,
+    "name": [
+     {
+      "language": "en",
+      "text": "ANNEESSENS"
+     },
+     {
+      "language": "nl",
+      "text": "ANNEESSENS"
+     },
+     {
+      "language": "fr",
+      "text": "ANNEESSENS"
+     }
+    ],
+    "station_id": "9"
+   },
+   {
+    "address": "Pl de la Chapelle / Kapelleplein",
+    "capacity": 20,
+    "lat": 50.841345,
+    "lon": 4.351729,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHAPELLE / KAPELLEKERK"
+     },
+     {
+      "language": "nl",
+      "text": "CHAPELLE / KAPELLEKERK"
+     },
+     {
+      "language": "fr",
+      "text": "CHAPELLE / KAPELLEKERK"
+     }
+    ],
+    "station_id": "10"
+   },
+   {
+    "address": "Rue de la Régence 20 / Regentschapsstraat 20",
+    "capacity": 17,
+    "lat": 50.840405,
+    "lon": 4.356998,
+    "name": [
+     {
+      "language": "en",
+      "text": "SABLON / ZAVEL"
+     },
+     {
+      "language": "nl",
+      "text": "SABLON / ZAVEL"
+     },
+     {
+      "language": "fr",
+      "text": "SABLON / ZAVEL"
+     }
+    ],
+    "station_id": "11"
+   },
+   {
+    "address": "Av Marnix / Marnixlaan 30",
+    "capacity": 32,
+    "lat": 50.840458,
+    "lon": 4.365981,
+    "name": [
+     {
+      "language": "en",
+      "text": "TRONE / TROON"
+     },
+     {
+      "language": "nl",
+      "text": "TRONE / TROON"
+     },
+     {
+      "language": "fr",
+      "text": "TRONE / TROON"
+     }
+    ],
+    "station_id": "12"
+   },
+   {
+    "address": "Bd Maurice Lemonnier / Maurice Lemonnierlaan 204",
+    "capacity": 25,
+    "lat": 50.840184,
+    "lon": 4.341324,
+    "name": [
+     {
+      "language": "en",
+      "text": "LEMONNIER"
+     },
+     {
+      "language": "nl",
+      "text": "LEMONNIER"
+     },
+     {
+      "language": "fr",
+      "text": "LEMONNIER"
+     }
+    ],
+    "station_id": "13"
+   },
+   {
+    "address": "PORTE DE NAMUR/NAAMSEPOORT - BOULEVARD DE WATERLOO 2",
+    "capacity": 42,
+    "lat": 50.838816,
+    "lon": 4.361557,
+    "name": [
+     {
+      "language": "en",
+      "text": "PORTE DE NAMUR / NAAMSEPOORT"
+     },
+     {
+      "language": "nl",
+      "text": "PORTE DE NAMUR / NAAMSEPOORT"
+     },
+     {
+      "language": "fr",
+      "text": "PORTE DE NAMUR / NAAMSEPOORT"
+     }
+    ],
+    "station_id": "14"
+   },
+   {
+    "address": "Av de Tervuren / Tervurenlaan 171",
+    "capacity": 25,
+    "lat": 50.837036,
+    "lon": 4.406826,
+    "name": [
+     {
+      "language": "en",
+      "text": "MONTGOMERY"
+     },
+     {
+      "language": "nl",
+      "text": "MONTGOMERY"
+     },
+     {
+      "language": "fr",
+      "text": "MONTGOMERY"
+     }
+    ],
+    "station_id": "15"
+   },
+   {
+    "address": "LOUISE/LOUIZA - PLACE LOUISE/LOUIZAPLEIN 53",
+    "capacity": 40,
+    "lat": 50.835968,
+    "lon": 4.355508,
+    "name": [
+     {
+      "language": "en",
+      "text": "LOUISE / LOUIZA"
+     },
+     {
+      "language": "nl",
+      "text": "LOUISE / LOUIZA"
+     },
+     {
+      "language": "fr",
+      "text": "LOUISE / LOUIZA"
+     }
+    ],
+    "station_id": "16"
+   },
+   {
+    "address": "Rue Sainte-Marie / Sint-Mariastraat 60",
+    "capacity": 18,
+    "lat": 50.855358,
+    "lon": 4.339465,
+    "name": [
+     {
+      "language": "en",
+      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+     },
+     {
+      "language": "nl",
+      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+     },
+     {
+      "language": "fr",
+      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+     }
+    ],
+    "station_id": "17"
+   },
+   {
+    "address": "GUTENBERG - Square Gutenberg (face n° 5) / Gutenbergsquare (tegenover n° 5)",
+    "capacity": 25,
+    "lat": 50.84771,
+    "lon": 4.377552,
+    "name": [
+     {
+      "language": "en",
+      "text": "GUTENBERG"
+     },
+     {
+      "language": "nl",
+      "text": "GUTENBERG"
+     },
+     {
+      "language": "fr",
+      "text": "GUTENBERG"
+     }
+    ],
+    "station_id": "18"
+   },
+   {
+    "address": "PLACE MORICHAR / MORICHARPLEIN - Rue des Étudiants / Studentenstraat 32 - 34",
+    "capacity": 20,
+    "lat": 50.828046,
+    "lon": 4.347596,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE MORICHAR / MORICHARPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE MORICHAR / MORICHARPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE MORICHAR / MORICHARPLEIN"
+     }
+    ],
+    "station_id": "19"
+   },
+   {
+    "address": "Rue Royale 14 / Koninklijkestraat 14",
+    "capacity": 20,
+    "lat": 50.843613,
+    "lon": 4.360628,
+    "name": [
+     {
+      "language": "en",
+      "text": "PALAIS ROYAL / KONINKLIJK PALEIS"
+     },
+     {
+      "language": "nl",
+      "text": "PALAIS ROYAL / KONINKLIJK PALEIS"
+     },
+     {
+      "language": "fr",
+      "text": "PALAIS ROYAL / KONINKLIJK PALEIS"
+     }
+    ],
+    "station_id": "20"
+   },
+   {
+    "address": "DE BROUCKERE - PLACE DE BROUCKERE/DE BROUCKEREPLEIN",
+    "capacity": 43,
+    "lat": 50.85223,
+    "lon": 4.35316,
+    "name": [
+     {
+      "language": "en",
+      "text": "DE BROUCKERE"
+     },
+     {
+      "language": "nl",
+      "text": "DE BROUCKERE"
+     },
+     {
+      "language": "fr",
+      "text": "DE BROUCKERE"
+     }
+    ],
+    "station_id": "21"
+   },
+   {
+    "address": "Bd du Jardin Botanique / Kruidtuinlaan 3",
+    "capacity": 23,
+    "lat": 50.85587,
+    "lon": 4.35585,
+    "name": [
+     {
+      "language": "en",
+      "text": "JACQMAIN"
+     },
+     {
+      "language": "nl",
+      "text": "JACQMAIN"
+     },
+     {
+      "language": "fr",
+      "text": "JACQMAIN"
+     }
+    ],
+    "station_id": "22"
+   },
+   {
+    "address": "AGORA - Place Agora / Agoraplein 120",
+    "capacity": 19,
+    "lat": 50.846331,
+    "lon": 4.355193,
+    "name": [
+     {
+      "language": "en",
+      "text": "AGORA"
+     },
+     {
+      "language": "nl",
+      "text": "AGORA"
+     },
+     {
+      "language": "fr",
+      "text": "AGORA"
+     }
+    ],
+    "station_id": "23"
+   },
+   {
+    "address": "Pl. Rogier / Rogierplein 1",
+    "capacity": 36,
+    "lat": 50.855268,
+    "lon": 4.358717,
+    "name": [
+     {
+      "language": "en",
+      "text": "ROGIER"
+     },
+     {
+      "language": "nl",
+      "text": "ROGIER"
+     },
+     {
+      "language": "fr",
+      "text": "ROGIER"
+     }
+    ],
+    "station_id": "24"
+   },
+   {
+    "address": "PORTE D'ANDERLECHT - BD DE L'ABATTOIR, 43-44",
+    "capacity": 25,
+    "lat": 50.845769,
+    "lon": 4.338961,
+    "name": [
+     {
+      "language": "en",
+      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+     },
+     {
+      "language": "nl",
+      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+     },
+     {
+      "language": "fr",
+      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+     }
+    ],
+    "station_id": "25"
+   },
+   {
+    "address": "VAN LINT - RUE VAN LINT/ VAN LINTSTRAAT 6 - 8",
+    "capacity": 23,
+    "lat": 50.839413,
+    "lon": 4.328914,
+    "name": [
+     {
+      "language": "en",
+      "text": "VAN LINT"
+     },
+     {
+      "language": "nl",
+      "text": "VAN LINT"
+     },
+     {
+      "language": "fr",
+      "text": "VAN LINT"
+     }
+    ],
+    "station_id": "26"
+   },
+   {
+    "address": "SQUARE ALBERT I / ALBERT I-SQUARE 25 - 26 - 27",
+    "capacity": 25,
+    "lat": 50.838733,
+    "lon": 4.32176,
+    "name": [
+     {
+      "language": "en",
+      "text": "SQUARE ALBERT I / ALBERT I SQUARE"
+     },
+     {
+      "language": "nl",
+      "text": "SQUARE ALBERT I / ALBERT I SQUARE"
+     },
+     {
+      "language": "fr",
+      "text": "SQUARE ALBERT I / ALBERT I SQUARE"
+     }
+    ],
+    "station_id": "27"
+   },
+   {
+    "address": "Chaussée de Mons 163 / Bergensesteenweg 163",
+    "capacity": 27,
+    "lat": 50.842098,
+    "lon": 4.330422,
+    "name": [
+     {
+      "language": "en",
+      "text": "CLEMENCEAU"
+     },
+     {
+      "language": "nl",
+      "text": "CLEMENCEAU"
+     },
+     {
+      "language": "fr",
+      "text": "CLEMENCEAU"
+     }
+    ],
+    "station_id": "28"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.856584,
+    "lon": 4.352877,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "29"
+   },
+   {
+    "address": "Rue de Laeken 109 / Lakensestraat 109",
+    "capacity": 25,
+    "lat": 50.853666,
+    "lon": 4.351771,
+    "name": [
+     {
+      "language": "en",
+      "text": "LAEKEN / LAKEN"
+     },
+     {
+      "language": "nl",
+      "text": "LAEKEN / LAKEN"
+     },
+     {
+      "language": "fr",
+      "text": "LAEKEN / LAKEN"
+     }
+    ],
+    "station_id": "30"
+   },
+   {
+    "address": "MUSEE DE LA BD/STRIPMUSEUM - BOULEVARD DE BERLAIMONT/DE BERLAIMONTLAAN",
+    "capacity": 25,
+    "lat": 50.850303,
+    "lon": 4.360706,
+    "name": [
+     {
+      "language": "en",
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
+     },
+     {
+      "language": "nl",
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
+     },
+     {
+      "language": "fr",
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
+     }
+    ],
+    "station_id": "31"
+   },
+   {
+    "address": "Rue Antoine Dansaert 64 / Antoine Dansaertstraat 64",
+    "capacity": 35,
+    "lat": 50.850224,
+    "lon": 4.346137,
+    "name": [
+     {
+      "language": "en",
+      "text": "DANSAERT"
+     },
+     {
+      "language": "nl",
+      "text": "DANSAERT"
+     },
+     {
+      "language": "fr",
+      "text": "DANSAERT"
+     }
+    ],
+    "station_id": "32"
+   },
+   {
+    "address": "MORT SUBITE - RUE MONTAGNE AUX-HERBES-POTAGERES (FACE N° 7)/WARMOESBERG (TEGENOVER N°7)",
+    "capacity": 25,
+    "lat": 50.848701,
+    "lon": 4.356055,
+    "name": [
+     {
+      "language": "en",
+      "text": "MORT SUBITE"
+     },
+     {
+      "language": "nl",
+      "text": "MORT SUBITE"
+     },
+     {
+      "language": "fr",
+      "text": "MORT SUBITE"
+     }
+    ],
+    "station_id": "33"
+   },
+   {
+    "address": "Bd Anspach 190 / Anspachlaan 190",
+    "capacity": 35,
+    "lat": 50.84563,
+    "lon": 4.346942,
+    "name": [
+     {
+      "language": "en",
+      "text": "FONTAINAS"
+     },
+     {
+      "language": "nl",
+      "text": "FONTAINAS"
+     },
+     {
+      "language": "fr",
+      "text": "FONTAINAS"
+     }
+    ],
+    "station_id": "34"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.845814,
+    "lon": 4.358013,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "35"
+   },
+   {
+    "address": "Rue du Lombard 42 / Lombardstraat 42",
+    "capacity": 35,
+    "lat": 50.845224,
+    "lon": 4.351484,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE SAINT-JEAN / SINT-JANSPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE SAINT-JEAN / SINT-JANSPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE SAINT-JEAN / SINT-JANSPLEIN"
+     }
+    ],
+    "station_id": "36"
+   },
+   {
+    "address": "POELAERT - Place Poelaert / Poelaertplein 3",
+    "capacity": 25,
+    "lat": 50.83795,
+    "lon": 4.353019,
+    "name": [
+     {
+      "language": "en",
+      "text": "POELAERT"
+     },
+     {
+      "language": "nl",
+      "text": "POELAERT"
+     },
+     {
+      "language": "fr",
+      "text": "POELAERT"
+     }
+    ],
+    "station_id": "37"
+   },
+   {
+    "address": "JEU DE BALLE/VOSSENPLEIN - RUE BLAES/BLAESSTRAAT 135-141",
+    "capacity": 19,
+    "lat": 50.837912,
+    "lon": 4.347421,
+    "name": [
+     {
+      "language": "en",
+      "text": "JEU DE BALLE / VOSSENPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "JEU DE BALLE / VOSSENPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "JEU DE BALLE / VOSSENPLEIN"
+     }
+    ],
+    "station_id": "38"
+   },
+   {
+    "address": "Bd de Waterloo / Waterloolaan 96",
+    "capacity": 25,
+    "lat": 50.834237,
+    "lon": 4.350732,
+    "name": [
+     {
+      "language": "en",
+      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
+     },
+     {
+      "language": "nl",
+      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
+     },
+     {
+      "language": "fr",
+      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
+     }
+    ],
+    "station_id": "39"
+   },
+   {
+    "address": "PORTE DE HAL/HALLEPOORT - BOULEVARD DU MIDI/ZUIDLAAN 142",
+    "capacity": 25,
+    "lat": 50.833931,
+    "lon": 4.343155,
+    "name": [
+     {
+      "language": "en",
+      "text": "PORTE DE HAL / HALLEPOORT"
+     },
+     {
+      "language": "nl",
+      "text": "PORTE DE HAL / HALLEPOORT"
+     },
+     {
+      "language": "fr",
+      "text": "PORTE DE HAL / HALLEPOORT"
+     }
+    ],
+    "station_id": "40"
+   },
+   {
+    "address": "SAINT-ROCH / SINT-ROCHUS - Chau. d'Anvers / Antwerpselaan 37",
+    "capacity": 24,
+    "lat": 50.859302,
+    "lon": 4.35485,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINT-ROCH / SINT-ROCHUS"
+     },
+     {
+      "language": "nl",
+      "text": "SAINT-ROCH / SINT-ROCHUS"
+     },
+     {
+      "language": "fr",
+      "text": "SAINT-ROCH / SINT-ROCHUS"
+     }
+    ],
+    "station_id": "41"
+   },
+   {
+    "address": "Bd de l'Abattoir 7 / Slachthuislaan 7",
+    "capacity": 25,
+    "lat": 50.84851,
+    "lon": 4.338064,
+    "name": [
+     {
+      "language": "en",
+      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+     },
+     {
+      "language": "nl",
+      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+     },
+     {
+      "language": "fr",
+      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+     }
+    ],
+    "station_id": "42"
+   },
+   {
+    "address": "JOSEPH II/JOZEF II - RUE JOSEPH II/JOZEF II-STRAAT",
+    "capacity": 25,
+    "lat": 50.845256,
+    "lon": 4.374501,
+    "name": [
+     {
+      "language": "en",
+      "text": "JOSEPH II / JOZEF II"
+     },
+     {
+      "language": "nl",
+      "text": "JOSEPH II / JOZEF II"
+     },
+     {
+      "language": "fr",
+      "text": "JOSEPH II / JOZEF II"
+     }
+    ],
+    "station_id": "43"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.841707,
+    "lon": 4.370986,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "44"
+   },
+   {
+    "address": "STEPHANIE / STEFANIA - Av. Louise / Louizalaan 61A-63-65",
+    "capacity": 25,
+    "lat": 50.83308,
+    "lon": 4.35743,
+    "name": [
+     {
+      "language": "en",
+      "text": "STEPHANIE / STEFANIA"
+     },
+     {
+      "language": "nl",
+      "text": "STEPHANIE / STEFANIA"
+     },
+     {
+      "language": "fr",
+      "text": "STEPHANIE / STEFANIA"
+     }
+    ],
+    "station_id": "45"
+   },
+   {
+    "address": "ALBERTINE/ALBERTINA - BLD DE L'EMPEREUR/KEIZERSLAAN 3",
+    "capacity": 24,
+    "lat": 50.843892,
+    "lon": 4.355012,
+    "name": [
+     {
+      "language": "en",
+      "text": "ALBERTINE / ALBERTINA"
+     },
+     {
+      "language": "nl",
+      "text": "ALBERTINE / ALBERTINA"
+     },
+     {
+      "language": "fr",
+      "text": "ALBERTINE / ALBERTINA"
+     }
+    ],
+    "station_id": "46"
+   },
+   {
+    "address": "Quai à la Chaux / Kalkkaai 1",
+    "capacity": 20,
+    "lat": 50.854714,
+    "lon": 4.347151,
+    "name": [
+     {
+      "language": "en",
+      "text": "LES QUAIS / KAAIEN"
+     },
+     {
+      "language": "nl",
+      "text": "LES QUAIS / KAAIEN"
+     },
+     {
+      "language": "fr",
+      "text": "LES QUAIS / KAAIEN"
+     }
+    ],
+    "station_id": "47"
+   },
+   {
+    "address": "Rue Royale / Koningstraat 140",
+    "capacity": 23,
+    "lat": 50.849358,
+    "lon": 4.363589,
+    "name": [
+     {
+      "language": "en",
+      "text": "CONGRES"
+     },
+     {
+      "language": "nl",
+      "text": "CONGRES"
+     },
+     {
+      "language": "fr",
+      "text": "CONGRES"
+     }
+    ],
+    "station_id": "48"
+   },
+   {
+    "address": "WILLEBROECK / WILLEBROEK - Quai de Willebroeck / Willebroekkaai 22",
+    "capacity": 25,
+    "lat": 50.8615,
+    "lon": 4.351143,
+    "name": [
+     {
+      "language": "en",
+      "text": "WILLEBROECK / WILLEBROEK"
+     },
+     {
+      "language": "nl",
+      "text": "WILLEBROECK / WILLEBROEK"
+     },
+     {
+      "language": "fr",
+      "text": "WILLEBROECK / WILLEBROEK"
+     }
+    ],
+    "station_id": "49"
+   },
+   {
+    "address": "Bd Léopold II 119 / Leopold II-laan 119",
+    "capacity": 25,
+    "lat": 50.860862,
+    "lon": 4.339182,
+    "name": [
+     {
+      "language": "en",
+      "text": "RIBAUCOURT"
+     },
+     {
+      "language": "nl",
+      "text": "RIBAUCOURT"
+     },
+     {
+      "language": "fr",
+      "text": "RIBAUCOURT"
+     }
+    ],
+    "station_id": "50"
+   },
+   {
+    "address": "Rue d'Angleterre 2 / Engelandstraat 2",
+    "capacity": 25,
+    "lat": 50.835699,
+    "lon": 4.338826,
+    "name": [
+     {
+      "language": "en",
+      "text": "MIDI FONSNY / ZUID FONSNY"
+     },
+     {
+      "language": "nl",
+      "text": "MIDI FONSNY / ZUID FONSNY"
+     },
+     {
+      "language": "fr",
+      "text": "MIDI FONSNY / ZUID FONSNY"
+     }
+    ],
+    "station_id": "51"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.859212,
+    "lon": 4.34551,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "52"
+   },
+   {
+    "address": "Rue Ernest Blerot / Ernest Blerotstraat 1",
+    "capacity": 40,
+    "lat": 50.837499,
+    "lon": 4.335947,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DU MIDI / ZUIDSTATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DU MIDI / ZUIDSTATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DU MIDI / ZUIDSTATION"
+     }
+    ],
+    "station_id": "53"
+   },
+   {
+    "address": "Rue Picard 3 / Picardstraat 3",
+    "capacity": 39,
+    "lat": 50.863445,
+    "lon": 4.34635,
+    "name": [
+     {
+      "language": "en",
+      "text": "TOUR ET TAXIS / THURN & TAXIS"
+     },
+     {
+      "language": "nl",
+      "text": "TOUR ET TAXIS / THURN & TAXIS"
+     },
+     {
+      "language": "fr",
+      "text": "TOUR ET TAXIS / THURN & TAXIS"
+     }
+    ],
+    "station_id": "54"
+   },
+   {
+    "address": "Av. Galilée / Galileelaan",
+    "capacity": 25,
+    "lat": 50.853248,
+    "lon": 4.366188,
+    "name": [
+     {
+      "language": "en",
+      "text": "BOTANIQUE / KRUIDTUIN"
+     },
+     {
+      "language": "nl",
+      "text": "BOTANIQUE / KRUIDTUIN"
+     },
+     {
+      "language": "fr",
+      "text": "BOTANIQUE / KRUIDTUIN"
+     }
+    ],
+    "station_id": "55"
+   },
+   {
+    "address": "ARCHIMEDE / ARCHIMEDES - RUE ARCHIMEDE/ARCHIMEDESSTRAAT 58-64",
+    "capacity": 25,
+    "lat": 50.845817,
+    "lon": 4.383722,
+    "name": [
+     {
+      "language": "en",
+      "text": "ARCHIMEDE / ARCHIMEDES"
+     },
+     {
+      "language": "nl",
+      "text": "ARCHIMEDE / ARCHIMEDES"
+     },
+     {
+      "language": "fr",
+      "text": "ARCHIMEDE / ARCHIMEDES"
+     }
+    ],
+    "station_id": "56"
+   },
+   {
+    "address": "MADOU - Av. des Arts / Kunstlaan 1 - 2",
+    "capacity": 24,
+    "lat": 50.848712,
+    "lon": 4.369509,
+    "name": [
+     {
+      "language": "en",
+      "text": "MADOU"
+     },
+     {
+      "language": "nl",
+      "text": "MADOU"
+     },
+     {
+      "language": "fr",
+      "text": "MADOU"
+     }
+    ],
+    "station_id": "57"
+   },
+   {
+    "address": "GARE DU NORD/NOORDSTATION - PLACE DU NORD / NOORDPLAATS",
+    "capacity": 43,
+    "lat": 50.859181,
+    "lon": 4.35942,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DU NORD / NOORDSTATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DU NORD / NOORDSTATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DU NORD / NOORDSTATION"
+     }
+    ],
+    "station_id": "58"
+   },
+   {
+    "address": "Rue Willems / Willemstraat 2",
+    "capacity": 24,
+    "lat": 50.849681,
+    "lon": 4.375312,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
+     }
+    ],
+    "station_id": "59"
+   },
+   {
+    "address": "Pl. Saint-Lazare 5 / Sint-Lazarusplein 5",
+    "capacity": 14,
+    "lat": 50.857385,
+    "lon": 4.361858,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINT-LAZARE / SINT-LAZARUS"
+     },
+     {
+      "language": "nl",
+      "text": "SAINT-LAZARE / SINT-LAZARUS"
+     },
+     {
+      "language": "fr",
+      "text": "SAINT-LAZARE / SINT-LAZARUS"
+     }
+    ],
+    "station_id": "60"
+   },
+   {
+    "address": "MAELBEEK/MAALBEEK - CHAUSSEE D'ETTERBEEK/ETTERBEEKSESTEENWEG 15",
+    "capacity": 35,
+    "lat": 50.843836,
+    "lon": 4.378002,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAELBEEK / MAALBEEK"
+     },
+     {
+      "language": "nl",
+      "text": "MAELBEEK / MAALBEEK"
+     },
+     {
+      "language": "fr",
+      "text": "MAELBEEK / MAALBEEK"
+     }
+    ],
+    "station_id": "61"
+   },
+   {
+    "address": "CORTENBERGH / KORTENBERG - AVENUE D'AUDERGHEM 1 - 9 /OUDERGHEMLAAN 1-9",
+    "capacity": 35,
+    "lat": 50.84177,
+    "lon": 4.38418,
+    "name": [
+     {
+      "language": "en",
+      "text": "CORTENBERGH / KORTENBERG"
+     },
+     {
+      "language": "nl",
+      "text": "CORTENBERGH / KORTENBERG"
+     },
+     {
+      "language": "fr",
+      "text": "CORTENBERGH / KORTENBERG"
+     }
+    ],
+    "station_id": "62"
+   },
+   {
+    "address": "JULES CESAR - AVENUE DE TERVUREN DEVANT / TERVURENLAAN VOOR 278",
+    "capacity": 20,
+    "lat": 50.834705,
+    "lon": 4.421643,
+    "name": [
+     {
+      "language": "en",
+      "text": "JULES CESAR / JULIUS CAESAR"
+     },
+     {
+      "language": "nl",
+      "text": "JULES CESAR / JULIUS CAESAR"
+     },
+     {
+      "language": "fr",
+      "text": "JULES CESAR / JULIUS CAESAR"
+     }
+    ],
+    "station_id": "63"
+   },
+   {
+    "address": "VETERINAIRES/VEEARTSEN - RUE DE FRANCE / FRANKRIJKSTRAAT",
+    "capacity": 25,
+    "lat": 50.832749,
+    "lon": 4.331058,
+    "name": [
+     {
+      "language": "en",
+      "text": "VETERINAIRES / VEEARTSEN"
+     },
+     {
+      "language": "nl",
+      "text": "VETERINAIRES / VEEARTSEN"
+     },
+     {
+      "language": "fr",
+      "text": "VETERINAIRES / VEEARTSEN"
+     }
+    ],
+    "station_id": "64"
+   },
+   {
+    "address": "Chau. de Waterloo 65 / Waterloosesteenweg 65",
+    "capacity": 25,
+    "lat": 50.829985,
+    "lon": 4.344557,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARVIS DE ST-GILLES / ST-GILLISVOORPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PARVIS DE ST-GILLES / ST-GILLISVOORPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PARVIS DE ST-GILLES / ST-GILLISVOORPLEIN"
+     }
+    ],
+    "station_id": "65"
+   },
+   {
+    "address": "SCHUMAN - RUE DE LA LOI 170",
+    "capacity": 40,
+    "lat": 50.843359,
+    "lon": 4.379946,
+    "name": [
+     {
+      "language": "en",
+      "text": "SCHUMAN"
+     },
+     {
+      "language": "nl",
+      "text": "SCHUMAN"
+     },
+     {
+      "language": "fr",
+      "text": "SCHUMAN"
+     }
+    ],
+    "station_id": "66"
+   },
+   {
+    "address": "PARC CINQUANTENAIRE/JUBELPARK - AVENUE D'AUDERGHEM/OUDERGEMSESTEENWEG 45",
+    "capacity": 35,
+    "lat": 50.83975,
+    "lon": 4.385426,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARC CINQUANTENAIRE / JUBELPARK"
+     },
+     {
+      "language": "nl",
+      "text": "PARC CINQUANTENAIRE / JUBELPARK"
+     },
+     {
+      "language": "fr",
+      "text": "PARC CINQUANTENAIRE / JUBELPARK"
+     }
+    ],
+    "station_id": "67"
+   },
+   {
+    "address": "JEAN REY - PLACE JEAN REY/JEAN REYPLAATS",
+    "capacity": 33,
+    "lat": 50.840282,
+    "lon": 4.380131,
+    "name": [
+     {
+      "language": "en",
+      "text": "JEAN REY"
+     },
+     {
+      "language": "nl",
+      "text": "JEAN REY"
+     },
+     {
+      "language": "fr",
+      "text": "JEAN REY"
+     }
+    ],
+    "station_id": "68"
+   },
+   {
+    "address": "LESBROUSSART - AVENUE LOUISE/LOUIZALAAN 192",
+    "capacity": 29,
+    "lat": 50.827577,
+    "lon": 4.363797,
+    "name": [
+     {
+      "language": "en",
+      "text": "LESBROUSSART"
+     },
+     {
+      "language": "nl",
+      "text": "LESBROUSSART"
+     },
+     {
+      "language": "fr",
+      "text": "LESBROUSSART"
+     }
+    ],
+    "station_id": "69"
+   },
+   {
+    "address": "AURORE / DAGERAAD - Av. Louise / Louizalaan 440",
+    "capacity": 25,
+    "lat": 50.818113,
+    "lon": 4.371446,
+    "name": [
+     {
+      "language": "en",
+      "text": "AURORE / DAGERAAD"
+     },
+     {
+      "language": "nl",
+      "text": "AURORE / DAGERAAD"
+     },
+     {
+      "language": "fr",
+      "text": "AURORE / DAGERAAD"
+     }
+    ],
+    "station_id": "70"
+   },
+   {
+    "address": "Av. Louise 525 / Louizalaan 525",
+    "capacity": 22,
+    "lat": 50.815019,
+    "lon": 4.371982,
+    "name": [
+     {
+      "language": "en",
+      "text": "LEGRAND"
+     },
+     {
+      "language": "nl",
+      "text": "LEGRAND"
+     },
+     {
+      "language": "fr",
+      "text": "LEGRAND"
+     }
+    ],
+    "station_id": "71"
+   },
+   {
+    "address": "ULB SOLBOSCH / VUB SOLBOSCH - AV. F.ROOSEVELT/F.ROOSEVELTLAAN 19",
+    "capacity": 24,
+    "lat": 50.812489,
+    "lon": 4.379203,
+    "name": [
+     {
+      "language": "en",
+      "text": "ULB SOLBOSCH / VUB  SOLBOSCH"
+     },
+     {
+      "language": "nl",
+      "text": "ULB SOLBOSCH / VUB  SOLBOSCH"
+     },
+     {
+      "language": "fr",
+      "text": "ULB SOLBOSCH / VUB  SOLBOSCH"
+     }
+    ],
+    "station_id": "72"
+   },
+   {
+    "address": "Av. Louise 300 / Louizalaan 300",
+    "capacity": 25,
+    "lat": 50.823898,
+    "lon": 4.367752,
+    "name": [
+     {
+      "language": "en",
+      "text": "VLEURGAT"
+     },
+     {
+      "language": "nl",
+      "text": "VLEURGAT"
+     },
+     {
+      "language": "fr",
+      "text": "VLEURGAT"
+     }
+    ],
+    "station_id": "73"
+   },
+   {
+    "address": "PLACE LOIX / LOIXPLEIN - Rue Berckmans / Berckmansstraat 78 - 84",
+    "capacity": 24,
+    "lat": 50.831936,
+    "lon": 4.353037,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE LOIX / LOIXPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE LOIX / LOIXPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE LOIX / LOIXPLEIN"
+     }
+    ],
+    "station_id": "74"
+   },
+   {
+    "address": "GENERAL BARON / GENERAAL BARON - Av. du Parc / Parklaan 51 - 55",
+    "capacity": 25,
+    "lat": 50.825888,
+    "lon": 4.340388,
+    "name": [
+     {
+      "language": "en",
+      "text": "GENERAL BARON / GENERAAL BARON"
+     },
+     {
+      "language": "nl",
+      "text": "GENERAL BARON / GENERAAL BARON"
+     },
+     {
+      "language": "fr",
+      "text": "GENERAL BARON / GENERAAL BARON"
+     }
+    ],
+    "station_id": "75"
+   },
+   {
+    "address": "Av. Paul Dejaer 31 / Paul Dejaerlaan 31",
+    "capacity": 25,
+    "lat": 50.825749,
+    "lon": 4.345165,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE VAN MEENEN / VAN MEENENPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE VAN MEENEN / VAN MEENENPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE VAN MEENEN / VAN MEENENPLEIN"
+     }
+    ],
+    "station_id": "76"
+   },
+   {
+    "address": "PAUL JANSON - CHAUSSEE DE CHARLEROI/ CHARLEROISESTEENWEG 159",
+    "capacity": 25,
+    "lat": 50.827399,
+    "lon": 4.355281,
+    "name": [
+     {
+      "language": "en",
+      "text": "PAUL JANSON"
+     },
+     {
+      "language": "nl",
+      "text": "PAUL JANSON"
+     },
+     {
+      "language": "fr",
+      "text": "PAUL JANSON"
+     }
+    ],
+    "station_id": "77"
+   },
+   {
+    "address": "DUCPETIAUX - CHAUSSEE DE WATERLOO/ WATERLOOSESTEENWEG 376 - 370",
+    "capacity": 25,
+    "lat": 50.823699,
+    "lon": 4.351623,
+    "name": [
+     {
+      "language": "en",
+      "text": "DUCPETIAUX"
+     },
+     {
+      "language": "nl",
+      "text": "DUCPETIAUX"
+     },
+     {
+      "language": "fr",
+      "text": "DUCPETIAUX"
+     }
+    ],
+    "station_id": "78"
+   },
+   {
+    "address": "LOI/WET - RUE D'ARLON/STRAAT 120",
+    "capacity": 22,
+    "lat": 50.84413,
+    "lon": 4.374871,
+    "name": [
+     {
+      "language": "en",
+      "text": "LOI / WET"
+     },
+     {
+      "language": "nl",
+      "text": "LOI / WET"
+     },
+     {
+      "language": "fr",
+      "text": "LOI / WET"
+     }
+    ],
+    "station_id": "79"
+   },
+   {
+    "address": "CERES - AV. F. ROOSEVELT/F. ROOSEVELTLAAN, 14",
+    "capacity": 20,
+    "lat": 50.814852,
+    "lon": 4.376794,
+    "name": [
+     {
+      "language": "en",
+      "text": "CERES"
+     },
+     {
+      "language": "nl",
+      "text": "CERES"
+     },
+     {
+      "language": "fr",
+      "text": "CERES"
+     }
+    ],
+    "station_id": "80"
+   },
+   {
+    "address": "PONT BOCKSTAEL / BRUG BOCKSTAEL - Bd Emile Bockstael / Emile Bockstaellaan 5",
+    "capacity": 25,
+    "lat": 50.870259,
+    "lon": 4.343195,
+    "name": [
+     {
+      "language": "en",
+      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
+     },
+     {
+      "language": "nl",
+      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
+     },
+     {
+      "language": "fr",
+      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
+     }
+    ],
+    "station_id": "81"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.872811,
+    "lon": 4.341149,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "82"
+   },
+   {
+    "address": "Bd Léopold II 280 / Leopold II-laan 280",
+    "capacity": 29,
+    "lat": 50.86284,
+    "lon": 4.33126,
+    "name": [
+     {
+      "language": "en",
+      "text": "SIMONIS"
+     },
+     {
+      "language": "nl",
+      "text": "SIMONIS"
+     },
+     {
+      "language": "fr",
+      "text": "SIMONIS"
+     }
+    ],
+    "station_id": "83"
+   },
+   {
+    "address": "SAINTE-ANNE / SINT-ANNA - Rue de l'Église Sainte-Anne / Sint-Annakerkstraat 116",
+    "capacity": 20,
+    "lat": 50.85896,
+    "lon": 4.330107,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINTE-ANNE / SINT-ANNA"
+     },
+     {
+      "language": "nl",
+      "text": "SAINTE-ANNE / SINT-ANNA"
+     },
+     {
+      "language": "fr",
+      "text": "SAINTE-ANNE / SINT-ANNA"
+     }
+    ],
+    "station_id": "84"
+   },
+   {
+    "address": "ETANGS NOIRS / ZWARTE VIJVERS - Chau. de Gand / Gentsesteenweg 182",
+    "capacity": 25,
+    "lat": 50.857266,
+    "lon": 4.332368,
+    "name": [
+     {
+      "language": "en",
+      "text": "ETANGS NOIRS / ZWARTE VIJVERS"
+     },
+     {
+      "language": "nl",
+      "text": "ETANGS NOIRS / ZWARTE VIJVERS"
+     },
+     {
+      "language": "fr",
+      "text": "ETANGS NOIRS / ZWARTE VIJVERS"
+     }
+    ],
+    "station_id": "85"
+   },
+   {
+    "address": "Chau. de Wemmel / Wemmelsesteenweg 102",
+    "capacity": 25,
+    "lat": 50.876195,
+    "lon": 4.324477,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAISON COMMUNALE JETTE / GEMEENTEHUIS JETTE"
+     },
+     {
+      "language": "nl",
+      "text": "MAISON COMMUNALE JETTE / GEMEENTEHUIS JETTE"
+     },
+     {
+      "language": "fr",
+      "text": "MAISON COMMUNALE JETTE / GEMEENTEHUIS JETTE"
+     }
+    ],
+    "station_id": "86"
+   },
+   {
+    "address": "MIROIR / SPIEGEL - Av. de Laeken (face 36) / Lakense Laan (tegenover 36)",
+    "capacity": 25,
+    "lat": 50.871391,
+    "lon": 4.323914,
+    "name": [
+     {
+      "language": "en",
+      "text": "MIROIR / SPIEGEL"
+     },
+     {
+      "language": "nl",
+      "text": "MIROIR / SPIEGEL"
+     },
+     {
+      "language": "fr",
+      "text": "MIROIR / SPIEGEL"
+     }
+    ],
+    "station_id": "87"
+   },
+   {
+    "address": "WOESTE - AVENUE NOTRE DAME DE LOURDES / ONZE-LIEVE-VROUW VAN LOURDESLAAN",
+    "capacity": 25,
+    "lat": 50.873354,
+    "lon": 4.334311,
+    "name": [
+     {
+      "language": "en",
+      "text": "WOESTE"
+     },
+     {
+      "language": "nl",
+      "text": "WOESTE"
+     },
+     {
+      "language": "fr",
+      "text": "WOESTE"
+     }
+    ],
+    "station_id": "88"
+   },
+   {
+    "address": "Av. de Levis Mirepoix 100 / de Levis Mirepoixlaan 100",
+    "capacity": 25,
+    "lat": 50.87106,
+    "lon": 4.32985,
+    "name": [
+     {
+      "language": "en",
+      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+     },
+     {
+      "language": "nl",
+      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+     },
+     {
+      "language": "fr",
+      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+     }
+    ],
+    "station_id": "89"
+   },
+   {
+    "address": "BROUSTIN - AV DE JETTE/ JETSELAAN 73 - 81",
+    "capacity": 17,
+    "lat": 50.867448,
+    "lon": 4.326807,
+    "name": [
+     {
+      "language": "en",
+      "text": "BROUSTIN"
+     },
+     {
+      "language": "nl",
+      "text": "BROUSTIN"
+     },
+     {
+      "language": "fr",
+      "text": "BROUSTIN"
+     }
+    ],
+    "station_id": "90"
+   },
+   {
+    "address": "Place Werrie / Werrieplein 24",
+    "capacity": 25,
+    "lat": 50.867773,
+    "lon": 4.335217,
+    "name": [
+     {
+      "language": "en",
+      "text": "BELGICA"
+     },
+     {
+      "language": "nl",
+      "text": "BELGICA"
+     },
+     {
+      "language": "fr",
+      "text": "BELGICA"
+     }
+    ],
+    "station_id": "91"
+   },
+   {
+    "address": "LENOIR - BLD DE SMET DE NAEYER/DE SMET DE NAEYERLAAN 187 - 189",
+    "capacity": 24,
+    "lat": 50.875826,
+    "lon": 4.329921,
+    "name": [
+     {
+      "language": "en",
+      "text": "LENOIR"
+     },
+     {
+      "language": "nl",
+      "text": "LENOIR"
+     },
+     {
+      "language": "fr",
+      "text": "LENOIR"
+     }
+    ],
+    "station_id": "92"
+   },
+   {
+    "address": "CLOVIS - CHAUSSEE DE LOUVAIN - LEUVENSESTEENWEG 260-264",
+    "capacity": 19,
+    "lat": 50.850333,
+    "lon": 4.380461,
+    "name": [
+     {
+      "language": "en",
+      "text": "CLOVIS"
+     },
+     {
+      "language": "nl",
+      "text": "CLOVIS"
+     },
+     {
+      "language": "fr",
+      "text": "CLOVIS"
+     }
+    ],
+    "station_id": "93"
+   },
+   {
+    "address": "DUCHESSE DE BRABANT / HERTOGIN VAN BRABANT - Rue de Birmingham / Birminghamstraat",
+    "capacity": 20,
+    "lat": 50.849215,
+    "lon": 4.329184,
+    "name": [
+     {
+      "language": "en",
+      "text": "DUCHESSE DE BRABANT / HERTOGIN VAN BRABANT"
+     },
+     {
+      "language": "nl",
+      "text": "DUCHESSE DE BRABANT / HERTOGIN VAN BRABANT"
+     },
+     {
+      "language": "fr",
+      "text": "DUCHESSE DE BRABANT / HERTOGIN VAN BRABANT"
+     }
+    ],
+    "station_id": "94"
+   },
+   {
+    "address": "PLACE BOCKSTAEL / BOCKSTAELPLAATS - Bd Emile Bockstael / Emile Bockstaellaan 254",
+    "capacity": 25,
+    "lat": 50.87808,
+    "lon": 4.34793,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE BOCKSTAEL / BOCKSTAELPLAATS"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE BOCKSTAEL / BOCKSTAELPLAATS"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE BOCKSTAEL / BOCKSTAELPLAATS"
+     }
+    ],
+    "station_id": "95"
+   },
+   {
+    "address": "Bd Roi Albert II / Koning Albert II-laan 37",
+    "capacity": 25,
+    "lat": 50.863875,
+    "lon": 4.358708,
+    "name": [
+     {
+      "language": "en",
+      "text": "HOTEL PRESIDENT / PRESIDENT HOTEL"
+     },
+     {
+      "language": "nl",
+      "text": "HOTEL PRESIDENT / PRESIDENT HOTEL"
+     },
+     {
+      "language": "fr",
+      "text": "HOTEL PRESIDENT / PRESIDENT HOTEL"
+     }
+    ],
+    "station_id": "96"
+   },
+   {
+    "address": "Av du Karreveld / Karreveldlaan 1",
+    "capacity": 25,
+    "lat": 50.858058,
+    "lon": 4.318689,
+    "name": [
+     {
+      "language": "en",
+      "text": "KARREVELD"
+     },
+     {
+      "language": "nl",
+      "text": "KARREVELD"
+     },
+     {
+      "language": "fr",
+      "text": "KARREVELD"
+     }
+    ],
+    "station_id": "97"
+   },
+   {
+    "address": "CIMETIERE / KERKHOF - Bd Mettewie 40 x Chau. de Gand / Mettewielaan 40 x Gentsesteenweg",
+    "capacity": 20,
+    "lat": 50.85904,
+    "lon": 4.312402,
+    "name": [
+     {
+      "language": "en",
+      "text": "CIMETIERE / KERKHOF"
+     },
+     {
+      "language": "nl",
+      "text": "CIMETIERE / KERKHOF"
+     },
+     {
+      "language": "fr",
+      "text": "CIMETIERE / KERKHOF"
+     }
+    ],
+    "station_id": "98"
+   },
+   {
+    "address": "Bd du Jubilé / Jubelfeestlaan 79",
+    "capacity": 25,
+    "lat": 50.864992,
+    "lon": 4.338431,
+    "name": [
+     {
+      "language": "en",
+      "text": "JUBILE / JUBELFEEST"
+     },
+     {
+      "language": "nl",
+      "text": "JUBILE / JUBELFEEST"
+     },
+     {
+      "language": "fr",
+      "text": "JUBILE / JUBELFEEST"
+     }
+    ],
+    "station_id": "99"
+   },
+   {
+    "address": "Rue de Trèves 26 / Trierstraat 26",
+    "capacity": 44,
+    "lat": 50.838411,
+    "lon": 4.37302,
+    "name": [
+     {
+      "language": "en",
+      "text": "LUXEMBOURG / LUXEMBURG"
+     },
+     {
+      "language": "nl",
+      "text": "LUXEMBOURG / LUXEMBURG"
+     },
+     {
+      "language": "fr",
+      "text": "LUXEMBOURG / LUXEMBURG"
+     }
+    ],
+    "station_id": "100"
+   },
+   {
+    "address": "Chaussée de Zellik / Zelliksesteenweg 4",
+    "capacity": 25,
+    "lat": 50.869204,
+    "lon": 4.291663,
+    "name": [
+     {
+      "language": "en",
+      "text": "ZELLIK"
+     },
+     {
+      "language": "nl",
+      "text": "ZELLIK"
+     },
+     {
+      "language": "fr",
+      "text": "ZELLIK"
+     }
+    ],
+    "station_id": "101"
+   },
+   {
+    "address": "Chau. de Wavre / Waversesteenweg 229",
+    "capacity": 25,
+    "lat": 50.83579,
+    "lon": 4.375782,
+    "name": [
+     {
+      "language": "en",
+      "text": "MUSEUM"
+     },
+     {
+      "language": "nl",
+      "text": "MUSEUM"
+     },
+     {
+      "language": "fr",
+      "text": "MUSEUM"
+     }
+    ],
+    "station_id": "102"
+   },
+   {
+    "address": "Rue du Prince Albert / Prins Albertstraat 9",
+    "capacity": 20,
+    "lat": 50.83479,
+    "lon": 4.363772,
+    "name": [
+     {
+      "language": "en",
+      "text": "ERNEST SOLVAY"
+     },
+     {
+      "language": "nl",
+      "text": "ERNEST SOLVAY"
+     },
+     {
+      "language": "fr",
+      "text": "ERNEST SOLVAY"
+     }
+    ],
+    "station_id": "103"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.833304,
+    "lon": 4.366611,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "104"
+   },
+   {
+    "address": "Chau. d'Ixelles 260 / Elsensesteenweg 260",
+    "capacity": 20,
+    "lat": 50.830077,
+    "lon": 4.369545,
+    "name": [
+     {
+      "language": "en",
+      "text": "DE HENNIN"
+     },
+     {
+      "language": "nl",
+      "text": "DE HENNIN"
+     },
+     {
+      "language": "fr",
+      "text": "DE HENNIN"
+     }
+    ],
+    "station_id": "105"
+   },
+   {
+    "address": "Av. de la Couronne / Kroonlaan 94",
+    "capacity": 25,
+    "lat": 50.830012,
+    "lon": 4.378625,
+    "name": [
+     {
+      "language": "en",
+      "text": "GERMOIR / MOUTERIJ"
+     },
+     {
+      "language": "nl",
+      "text": "GERMOIR / MOUTERIJ"
+     },
+     {
+      "language": "fr",
+      "text": "GERMOIR / MOUTERIJ"
+     }
+    ],
+    "station_id": "106"
+   },
+   {
+    "address": "DEFACQZ - RUE DEFACQZ/ DEFACQZSTRAAT 60",
+    "capacity": 25,
+    "lat": 50.827652,
+    "lon": 4.359031,
+    "name": [
+     {
+      "language": "en",
+      "text": "DEFACQZ"
+     },
+     {
+      "language": "nl",
+      "text": "DEFACQZ"
+     },
+     {
+      "language": "fr",
+      "text": "DEFACQZ"
+     }
+    ],
+    "station_id": "107"
+   },
+   {
+    "address": "Pl. Eugène Flagey 10 / Eugène Flageyplein 10",
+    "capacity": 35,
+    "lat": 50.828012,
+    "lon": 4.371756,
+    "name": [
+     {
+      "language": "en",
+      "text": "FLAGEY"
+     },
+     {
+      "language": "nl",
+      "text": "FLAGEY"
+     },
+     {
+      "language": "fr",
+      "text": "FLAGEY"
+     }
+    ],
+    "station_id": "108"
+   },
+   {
+    "address": "Rue de l'Aqueduc 113 / Aquaductstraat 113",
+    "capacity": 18,
+    "lat": 50.824048,
+    "lon": 4.359896,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHATELAIN / KASTELEIN"
+     },
+     {
+      "language": "nl",
+      "text": "CHATELAIN / KASTELEIN"
+     },
+     {
+      "language": "fr",
+      "text": "CHATELAIN / KASTELEIN"
+     }
+    ],
+    "station_id": "109"
+   },
+   {
+    "address": "RODIN - AVENUE DE LA COURONNE (DEVANT 145 D) / KROONLAAN (N° 145 D)",
+    "capacity": 22,
+    "lat": 50.826992,
+    "lon": 4.382379,
+    "name": [
+     {
+      "language": "en",
+      "text": "RODIN"
+     },
+     {
+      "language": "nl",
+      "text": "RODIN"
+     },
+     {
+      "language": "fr",
+      "text": "RODIN"
+     }
+    ],
+    "station_id": "110"
+   },
+   {
+    "address": "Bd du Souverain / Vorstlaan 275",
+    "capacity": 25,
+    "lat": 50.827831,
+    "lon": 4.431822,
+    "name": [
+     {
+      "language": "en",
+      "text": "ETANGS MELLAERTS / MELLAERTS VIJVERS"
+     },
+     {
+      "language": "nl",
+      "text": "ETANGS MELLAERTS / MELLAERTS VIJVERS"
+     },
+     {
+      "language": "fr",
+      "text": "ETANGS MELLAERTS / MELLAERTS VIJVERS"
+     }
+    ],
+    "station_id": "111"
+   },
+   {
+    "address": "Chaussée de Waterloo / Waterloosesteenweg 442",
+    "capacity": 18,
+    "lat": 50.821567,
+    "lon": 4.356508,
+    "name": [
+     {
+      "language": "en",
+      "text": "PAGE / EDELKNAAP"
+     },
+     {
+      "language": "nl",
+      "text": "PAGE / EDELKNAAP"
+     },
+     {
+      "language": "fr",
+      "text": "PAGE / EDELKNAAP"
+     }
+    ],
+    "station_id": "112"
+   },
+   {
+    "address": "ABBAYE DE LA CAMBRE/ABDIJ TER KAMEREN - AVENUE EMILE DURAY (FACE AU N° 2) /EMILE DURAYLAAN (TEGENOVER N° 2)",
+    "capacity": 20,
+    "lat": 50.820042,
+    "lon": 4.374785,
+    "name": [
+     {
+      "language": "en",
+      "text": "ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
+     },
+     {
+      "language": "nl",
+      "text": "ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
+     },
+     {
+      "language": "fr",
+      "text": "ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
+     }
+    ],
+    "station_id": "113"
+   },
+   {
+    "address": "Av. des Saisons / Jaargetijdenlaan 2",
+    "capacity": 25,
+    "lat": 50.820391,
+    "lon": 4.385358,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAISONS / JAARGETIJDEN"
+     },
+     {
+      "language": "nl",
+      "text": "SAISONS / JAARGETIJDEN"
+     },
+     {
+      "language": "fr",
+      "text": "SAISONS / JAARGETIJDEN"
+     }
+    ],
+    "station_id": "114"
+   },
+   {
+    "address": "Pl. de la Petite Suisse 17 / Klein-Zwitserlandplein 17",
+    "capacity": 24,
+    "lat": 50.817807,
+    "lon": 4.38547,
+    "name": [
+     {
+      "language": "en",
+      "text": "PETITE SUISSE / KLEIN-ZWITSERLAND"
+     },
+     {
+      "language": "nl",
+      "text": "PETITE SUISSE / KLEIN-ZWITSERLAND"
+     },
+     {
+      "language": "fr",
+      "text": "PETITE SUISSE / KLEIN-ZWITSERLAND"
+     }
+    ],
+    "station_id": "115"
+   },
+   {
+    "address": "Bd de la Plaine / Pleinlaan (ULB accès 2)",
+    "capacity": 25,
+    "lat": 50.818253,
+    "lon": 4.395749,
+    "name": [
+     {
+      "language": "en",
+      "text": "ULB PLAINE"
+     },
+     {
+      "language": "nl",
+      "text": "ULB PLAINE"
+     },
+     {
+      "language": "fr",
+      "text": "ULB PLAINE"
+     }
+    ],
+    "station_id": "116"
+   },
+   {
+    "address": "Av. de la Couronne / Kroonlaan 449",
+    "capacity": 34,
+    "lat": 50.816029,
+    "lon": 4.391006,
+    "name": [
+     {
+      "language": "en",
+      "text": "CIMETIERE D'IXELLES/BEGRAAFPLAATS VAN ELSENE"
+     },
+     {
+      "language": "nl",
+      "text": "CIMETIERE D'IXELLES/BEGRAAFPLAATS VAN ELSENE"
+     },
+     {
+      "language": "fr",
+      "text": "CIMETIERE D'IXELLES/BEGRAAFPLAATS VAN ELSENE"
+     }
+    ],
+    "station_id": "117"
+   },
+   {
+    "address": "SCHWEITZER - PLACE DOCTEUR SCHWEITZER",
+    "capacity": 25,
+    "lat": 50.864622,
+    "lon": 4.297878,
+    "name": [
+     {
+      "language": "en",
+      "text": "SCHWEITZER"
+     },
+     {
+      "language": "nl",
+      "text": "SCHWEITZER"
+     },
+     {
+      "language": "fr",
+      "text": "SCHWEITZER"
+     }
+    ],
+    "station_id": "118"
+   },
+   {
+    "address": "Rue Jean Paquot /Jean Paquotstraat 46",
+    "capacity": 20,
+    "lat": 50.82559,
+    "lon": 4.379555,
+    "name": [
+     {
+      "language": "en",
+      "text": "PAQUOT"
+     },
+     {
+      "language": "nl",
+      "text": "PAQUOT"
+     },
+     {
+      "language": "fr",
+      "text": "PAQUOT"
+     }
+    ],
+    "station_id": "119"
+   },
+   {
+    "address": "BLYCKAERTS - PLACE RAYMOND BLYCKAERTS/RAYMOND BLYCKAERTSPLEIN",
+    "capacity": 25,
+    "lat": 50.832872,
+    "lon": 4.37483,
+    "name": [
+     {
+      "language": "en",
+      "text": "BLYCKAERTS"
+     },
+     {
+      "language": "nl",
+      "text": "BLYCKAERTS"
+     },
+     {
+      "language": "fr",
+      "text": "BLYCKAERTS"
+     }
+    ],
+    "station_id": "120"
+   },
+   {
+    "address": "Av. Guillaume Macau 121 / Guillaume Macaulaan 121",
+    "capacity": 25,
+    "lat": 50.823986,
+    "lon": 4.37379,
+    "name": [
+     {
+      "language": "en",
+      "text": "ETANGS / VIJVERS"
+     },
+     {
+      "language": "nl",
+      "text": "ETANGS / VIJVERS"
+     },
+     {
+      "language": "fr",
+      "text": "ETANGS / VIJVERS"
+     }
+    ],
+    "station_id": "121"
+   },
+   {
+    "address": "Bd Général Jacques / Generaal Jacqueslaan",
+    "capacity": 30,
+    "lat": 50.822207,
+    "lon": 4.389325,
+    "name": [
+     {
+      "language": "en",
+      "text": "ETTERBEEK GARE / ETTERBEEK STATION"
+     },
+     {
+      "language": "nl",
+      "text": "ETTERBEEK GARE / ETTERBEEK STATION"
+     },
+     {
+      "language": "fr",
+      "text": "ETTERBEEK GARE / ETTERBEEK STATION"
+     }
+    ],
+    "station_id": "122"
+   },
+   {
+    "address": "Chau. de Vleurgat 316 / Vleurgatsesteenweg  316",
+    "capacity": 25,
+    "lat": 50.817507,
+    "lon": 4.366498,
+    "name": [
+     {
+      "language": "en",
+      "text": "BASCULE"
+     },
+     {
+      "language": "nl",
+      "text": "BASCULE"
+     },
+     {
+      "language": "fr",
+      "text": "BASCULE"
+     }
+    ],
+    "station_id": "123"
+   },
+   {
+    "address": "CHARLES GRAUX - CHAUSSEE DE WATERLOO (DEVANT N° 585 - 587)/ WATERLOOSESTEENWEG (N° 585 - 587)",
+    "capacity": 25,
+    "lat": 50.818283,
+    "lon": 4.363568,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHARLES GRAUX"
+     },
+     {
+      "language": "nl",
+      "text": "CHARLES GRAUX"
+     },
+     {
+      "language": "fr",
+      "text": "CHARLES GRAUX"
+     }
+    ],
+    "station_id": "124"
+   },
+   {
+    "address": "GEORGES BRUGMANN - PLACE GEORGES BRUGMANN/GEORGES BRUGMANNPLEIN N° 10 - 11",
+    "capacity": 25,
+    "lat": 50.817392,
+    "lon": 4.354105,
+    "name": [
+     {
+      "language": "en",
+      "text": "GEORGES BRUGMANN"
+     },
+     {
+      "language": "nl",
+      "text": "GEORGES BRUGMANN"
+     },
+     {
+      "language": "fr",
+      "text": "GEORGES BRUGMANN"
+     }
+    ],
+    "station_id": "125"
+   },
+   {
+    "address": "FABRY - BOULEVARD DE LA WOLUWE / WOLUWELAAN 28",
+    "capacity": 25,
+    "lat": 50.837288,
+    "lon": 4.43462,
+    "name": [
+     {
+      "language": "en",
+      "text": "FABRY"
+     },
+     {
+      "language": "nl",
+      "text": "FABRY"
+     },
+     {
+      "language": "fr",
+      "text": "FABRY"
+     }
+    ],
+    "station_id": "126"
+   },
+   {
+    "address": "Rue des Deux Ponts / Tweebruggenstraat 4",
+    "capacity": 18,
+    "lat": 50.832194,
+    "lon": 4.377694,
+    "name": [
+     {
+      "language": "en",
+      "text": "GRAY"
+     },
+     {
+      "language": "nl",
+      "text": "GRAY"
+     },
+     {
+      "language": "fr",
+      "text": "GRAY"
+     }
+    ],
+    "station_id": "127"
+   },
+   {
+    "address": "Av. de Tervueren / Tervurenlaan (Jose de San Martin)",
+    "capacity": 25,
+    "lat": 50.832355,
+    "lon": 4.432358,
+    "name": [
+     {
+      "language": "en",
+      "text": "MUSEE DU TRAM / TRAMMUSEUM"
+     },
+     {
+      "language": "nl",
+      "text": "MUSEE DU TRAM / TRAMMUSEUM"
+     },
+     {
+      "language": "fr",
+      "text": "MUSEE DU TRAM / TRAMMUSEUM"
+     }
+    ],
+    "station_id": "128"
+   },
+   {
+    "address": "Bd du Souverain 207 / Vorstlaan 207",
+    "capacity": 23,
+    "lat": 50.819448,
+    "lon": 4.429082,
+    "name": [
+     {
+      "language": "en",
+      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+     },
+     {
+      "language": "nl",
+      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+     },
+     {
+      "language": "fr",
+      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+     }
+    ],
+    "station_id": "130"
+   },
+   {
+    "address": "Av Herrmann-Debroux x Chau. de Wavre / Herrmann Debrouxlaan x Waversesteenweg",
+    "capacity": 25,
+    "lat": 50.81329,
+    "lon": 4.434751,
+    "name": [
+     {
+      "language": "en",
+      "text": "JARDIN MASSART / MASSARTTUIN"
+     },
+     {
+      "language": "nl",
+      "text": "JARDIN MASSART / MASSARTTUIN"
+     },
+     {
+      "language": "fr",
+      "text": "JARDIN MASSART / MASSARTTUIN"
+     }
+    ],
+    "station_id": "131"
+   },
+   {
+    "address": "Chau. de Tervuren / Tervurenlaan 93A",
+    "capacity": 19,
+    "lat": 50.816338,
+    "lon": 4.433895,
+    "name": [
+     {
+      "language": "en",
+      "text": "DEUX CHAUSSEES / TWEESTEENWEGEN"
+     },
+     {
+      "language": "nl",
+      "text": "DEUX CHAUSSEES / TWEESTEENWEGEN"
+     },
+     {
+      "language": "fr",
+      "text": "DEUX CHAUSSEES / TWEESTEENWEGEN"
+     }
+    ],
+    "station_id": "132"
+   },
+   {
+    "address": "Av. du Château / Kasteellaan 133",
+    "capacity": 24,
+    "lat": 50.866795,
+    "lon": 4.309222,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHÂTEAU / KASTEEL"
+     },
+     {
+      "language": "nl",
+      "text": "CHÂTEAU / KASTEEL"
+     },
+     {
+      "language": "fr",
+      "text": "CHÂTEAU / KASTEEL"
+     }
+    ],
+    "station_id": "133"
+   },
+   {
+    "address": "Pl. de Bastogne / Bastenakenplein",
+    "capacity": 25,
+    "lat": 50.862652,
+    "lon": 4.316644,
+    "name": [
+     {
+      "language": "en",
+      "text": "BASTOGNE / BASTENAKEN"
+     },
+     {
+      "language": "nl",
+      "text": "BASTOGNE / BASTENAKEN"
+     },
+     {
+      "language": "fr",
+      "text": "BASTOGNE / BASTENAKEN"
+     }
+    ],
+    "station_id": "134"
+   },
+   {
+    "address": "Av. Princesse Elisabeth / Prinses Elisabethlaan 24",
+    "capacity": 25,
+    "lat": 50.872343,
+    "lon": 4.37646,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARC LACROIX / LACROIX PARK"
+     },
+     {
+      "language": "nl",
+      "text": "PARC LACROIX / LACROIX PARK"
+     },
+     {
+      "language": "fr",
+      "text": "PARC LACROIX / LACROIX PARK"
+     }
+    ],
+    "station_id": "135"
+   },
+   {
+    "address": "Rue du Pavillon / Paviljoenstraat 94",
+    "capacity": 24,
+    "lat": 50.869809,
+    "lon": 4.371808,
+    "name": [
+     {
+      "language": "en",
+      "text": "PAVILLON / PAVILJOEN"
+     },
+     {
+      "language": "nl",
+      "text": "PAVILLON / PAVILJOEN"
+     },
+     {
+      "language": "fr",
+      "text": "PAVILLON / PAVILJOEN"
+     }
+    ],
+    "station_id": "136"
+   },
+   {
+    "address": "Rue Royale Sainte-Marie / Koninklijke Sinte-Mariastraat 243",
+    "capacity": 25,
+    "lat": 50.86661,
+    "lon": 4.373102,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAISON COMM SCHAERBEEK/GEMEENTEH. SCHAARBEEK"
+     },
+     {
+      "language": "nl",
+      "text": "MAISON COMM SCHAERBEEK/GEMEENTEH. SCHAARBEEK"
+     },
+     {
+      "language": "fr",
+      "text": "MAISON COMM SCHAERBEEK/GEMEENTEH. SCHAARBEEK"
+     }
+    ],
+    "station_id": "137"
+   },
+   {
+    "address": "HOUFFALIZE - Rue de Jérusalem / Jerusalemstraat 85",
+    "capacity": 20,
+    "lat": 50.86511,
+    "lon": 4.378466,
+    "name": [
+     {
+      "language": "en",
+      "text": "HOUFFALIZE"
+     },
+     {
+      "language": "nl",
+      "text": "HOUFFALIZE"
+     },
+     {
+      "language": "fr",
+      "text": "HOUFFALIZE"
+     }
+    ],
+    "station_id": "138"
+   },
+   {
+    "address": "Pl. Liedts 38 / Liedtsplein 38",
+    "capacity": 25,
+    "lat": 50.863872,
+    "lon": 4.366741,
+    "name": [
+     {
+      "language": "en",
+      "text": "LIEDTS"
+     },
+     {
+      "language": "nl",
+      "text": "LIEDTS"
+     },
+     {
+      "language": "fr",
+      "text": "LIEDTS"
+     }
+    ],
+    "station_id": "139"
+   },
+   {
+    "address": "Av. Paul Deschanel / Paul Deschanellaan 6",
+    "capacity": 25,
+    "lat": 50.862704,
+    "lon": 4.381289,
+    "name": [
+     {
+      "language": "en",
+      "text": "AZALEES / AZALEA"
+     },
+     {
+      "language": "nl",
+      "text": "AZALEES / AZALEA"
+     },
+     {
+      "language": "fr",
+      "text": "AZALEES / AZALEA"
+     }
+    ],
+    "station_id": "140"
+   },
+   {
+    "address": "Rue du Progrès / Vooruitgangstraat 80",
+    "capacity": 42,
+    "lat": 50.860754,
+    "lon": 4.358886,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DU NORD / NOORDSTATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DU NORD / NOORDSTATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DU NORD / NOORDSTATION"
+     }
+    ],
+    "station_id": "141"
+   },
+   {
+    "address": "Av. Rogier / Rogierlaan 267",
+    "capacity": 24,
+    "lat": 50.857319,
+    "lon": 4.386724,
+    "name": [
+     {
+      "language": "en",
+      "text": "BIENFAITEURS / WELDOENERS"
+     },
+     {
+      "language": "nl",
+      "text": "BIENFAITEURS / WELDOENERS"
+     },
+     {
+      "language": "fr",
+      "text": "BIENFAITEURS / WELDOENERS"
+     }
+    ],
+    "station_id": "142"
+   },
+   {
+    "address": "RTL  - CHAUSSEE DE LOUVAIN (DVT 770)/ LEUVENSE STEENWEG (N° 770)",
+    "capacity": 25,
+    "lat": 50.857218,
+    "lon": 4.407879,
+    "name": [
+     {
+      "language": "en",
+      "text": "RTL"
+     },
+     {
+      "language": "nl",
+      "text": "RTL"
+     },
+     {
+      "language": "fr",
+      "text": "RTL"
+     }
+    ],
+    "station_id": "143"
+   },
+   {
+    "address": "Rue Royale / Koningsstraat 259",
+    "capacity": 25,
+    "lat": 50.85778,
+    "lon": 4.368144,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINTE-MARIE / SINTE-MARIA"
+     },
+     {
+      "language": "nl",
+      "text": "SAINTE-MARIE / SINTE-MARIA"
+     },
+     {
+      "language": "fr",
+      "text": "SAINTE-MARIE / SINTE-MARIA"
+     }
+    ],
+    "station_id": "144"
+   },
+   {
+    "address": "Avenue Rogier / Rogierlaan 128",
+    "capacity": 25,
+    "lat": 50.859096,
+    "lon": 4.379117,
+    "name": [
+     {
+      "language": "en",
+      "text": "COTEAUX / WIJNHEUVELEN"
+     },
+     {
+      "language": "nl",
+      "text": "COTEAUX / WIJNHEUVELEN"
+     },
+     {
+      "language": "fr",
+      "text": "COTEAUX / WIJNHEUVELEN"
+     }
+    ],
+    "station_id": "145"
+   },
+   {
+    "address": "Bd Léopold III x Av. Frans Courtens / Leopold III-laan x Frans Courtenslaan",
+    "capacity": 25,
+    "lat": 50.859243,
+    "lon": 4.401022,
+    "name": [
+     {
+      "language": "en",
+      "text": "LEOPOLD III"
+     },
+     {
+      "language": "nl",
+      "text": "LEOPOLD III"
+     },
+     {
+      "language": "fr",
+      "text": "LEOPOLD III"
+     }
+    ],
+    "station_id": "146"
+   },
+   {
+    "address": "Chaussée de Haecht / Haachtsesteenweg 226",
+    "capacity": 25,
+    "lat": 50.861874,
+    "lon": 4.372146,
+    "name": [
+     {
+      "language": "en",
+      "text": "LYCEE EMILE MAX / EMILE MAX LYCEUM"
+     },
+     {
+      "language": "nl",
+      "text": "LYCEE EMILE MAX / EMILE MAX LYCEUM"
+     },
+     {
+      "language": "fr",
+      "text": "LYCEE EMILE MAX / EMILE MAX LYCEUM"
+     }
+    ],
+    "station_id": "147"
+   },
+   {
+    "address": "Av. Rogier 377 / Rogierlaan 377",
+    "capacity": 22,
+    "lat": 50.855629,
+    "lon": 4.394807,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DE MEISER / MEISER STATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DE MEISER / MEISER STATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DE MEISER / MEISER STATION"
+     }
+    ],
+    "station_id": "148"
+   },
+   {
+    "address": "JULES LEBRUN - CHAUSSEE DE LOUVAIN (FACE 593) / LEUVENSE STEENWEG (TEGENOVER 593)",
+    "capacity": 25,
+    "lat": 50.856208,
+    "lon": 4.403386,
+    "name": [
+     {
+      "language": "en",
+      "text": "JULES LEBRUN"
+     },
+     {
+      "language": "nl",
+      "text": "JULES LEBRUN"
+     },
+     {
+      "language": "fr",
+      "text": "JULES LEBRUN"
+     }
+    ],
+    "station_id": "149"
+   },
+   {
+    "address": "Pl. Général Meiser / Generaal Meiserplein 3",
+    "capacity": 25,
+    "lat": 50.854654,
+    "lon": 4.398451,
+    "name": [
+     {
+      "language": "en",
+      "text": "MEISER"
+     },
+     {
+      "language": "nl",
+      "text": "MEISER"
+     },
+     {
+      "language": "fr",
+      "text": "MEISER"
+     }
+    ],
+    "station_id": "150"
+   },
+   {
+    "address": "Chau. de Louvain / Leuvensesteenweg 494",
+    "capacity": 25,
+    "lat": 50.853518,
+    "lon": 4.392491,
+    "name": [
+     {
+      "language": "en",
+      "text": "LOUVAIN 494 / LEUVEN 494"
+     },
+     {
+      "language": "nl",
+      "text": "LOUVAIN 494 / LEUVEN 494"
+     },
+     {
+      "language": "fr",
+      "text": "LOUVAIN 494 / LEUVEN 494"
+     }
+    ],
+    "station_id": "151"
+   },
+   {
+    "address": "Pl. Dailly 24 / Daillyplein 24",
+    "capacity": 25,
+    "lat": 50.852389,
+    "lon": 4.387373,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE DAILLY / DAILLYPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE DAILLY / DAILLYPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE DAILLY / DAILLYPLEIN"
+     }
+    ],
+    "station_id": "152"
+   },
+   {
+    "address": "Av. Paul Deschanel / Paul Deschanellaan 260",
+    "capacity": 25,
+    "lat": 50.854128,
+    "lon": 4.378002,
+    "name": [
+     {
+      "language": "en",
+      "text": "SQUARE ARMAND STEURS / ARMAND STEURSSQUARE"
+     },
+     {
+      "language": "nl",
+      "text": "SQUARE ARMAND STEURS / ARMAND STEURSSQUARE"
+     },
+     {
+      "language": "fr",
+      "text": "SQUARE ARMAND STEURS / ARMAND STEURSSQUARE"
+     }
+    ],
+    "station_id": "153"
+   },
+   {
+    "address": "Square Eugène Plasky / Eugène Plaskysquare 100",
+    "capacity": 25,
+    "lat": 50.851241,
+    "lon": 4.396386,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLASKY"
+     },
+     {
+      "language": "nl",
+      "text": "PLASKY"
+     },
+     {
+      "language": "fr",
+      "text": "PLASKY"
+     }
+    ],
+    "station_id": "154"
+   },
+   {
+    "address": "Chau. de Wavre 1051 / Waversesteenweg 1051",
+    "capacity": 25,
+    "lat": 50.824953,
+    "lon": 4.399088,
+    "name": [
+     {
+      "language": "en",
+      "text": "LES MARRONNIERS"
+     },
+     {
+      "language": "nl",
+      "text": "LES MARRONNIERS"
+     },
+     {
+      "language": "fr",
+      "text": "LES MARRONNIERS"
+     }
+    ],
+    "station_id": "155"
+   },
+   {
+    "address": "Pl. Jamblinne de Meux / Jamblinne de Meuxplein 44",
+    "capacity": 25,
+    "lat": 50.847158,
+    "lon": 4.393255,
+    "name": [
+     {
+      "language": "en",
+      "text": "JAMBLINNE DE MEUX"
+     },
+     {
+      "language": "nl",
+      "text": "JAMBLINNE DE MEUX"
+     },
+     {
+      "language": "fr",
+      "text": "JAMBLINNE DE MEUX"
+     }
+    ],
+    "station_id": "156"
+   },
+   {
+    "address": "Bd Lambermont / Lambermontlaan 374",
+    "capacity": 25,
+    "lat": 50.863388,
+    "lon": 4.386222,
+    "name": [
+     {
+      "language": "en",
+      "text": "HELIOTROPES / HELIOTROPEN"
+     },
+     {
+      "language": "nl",
+      "text": "HELIOTROPES / HELIOTROPEN"
+     },
+     {
+      "language": "fr",
+      "text": "HELIOTROPES / HELIOTROPEN"
+     }
+    ],
+    "station_id": "157"
+   },
+   {
+    "address": "Av. Voltaire / Voltairelaan 6",
+    "capacity": 24,
+    "lat": 50.867955,
+    "lon": 4.379577,
+    "name": [
+     {
+      "language": "en",
+      "text": "VAN YSENDYCK"
+     },
+     {
+      "language": "nl",
+      "text": "VAN YSENDYCK"
+     },
+     {
+      "language": "fr",
+      "text": "VAN YSENDYCK"
+     }
+    ],
+    "station_id": "158"
+   },
+   {
+    "address": "Av. de la Reine 157 / Koninginnelaan 157",
+    "capacity": 25,
+    "lat": 50.869297,
+    "lon": 4.36257,
+    "name": [
+     {
+      "language": "en",
+      "text": "MASUI"
+     },
+     {
+      "language": "nl",
+      "text": "MASUI"
+     },
+     {
+      "language": "fr",
+      "text": "MASUI"
+     }
+    ],
+    "station_id": "159"
+   },
+   {
+    "address": "Pl. Princesse Elisabeth / Prinses Elisabethplein 160",
+    "capacity": 23,
+    "lat": 50.877501,
+    "lon": 4.380315,
+    "name": [
+     {
+      "language": "en",
+      "text": "ELISA"
+     },
+     {
+      "language": "nl",
+      "text": "ELISA"
+     },
+     {
+      "language": "fr",
+      "text": "ELISA"
+     }
+    ],
+    "station_id": "160"
+   },
+   {
+    "address": "DEMOLDER - AVENUE EUGENE DEMOLDER / EUGENE DEMOLDERLAAN 68",
+    "capacity": 25,
+    "lat": 50.872592,
+    "lon": 4.379886,
+    "name": [
+     {
+      "language": "en",
+      "text": "DEMOLDER"
+     },
+     {
+      "language": "nl",
+      "text": "DEMOLDER"
+     },
+     {
+      "language": "fr",
+      "text": "DEMOLDER"
+     }
+    ],
+    "station_id": "161"
+   },
+   {
+    "address": "CHAZAL - AVENUE ERNEST CAMBIER (FACE 7)/ ERNEST CAMBIERLAAN (TEGENOVER 7)",
+    "capacity": 25,
+    "lat": 50.859112,
+    "lon": 4.39157,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHAZAL"
+     },
+     {
+      "language": "nl",
+      "text": "CHAZAL"
+     },
+     {
+      "language": "fr",
+      "text": "CHAZAL"
+     }
+    ],
+    "station_id": "163"
+   },
+   {
+    "address": "KENNIS - BOULEVARD LAMBERMONT (20 M APRES 284)/LAMBERMONTLAAN   (20 M NA N° 284)",
+    "capacity": 23,
+    "lat": 50.867643,
+    "lon": 4.385817,
+    "name": [
+     {
+      "language": "en",
+      "text": "KENNIS"
+     },
+     {
+      "language": "nl",
+      "text": "KENNIS"
+     },
+     {
+      "language": "fr",
+      "text": "KENNIS"
+     }
+    ],
+    "station_id": "164"
+   },
+   {
+    "address": "Bd de Smet de Naeyer 322 / De Smet de Naeyerlaan 322",
+    "capacity": 20,
+    "lat": 50.879668,
+    "lon": 4.33425,
+    "name": [
+     {
+      "language": "en",
+      "text": "CIMETIERE DE JETTE / KERKHOF VAN JETTE"
+     },
+     {
+      "language": "nl",
+      "text": "CIMETIERE DE JETTE / KERKHOF VAN JETTE"
+     },
+     {
+      "language": "fr",
+      "text": "CIMETIERE DE JETTE / KERKHOF VAN JETTE"
+     }
+    ],
+    "station_id": "165"
+   },
+   {
+    "address": "GC ESSEGEM - RUE AMELIE GOMAND 51- 45",
+    "capacity": 25,
+    "lat": 50.876205,
+    "lon": 4.337137,
+    "name": [
+     {
+      "language": "en",
+      "text": "GC ESSEGEM"
+     },
+     {
+      "language": "nl",
+      "text": "GC ESSEGEM"
+     },
+     {
+      "language": "fr",
+      "text": "GC ESSEGEM"
+     }
+    ],
+    "station_id": "166"
+   },
+   {
+    "address": "Av. Charles Quint / Keizer Karellaan 129",
+    "capacity": 22,
+    "lat": 50.869032,
+    "lon": 4.309731,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHARLES V / KAREL V"
+     },
+     {
+      "language": "nl",
+      "text": "CHARLES V / KAREL V"
+     },
+     {
+      "language": "fr",
+      "text": "CHARLES V / KAREL V"
+     }
+    ],
+    "station_id": "167"
+   },
+   {
+    "address": "Av. Josse Goffin / Josse Goffinlaan 125",
+    "capacity": 25,
+    "lat": 50.866379,
+    "lon": 4.303281,
+    "name": [
+     {
+      "language": "en",
+      "text": "HOPITAL FRANÇAIS / FRANS GASTHUIS"
+     },
+     {
+      "language": "nl",
+      "text": "HOPITAL FRANÇAIS / FRANS GASTHUIS"
+     },
+     {
+      "language": "fr",
+      "text": "HOPITAL FRANÇAIS / FRANS GASTHUIS"
+     }
+    ],
+    "station_id": "168"
+   },
+   {
+    "address": "GEORGES EEKHOUD - AVENUE GEORGES EEKHOUD/GEORGES EEKHOUDLAAN 56",
+    "capacity": 25,
+    "lat": 50.877125,
+    "lon": 4.387515,
+    "name": [
+     {
+      "language": "en",
+      "text": "GEORGES EEKHOUD"
+     },
+     {
+      "language": "nl",
+      "text": "GEORGES EEKHOUD"
+     },
+     {
+      "language": "fr",
+      "text": "GEORGES EEKHOUD"
+     }
+    ],
+    "station_id": "169"
+   },
+   {
+    "address": "RIGA - SQUARE FRANCOIS RIGA / FRANCOIS RIGASQUARE",
+    "capacity": 20,
+    "lat": 50.87453,
+    "lon": 4.385378,
+    "name": [
+     {
+      "language": "en",
+      "text": "RIGA"
+     },
+     {
+      "language": "nl",
+      "text": "RIGA"
+     },
+     {
+      "language": "fr",
+      "text": "RIGA"
+     }
+    ],
+    "station_id": "170"
+   },
+   {
+    "address": "Rue Charles Malis / Charles Malisstraat 71 (parking piscine / parking zwembad)",
+    "capacity": 25,
+    "lat": 50.854789,
+    "lon": 4.312201,
+    "name": [
+     {
+      "language": "en",
+      "text": "PISCINE LOUIS NAMECHE/ZWEMBAD LOUIS NAMECHE"
+     },
+     {
+      "language": "nl",
+      "text": "PISCINE LOUIS NAMECHE/ZWEMBAD LOUIS NAMECHE"
+     },
+     {
+      "language": "fr",
+      "text": "PISCINE LOUIS NAMECHE/ZWEMBAD LOUIS NAMECHE"
+     }
+    ],
+    "station_id": "171"
+   },
+   {
+    "address": "AEROPOLIS - CHAUSSEE D'HAECHT (FACE 586) / HAACHTSESTEENWEG (TEGENOVER 586)",
+    "capacity": 25,
+    "lat": 50.869764,
+    "lon": 4.388191,
+    "name": [
+     {
+      "language": "en",
+      "text": "AEROPOLIS"
+     },
+     {
+      "language": "nl",
+      "text": "AEROPOLIS"
+     },
+     {
+      "language": "fr",
+      "text": "AEROPOLIS"
+     }
+    ],
+    "station_id": "172"
+   },
+   {
+    "address": "BICHON - PLACE BICHON / BICHONPLEIN",
+    "capacity": 24,
+    "lat": 50.864656,
+    "lon": 4.394448,
+    "name": [
+     {
+      "language": "en",
+      "text": "BICHON"
+     },
+     {
+      "language": "nl",
+      "text": "BICHON"
+     },
+     {
+      "language": "fr",
+      "text": "BICHON"
+     }
+    ],
+    "station_id": "173"
+   },
+   {
+    "address": "Av. Brigade Piron / Brigade Pironlaan 80",
+    "capacity": 22,
+    "lat": 50.853947,
+    "lon": 4.31635,
+    "name": [
+     {
+      "language": "en",
+      "text": "MENNEKENS"
+     },
+     {
+      "language": "nl",
+      "text": "MENNEKENS"
+     },
+     {
+      "language": "fr",
+      "text": "MENNEKENS"
+     }
+    ],
+    "station_id": "174"
+   },
+   {
+    "address": "BEEKKANT - BOULEVARD EDMOND MACHTENS / EDMOND MACHTENSLAAN",
+    "capacity": 25,
+    "lat": 50.854166,
+    "lon": 4.322948,
+    "name": [
+     {
+      "language": "en",
+      "text": "BEEKKANT"
+     },
+     {
+      "language": "nl",
+      "text": "BEEKKANT"
+     },
+     {
+      "language": "fr",
+      "text": "BEEKKANT"
+     }
+    ],
+    "station_id": "175"
+   },
+   {
+    "address": "Rue Colonel Bourg / Kolonel Bourgstraat 106",
+    "capacity": 25,
+    "lat": 50.852356,
+    "lon": 4.408635,
+    "name": [
+     {
+      "language": "en",
+      "text": "COLONEL BOURG / KOLONEL BOURG"
+     },
+     {
+      "language": "nl",
+      "text": "COLONEL BOURG / KOLONEL BOURG"
+     },
+     {
+      "language": "fr",
+      "text": "COLONEL BOURG / KOLONEL BOURG"
+     }
+    ],
+    "station_id": "176"
+   },
+   {
+    "address": "Rue du Noyer / Notelaarstraat 85",
+    "capacity": 25,
+    "lat": 50.849409,
+    "lon": 4.389263,
+    "name": [
+     {
+      "language": "en",
+      "text": "CHASSEURS ARDENNAIS / ARDENSE JAGERS"
+     },
+     {
+      "language": "nl",
+      "text": "CHASSEURS ARDENNAIS / ARDENSE JAGERS"
+     },
+     {
+      "language": "fr",
+      "text": "CHASSEURS ARDENNAIS / ARDENSE JAGERS"
+     }
+    ],
+    "station_id": "177"
+   },
+   {
+    "address": "Rue Colonel Bourg x Bd Auguste Reyers / Kolonel Bourgstraat x Auguste Reyerslaan",
+    "capacity": 22,
+    "lat": 50.85043,
+    "lon": 4.402169,
+    "name": [
+     {
+      "language": "en",
+      "text": "DIAMANT"
+     },
+     {
+      "language": "nl",
+      "text": "DIAMANT"
+     },
+     {
+      "language": "fr",
+      "text": "DIAMANT"
+     }
+    ],
+    "station_id": "178"
+   },
+   {
+    "address": "Av. de Tervueren / Tervurenlaan 17",
+    "capacity": 44,
+    "lat": 50.839217,
+    "lon": 4.398015,
+    "name": [
+     {
+      "language": "en",
+      "text": "CELTES / KELTEN"
+     },
+     {
+      "language": "nl",
+      "text": "CELTES / KELTEN"
+     },
+     {
+      "language": "fr",
+      "text": "CELTES / KELTEN"
+     }
+    ],
+    "station_id": "179"
+   },
+   {
+    "address": "JOURDAN - RUE FROISSART (FACE 3 - 5) / FROISSARTSTRAAT (TEGENOVER 3 - 5)",
+    "capacity": 25,
+    "lat": 50.837726,
+    "lon": 4.381565,
+    "name": [
+     {
+      "language": "en",
+      "text": "JOURDAN"
+     },
+     {
+      "language": "nl",
+      "text": "JOURDAN"
+     },
+     {
+      "language": "fr",
+      "text": "JOURDAN"
+     }
+    ],
+    "station_id": "180"
+   },
+   {
+    "address": "LOUIS TITZ - AVENUE DE LA CHASSE/ JACHTLAAN 182 - 184",
+    "capacity": 25,
+    "lat": 50.835723,
+    "lon": 4.394395,
+    "name": [
+     {
+      "language": "en",
+      "text": "LOUIS TITZ"
+     },
+     {
+      "language": "nl",
+      "text": "LOUIS TITZ"
+     },
+     {
+      "language": "fr",
+      "text": "LOUIS TITZ"
+     }
+    ],
+    "station_id": "181"
+   },
+   {
+    "address": "BOILEAU - BOULEVARD SAINT MICHEL / SINT-MICHIELSLAAN",
+    "capacity": 25,
+    "lat": 50.83168,
+    "lon": 4.404769,
+    "name": [
+     {
+      "language": "en",
+      "text": "BOILEAU"
+     },
+     {
+      "language": "nl",
+      "text": "BOILEAU"
+     },
+     {
+      "language": "fr",
+      "text": "BOILEAU"
+     }
+    ],
+    "station_id": "182"
+   },
+   {
+    "address": "Av. des Casernes 4 / Kazernenlaan 4",
+    "capacity": 25,
+    "lat": 50.829928,
+    "lon": 4.390357,
+    "name": [
+     {
+      "language": "en",
+      "text": "LA CHASSE / JACHT"
+     },
+     {
+      "language": "nl",
+      "text": "LA CHASSE / JACHT"
+     },
+     {
+      "language": "fr",
+      "text": "LA CHASSE / JACHT"
+     }
+    ],
+    "station_id": "183"
+   },
+   {
+    "address": "Rue Philippe Baucq 36 / Philippe Baucqstraat 36",
+    "capacity": 25,
+    "lat": 50.831592,
+    "lon": 4.385786,
+    "name": [
+     {
+      "language": "en",
+      "text": "PHILIPPE BAUCQ"
+     },
+     {
+      "language": "nl",
+      "text": "PHILIPPE BAUCQ"
+     },
+     {
+      "language": "fr",
+      "text": "PHILIPPE BAUCQ"
+     }
+    ],
+    "station_id": "184"
+   },
+   {
+    "address": "Rue Père de Deken / Pater de Dekenstraat 40",
+    "capacity": 25,
+    "lat": 50.835797,
+    "lon": 4.401599,
+    "name": [
+     {
+      "language": "en",
+      "text": "PERE DE DEKEN / PATER DE DEKEN"
+     },
+     {
+      "language": "nl",
+      "text": "PERE DE DEKEN / PATER DE DEKEN"
+     },
+     {
+      "language": "fr",
+      "text": "PERE DE DEKEN / PATER DE DEKEN"
+     }
+    ],
+    "station_id": "185"
+   },
+   {
+    "address": "Chau. de Gand / Gentsesteenweg 1033",
+    "capacity": 17,
+    "lat": 50.861783,
+    "lon": 4.302607,
+    "name": [
+     {
+      "language": "en",
+      "text": "GENOT"
+     },
+     {
+      "language": "nl",
+      "text": "GENOT"
+     },
+     {
+      "language": "fr",
+      "text": "GENOT"
+     }
+    ],
+    "station_id": "186"
+   },
+   {
+    "address": "Bd Louis Schmidt / Louis Schmidtlaan 2",
+    "capacity": 25,
+    "lat": 50.826603,
+    "lon": 4.397117,
+    "name": [
+     {
+      "language": "en",
+      "text": "ARSENAL / ARSENAAL"
+     },
+     {
+      "language": "nl",
+      "text": "ARSENAL / ARSENAAL"
+     },
+     {
+      "language": "fr",
+      "text": "ARSENAL / ARSENAAL"
+     }
+    ],
+    "station_id": "187"
+   },
+   {
+    "address": "OSSEGHEM -  AVENUE MAHATMA GANDHI/ MAHATMA GANDHILAAN 10",
+    "capacity": 24,
+    "lat": 50.857235,
+    "lon": 4.324354,
+    "name": [
+     {
+      "language": "en",
+      "text": "OSSEGHEM"
+     },
+     {
+      "language": "nl",
+      "text": "OSSEGHEM"
+     },
+     {
+      "language": "fr",
+      "text": "OSSEGHEM"
+     }
+    ],
+    "station_id": "188"
+   },
+   {
+    "address": "Pl. Van Meyel / Van Meyelplein",
+    "capacity": 17,
+    "lat": 50.836924,
+    "lon": 4.389073,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
+     }
+    ],
+    "station_id": "189"
+   },
+   {
+    "address": "Place Terdelt / Teldertplein 6",
+    "capacity": 22,
+    "lat": 50.867904,
+    "lon": 4.390696,
+    "name": [
+     {
+      "language": "en",
+      "text": "TERDELT"
+     },
+     {
+      "language": "nl",
+      "text": "TERDELT"
+     },
+     {
+      "language": "fr",
+      "text": "TERDELT"
+     }
+    ],
+    "station_id": "190"
+   },
+   {
+    "address": "ARTAN - RUE CLAYS",
+    "capacity": 24,
+    "lat": 50.853973,
+    "lon": 4.38374,
+    "name": [
+     {
+      "language": "en",
+      "text": "ARTAN"
+     },
+     {
+      "language": "nl",
+      "text": "ARTAN"
+     },
+     {
+      "language": "fr",
+      "text": "ARTAN"
+     }
+    ],
+    "station_id": "191"
+   },
+   {
+    "address": "Rue Delaunoy 67 x Rue de l'Éléphant 109 / Delaunoystraat 67 x Olifantstraat 109",
+    "capacity": 25,
+    "lat": 50.851562,
+    "lon": 4.332924,
+    "name": [
+     {
+      "language": "en",
+      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
+     },
+     {
+      "language": "nl",
+      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
+     },
+     {
+      "language": "fr",
+      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
+     }
+    ],
+    "station_id": "192"
+   },
+   {
+    "address": "Chaussée de Ninove / Ninoofsesteenweg 203",
+    "capacity": 30,
+    "lat": 50.848866,
+    "lon": 4.320628,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DE L'OUEST / WESTSTATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DE L'OUEST / WESTSTATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DE L'OUEST / WESTSTATION"
+     }
+    ],
+    "station_id": "193"
+   },
+   {
+    "address": "AVENUE HOUBA DE STROOPER LAAN 30-32",
+    "capacity": 25,
+    "lat": 50.885885,
+    "lon": 4.342003,
+    "name": [
+     {
+      "language": "en",
+      "text": "STUYVENBERG"
+     },
+     {
+      "language": "nl",
+      "text": "STUYVENBERG"
+     },
+     {
+      "language": "fr",
+      "text": "STUYVENBERG"
+     }
+    ],
+    "station_id": "194"
+   },
+   {
+    "address": "Bd Joseph Bracops 250 / Joseph Bracopslaan 250",
+    "capacity": 26,
+    "lat": 50.838356,
+    "lon": 4.284213,
+    "name": [
+     {
+      "language": "en",
+      "text": "WESTLAND SHOPPING"
+     },
+     {
+      "language": "nl",
+      "text": "WESTLAND SHOPPING"
+     },
+     {
+      "language": "fr",
+      "text": "WESTLAND SHOPPING"
+     }
+    ],
+    "station_id": "195"
+   },
+   {
+    "address": "Chau. de Ninove 627 / Ninoofsesteenweg 627",
+    "capacity": 25,
+    "lat": 50.846874,
+    "lon": 4.29817,
+    "name": [
+     {
+      "language": "en",
+      "text": "PRINCE DE LIEGE / PRINS VAN LUIK"
+     },
+     {
+      "language": "nl",
+      "text": "PRINCE DE LIEGE / PRINS VAN LUIK"
+     },
+     {
+      "language": "fr",
+      "text": "PRINCE DE LIEGE / PRINS VAN LUIK"
+     }
+    ],
+    "station_id": "196"
+   },
+   {
+    "address": "DE SMET - PLACE HENRI DE SMET / HENRI DE SMETPLEIN",
+    "capacity": 25,
+    "lat": 50.848255,
+    "lon": 4.314854,
+    "name": [
+     {
+      "language": "en",
+      "text": "DE SMET"
+     },
+     {
+      "language": "nl",
+      "text": "DE SMET"
+     },
+     {
+      "language": "fr",
+      "text": "DE SMET"
+     }
+    ],
+    "station_id": "197"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.847649,
+    "lon": 4.307714,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "198"
+   },
+   {
+    "address": "Bd Félix Paulsen / Félix Paulsenlaan 5",
+    "capacity": 15,
+    "lat": 50.843693,
+    "lon": 4.304986,
+    "name": [
+     {
+      "language": "en",
+      "text": "HENRI REY"
+     },
+     {
+      "language": "nl",
+      "text": "HENRI REY"
+     },
+     {
+      "language": "fr",
+      "text": "HENRI REY"
+     }
+    ],
+    "station_id": "199"
+   },
+   {
+    "address": "Square des Vétérans Coloniaux / Square der Koloniale Veteranen 8",
+    "capacity": 25,
+    "lat": 50.844006,
+    "lon": 4.313818,
+    "name": [
+     {
+      "language": "en",
+      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+     },
+     {
+      "language": "nl",
+      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+     },
+     {
+      "language": "fr",
+      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+     }
+    ],
+    "station_id": "200"
+   },
+   {
+    "address": "Bd Maria Groeninckx-De May 26 / Maria Groeninckx-De Maylaan 26",
+    "capacity": 25,
+    "lat": 50.8414,
+    "lon": 4.296013,
+    "name": [
+     {
+      "language": "en",
+      "text": "PETERBOS"
+     },
+     {
+      "language": "nl",
+      "text": "PETERBOS"
+     },
+     {
+      "language": "fr",
+      "text": "PETERBOS"
+     }
+    ],
+    "station_id": "201"
+   },
+   {
+    "address": "Rue de Birmingham 341 / Birminghamstraat 341",
+    "capacity": 21,
+    "lat": 50.840217,
+    "lon": 4.313386,
+    "name": [
+     {
+      "language": "en",
+      "text": "AUMALE"
+     },
+     {
+      "language": "nl",
+      "text": "AUMALE"
+     },
+     {
+      "language": "fr",
+      "text": "AUMALE"
+     }
+    ],
+    "station_id": "202"
+   },
+   {
+    "address": "Bd Prince de Liège / Prins van Luiklaan 218",
+    "capacity": 15,
+    "lat": 50.84045,
+    "lon": 4.305055,
+    "name": [
+     {
+      "language": "en",
+      "text": "DEMOSTHENE"
+     },
+     {
+      "language": "nl",
+      "text": "DEMOSTHENE"
+     },
+     {
+      "language": "fr",
+      "text": "DEMOSTHENE"
+     }
+    ],
+    "station_id": "203"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.837326,
+    "lon": 4.293932,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "204"
+   },
+   {
+    "address": "Pl. De Linde 21 / Lindeplein 21",
+    "capacity": 20,
+    "lat": 50.835503,
+    "lon": 4.299573,
+    "name": [
+     {
+      "language": "en",
+      "text": "DE LINDE"
+     },
+     {
+      "language": "nl",
+      "text": "DE LINDE"
+     },
+     {
+      "language": "fr",
+      "text": "DE LINDE"
+     }
+    ],
+    "station_id": "205"
+   },
+   {
+    "address": "Cours Saint-Guidon 7 / Sint-Guidocorso 7",
+    "capacity": 25,
+    "lat": 50.834929,
+    "lon": 4.305659,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINT-GUIDON / SINT-GUIDO"
+     },
+     {
+      "language": "nl",
+      "text": "SAINT-GUIDON / SINT-GUIDO"
+     },
+     {
+      "language": "fr",
+      "text": "SAINT-GUIDON / SINT-GUIDO"
+     }
+    ],
+    "station_id": "206"
+   },
+   {
+    "address": "Chaussée de Mons 591 / Bergensesteenweg 591",
+    "capacity": 25,
+    "lat": 50.83362,
+    "lon": 4.313592,
+    "name": [
+     {
+      "language": "en",
+      "text": "BIESTEBROECK / BIESTEBROEK"
+     },
+     {
+      "language": "nl",
+      "text": "BIESTEBROECK / BIESTEBROEK"
+     },
+     {
+      "language": "fr",
+      "text": "BIESTEBROECK / BIESTEBROEK"
+     }
+    ],
+    "station_id": "207"
+   },
+   {
+    "address": "MELBA - AV NELLIE MELBA (FACE 1 a 9) / NELLIE MELBALAAN (TEGENOVER 1 tot 9)",
+    "capacity": 25,
+    "lat": 50.832565,
+    "lon": 4.294311,
+    "name": [
+     {
+      "language": "en",
+      "text": "MELBA"
+     },
+     {
+      "language": "nl",
+      "text": "MELBA"
+     },
+     {
+      "language": "fr",
+      "text": "MELBA"
+     }
+    ],
+    "station_id": "208"
+   },
+   {
+    "address": "VEEWEYDE / VEEWEIDE - BD THEO LAMBERT (FACE 5 a 9) / THEO LAMBERTLAAN (TEGENOVER ( tot 9)",
+    "capacity": 25,
+    "lat": 50.828602,
+    "lon": 4.299621,
+    "name": [
+     {
+      "language": "en",
+      "text": "VEEWEYDE / VEEWEIDE"
+     },
+     {
+      "language": "nl",
+      "text": "VEEWEYDE / VEEWEIDE"
+     },
+     {
+      "language": "fr",
+      "text": "VEEWEYDE / VEEWEIDE"
+     }
+    ],
+    "station_id": "209"
+   },
+   {
+    "address": "Av. Charles De Tollenaere 58 / Charles De Tollenaerelaan 58",
+    "capacity": 25,
+    "lat": 50.827873,
+    "lon": 4.288707,
+    "name": [
+     {
+      "language": "en",
+      "text": "MARIUS RENARD"
+     },
+     {
+      "language": "nl",
+      "text": "MARIUS RENARD"
+     },
+     {
+      "language": "fr",
+      "text": "MARIUS RENARD"
+     }
+    ],
+    "station_id": "210"
+   },
+   {
+    "address": "Chaussée de Mons 1284 / Bergensesteenweg 1284",
+    "capacity": 22,
+    "lat": 50.816704,
+    "lon": 4.290857,
+    "name": [
+     {
+      "language": "en",
+      "text": "METRO CERIA / METRO COOVI"
+     },
+     {
+      "language": "nl",
+      "text": "METRO CERIA / METRO COOVI"
+     },
+     {
+      "language": "fr",
+      "text": "METRO CERIA / METRO COOVI"
+     }
+    ],
+    "station_id": "211"
+   },
+   {
+    "address": "THEO LAMBERT - BD THEO LAMBERT (FACE 66) / THEO LAMBERT LAAN (TEGENOVER 66)",
+    "capacity": 25,
+    "lat": 50.82701,
+    "lon": 4.292098,
+    "name": [
+     {
+      "language": "en",
+      "text": "THEO LAMBERT"
+     },
+     {
+      "language": "nl",
+      "text": "THEO LAMBERT"
+     },
+     {
+      "language": "fr",
+      "text": "THEO LAMBERT"
+     }
+    ],
+    "station_id": "212"
+   },
+   {
+    "address": "Chaussée de Mons / Bergensesteenweg 1110, 1070 Anderlecht",
+    "capacity": 15,
+    "lat": 50.821018,
+    "lon": 4.293865,
+    "name": [
+     {
+      "language": "en",
+      "text": "LA ROUE / HET RAD"
+     },
+     {
+      "language": "nl",
+      "text": "LA ROUE / HET RAD"
+     },
+     {
+      "language": "fr",
+      "text": "LA ROUE / HET RAD"
+     }
+    ],
+    "station_id": "213"
+   },
+   {
+    "address": "Av. Emile Gryson 6 / Emile Grysonlaan 6",
+    "capacity": 30,
+    "lat": 50.815942,
+    "lon": 4.295095,
+    "name": [
+     {
+      "language": "en",
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
+     },
+     {
+      "language": "nl",
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
+     },
+     {
+      "language": "fr",
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
+     }
+    ],
+    "station_id": "214"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.836864,
+    "lon": 4.317321,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "215"
+   },
+   {
+    "address": "Chaussée de Mons 843 / Bergensesteenweg 843",
+    "capacity": 25,
+    "lat": 50.828873,
+    "lon": 4.303918,
+    "name": [
+     {
+      "language": "en",
+      "text": "ARISTIDE BRIAND"
+     },
+     {
+      "language": "nl",
+      "text": "ARISTIDE BRIAND"
+     },
+     {
+      "language": "fr",
+      "text": "ARISTIDE BRIAND"
+     }
+    ],
+    "station_id": "216"
+   },
+   {
+    "address": "Pl. Bizet 15 / Bizetplein 15",
+    "capacity": 23,
+    "lat": 50.82496,
+    "lon": 4.297422,
+    "name": [
+     {
+      "language": "en",
+      "text": "BIZET"
+     },
+     {
+      "language": "nl",
+      "text": "BIZET"
+     },
+     {
+      "language": "fr",
+      "text": "BIZET"
+     }
+    ],
+    "station_id": "217"
+   },
+   {
+    "address": "DELACROIX - RUE DE BIRMINGHAM 96 / BIRMINGHAMSTRAAT 96",
+    "capacity": 25,
+    "lat": 50.845978,
+    "lon": 4.323226,
+    "name": [
+     {
+      "language": "en",
+      "text": "DELACROIX"
+     },
+     {
+      "language": "nl",
+      "text": "DELACROIX"
+     },
+     {
+      "language": "fr",
+      "text": "DELACROIX"
+     }
+    ],
+    "station_id": "218"
+   },
+   {
+    "address": "VAN HELLEMONT - RUE DE NEERPEDE 372-374 / NEERPEDESTRAAT 372-374",
+    "capacity": 23,
+    "lat": 50.829491,
+    "lon": 4.286006,
+    "name": [
+     {
+      "language": "en",
+      "text": "VAN HELLEMONT"
+     },
+     {
+      "language": "nl",
+      "text": "VAN HELLEMONT"
+     },
+     {
+      "language": "fr",
+      "text": "VAN HELLEMONT"
+     }
+    ],
+    "station_id": "219"
+   },
+   {
+    "address": "LUTHER KING - BD MAURICE CAREME 30 / MAURICE CAREMELAAN 30",
+    "capacity": 25,
+    "lat": 50.824867,
+    "lon": 4.287059,
+    "name": [
+     {
+      "language": "en",
+      "text": "LUTHER KING"
+     },
+     {
+      "language": "nl",
+      "text": "LUTHER KING"
+     },
+     {
+      "language": "fr",
+      "text": "LUTHER KING"
+     }
+    ],
+    "station_id": "220"
+   },
+   {
+    "address": "Sq. Marie Curie 50 / Marie Curiesquare 50",
+    "capacity": 25,
+    "lat": 50.821793,
+    "lon": 4.284648,
+    "name": [
+     {
+      "language": "en",
+      "text": "CURIE"
+     },
+     {
+      "language": "nl",
+      "text": "CURIE"
+     },
+     {
+      "language": "fr",
+      "text": "CURIE"
+     }
+    ],
+    "station_id": "221"
+   },
+   {
+    "address": "MERCKX - ROUTE DE LENNIK / LENNIKSEBAAN",
+    "capacity": 25,
+    "lat": 50.817246,
+    "lon": 4.280445,
+    "name": [
+     {
+      "language": "en",
+      "text": "MERCKX"
+     },
+     {
+      "language": "nl",
+      "text": "MERCKX"
+     },
+     {
+      "language": "fr",
+      "text": "MERCKX"
+     }
+    ],
+    "station_id": "222"
+   },
+   {
+    "address": "WIELS - AV.WIELEMANS CEUPPENS/LAAN 7",
+    "capacity": 12,
+    "lat": 50.824055,
+    "lon": 4.326376,
+    "name": [
+     {
+      "language": "en",
+      "text": "WIELS"
+     },
+     {
+      "language": "nl",
+      "text": "WIELS"
+     },
+     {
+      "language": "fr",
+      "text": "WIELS"
+     }
+    ],
+    "station_id": "223"
+   },
+   {
+    "address": "Av. Wielemans Ceuppens 188 / Wielemans Ceuppenslaan 188",
+    "capacity": 25,
+    "lat": 50.824379,
+    "lon": 4.334202,
+    "name": [
+     {
+      "language": "en",
+      "text": "ROCHEFORT"
+     },
+     {
+      "language": "nl",
+      "text": "ROCHEFORT"
+     },
+     {
+      "language": "fr",
+      "text": "ROCHEFORT"
+     }
+    ],
+    "station_id": "224"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.846755,
+    "lon": 4.352001,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "225"
+   },
+   {
+    "address": "Bd de la Deuxième Armée Britannique 2 / Brits Tweedelegerlaan 2",
+    "capacity": 25,
+    "lat": 50.819892,
+    "lon": 4.325187,
+    "name": [
+     {
+      "language": "en",
+      "text": "UNION / UNIE"
+     },
+     {
+      "language": "nl",
+      "text": "UNION / UNIE"
+     },
+     {
+      "language": "fr",
+      "text": "UNION / UNIE"
+     }
+    ],
+    "station_id": "226"
+   },
+   {
+    "address": "Rue Saint-Denis 122 / Sint-Denijsstraat 122",
+    "capacity": 20,
+    "lat": 50.816695,
+    "lon": 4.319891,
+    "name": [
+     {
+      "language": "en",
+      "text": "PATINAGE / SCHAATSEN"
+     },
+     {
+      "language": "nl",
+      "text": "PATINAGE / SCHAATSEN"
+     },
+     {
+      "language": "fr",
+      "text": "PATINAGE / SCHAATSEN"
+     }
+    ],
+    "station_id": "227"
+   },
+   {
+    "address": "ALTITUDE CENT / HOOGTE HONDERD - Pl. de l'Altitude Cent face n°31 / Hoogte Honderdplein tegenover n°31",
+    "capacity": 25,
+    "lat": 50.816525,
+    "lon": 4.336212,
+    "name": [
+     {
+      "language": "en",
+      "text": "ALTITUDE CENT / HOOGTE HONDERD"
+     },
+     {
+      "language": "nl",
+      "text": "ALTITUDE CENT / HOOGTE HONDERD"
+     },
+     {
+      "language": "fr",
+      "text": "ALTITUDE CENT / HOOGTE HONDERD"
+     }
+    ],
+    "station_id": "228"
+   },
+   {
+    "address": "Av. Van Volxem 2 / Van Volxemlaan 2",
+    "capacity": 18,
+    "lat": 50.813708,
+    "lon": 4.324706,
+    "name": [
+     {
+      "language": "en",
+      "text": "ZAMAN-FOREST NAT. / ZAMAN-VORST NAT."
+     },
+     {
+      "language": "nl",
+      "text": "ZAMAN-FOREST NAT. / ZAMAN-VORST NAT."
+     },
+     {
+      "language": "fr",
+      "text": "ZAMAN-FOREST NAT. / ZAMAN-VORST NAT."
+     }
+    ],
+    "station_id": "229"
+   },
+   {
+    "address": "BERKENDAEL / BERKENDAAL - AVENUE ALBERT / ALBERTLAAN 134",
+    "capacity": 24,
+    "lat": 50.818382,
+    "lon": 4.346061,
+    "name": [
+     {
+      "language": "en",
+      "text": "BERKENDAEL / BERKENDAAL"
+     },
+     {
+      "language": "nl",
+      "text": "BERKENDAEL / BERKENDAAL"
+     },
+     {
+      "language": "fr",
+      "text": "BERKENDAEL / BERKENDAAL"
+     }
+    ],
+    "station_id": "230"
+   },
+   {
+    "address": "KERSBEEK - AV KERSBEEK 107 / KERSBEEKLAAN 107",
+    "capacity": 19,
+    "lat": 50.805801,
+    "lon": 4.3194,
+    "name": [
+     {
+      "language": "en",
+      "text": "KERSBEEK"
+     },
+     {
+      "language": "nl",
+      "text": "KERSBEEK"
+     },
+     {
+      "language": "fr",
+      "text": "KERSBEEK"
+     }
+    ],
+    "station_id": "231"
+   },
+   {
+    "address": "DOMAINE / DOMEIN - AV DU DOMAINE (FACE 150) / DOMEINELAAN (VOOR 150)",
+    "capacity": 25,
+    "lat": 50.810875,
+    "lon": 4.329158,
+    "name": [
+     {
+      "language": "en",
+      "text": "DOMAINE / DOMEIN"
+     },
+     {
+      "language": "nl",
+      "text": "DOMAINE / DOMEIN"
+     },
+     {
+      "language": "fr",
+      "text": "DOMAINE / DOMEIN"
+     }
+    ],
+    "station_id": "232"
+   },
+   {
+    "address": "Av. Victor Rousseau 132 / Victor Rousseaulaan 132",
+    "capacity": 20,
+    "lat": 50.813938,
+    "lon": 4.330966,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARC DUDEN / DUDENPARK"
+     },
+     {
+      "language": "nl",
+      "text": "PARC DUDEN / DUDENPARK"
+     },
+     {
+      "language": "fr",
+      "text": "PARC DUDEN / DUDENPARK"
+     }
+    ],
+    "station_id": "233"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.809799,
+    "lon": 4.317546,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "234"
+   },
+   {
+    "address": "FOREST NATIONAL / VORST NATIONAAL - AV VICTOR ROUSSEAU DVT FOREST NATIONAL / VICTOR ROUSSEAU LAAN VOOR VORST NATIONAAL",
+    "capacity": 25,
+    "lat": 50.810085,
+    "lon": 4.324864,
+    "name": [
+     {
+      "language": "en",
+      "text": "FOREST NATIONAL / VORST NATIONAAL"
+     },
+     {
+      "language": "nl",
+      "text": "FOREST NATIONAL / VORST NATIONAAL"
+     },
+     {
+      "language": "fr",
+      "text": "FOREST NATIONAL / VORST NATIONAAL"
+     }
+    ],
+    "station_id": "235"
+   },
+   {
+    "address": "Rue Saint-Denis 4 / Sint-Denijsstraat 4",
+    "capacity": 25,
+    "lat": 50.812482,
+    "lon": 4.31887,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+     },
+     {
+      "language": "nl",
+      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+     },
+     {
+      "language": "fr",
+      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+     }
+    ],
+    "station_id": "236"
+   },
+   {
+    "address": "Rue de Mérode 292 / De Mérodestraat 292",
+    "capacity": 25,
+    "lat": 50.827999,
+    "lon": 4.330638,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
+     }
+    ],
+    "station_id": "237"
+   },
+   {
+    "address": "Chau. de Bruxelles 364 / Brusselsesteenweg 364",
+    "capacity": 20,
+    "lat": 50.820199,
+    "lon": 4.330806,
+    "name": [
+     {
+      "language": "en",
+      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
+     },
+     {
+      "language": "nl",
+      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
+     },
+     {
+      "language": "fr",
+      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
+     }
+    ],
+    "station_id": "238"
+   },
+   {
+    "address": "Av. Brugmann / Brugmannlaan 141",
+    "capacity": 25,
+    "lat": 50.817777,
+    "lon": 4.350406,
+    "name": [
+     {
+      "language": "en",
+      "text": "DARWIN"
+     },
+     {
+      "language": "nl",
+      "text": "DARWIN"
+     },
+     {
+      "language": "fr",
+      "text": "DARWIN"
+     }
+    ],
+    "station_id": "239"
+   },
+   {
+    "address": "Av. Albert 272 / Albertlaan 272",
+    "capacity": 23,
+    "lat": 50.81418,
+    "lon": 4.347721,
+    "name": [
+     {
+      "language": "en",
+      "text": "VANDERKINDERE"
+     },
+     {
+      "language": "nl",
+      "text": "VANDERKINDERE"
+     },
+     {
+      "language": "fr",
+      "text": "VANDERKINDERE"
+     }
+    ],
+    "station_id": "240"
+   },
+   {
+    "address": "Av. De Fré 60-62 / De Frélaan 60-62",
+    "capacity": 25,
+    "lat": 50.804006,
+    "lon": 4.349493,
+    "name": [
+     {
+      "language": "en",
+      "text": "STATUAIRES / BEELDHOUWERS"
+     },
+     {
+      "language": "nl",
+      "text": "STATUAIRES / BEELDHOUWERS"
+     },
+     {
+      "language": "fr",
+      "text": "STATUAIRES / BEELDHOUWERS"
+     }
+    ],
+    "station_id": "241"
+   },
+   {
+    "address": "Pl. Jean Vander Elst 23 / Jean Vander Elstplein 23",
+    "capacity": 25,
+    "lat": 50.803791,
+    "lon": 4.333321,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+     },
+     {
+      "language": "nl",
+      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+     },
+     {
+      "language": "fr",
+      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+     }
+    ],
+    "station_id": "242"
+   },
+   {
+    "address": "Av. de Messidor 243 / Messidorlaan 243",
+    "capacity": 25,
+    "lat": 50.811696,
+    "lon": 4.353263,
+    "name": [
+     {
+      "language": "en",
+      "text": "ROND-POINT CHURCHILL / CHURCHILLPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "ROND-POINT CHURCHILL / CHURCHILLPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "ROND-POINT CHURCHILL / CHURCHILLPLEIN"
+     }
+    ],
+    "station_id": "243"
+   },
+   {
+    "address": "Chaussée de Waterloo 781 / Waterloosesteenweg 781",
+    "capacity": 20,
+    "lat": 50.81218,
+    "lon": 4.368321,
+    "name": [
+     {
+      "language": "en",
+      "text": "BOIS DE LA CAMBRE / TERKAMERENBOS"
+     },
+     {
+      "language": "nl",
+      "text": "BOIS DE LA CAMBRE / TERKAMERENBOS"
+     },
+     {
+      "language": "fr",
+      "text": "BOIS DE LA CAMBRE / TERKAMERENBOS"
+     }
+    ],
+    "station_id": "244"
+   },
+   {
+    "address": "Chau. de Waterloo 1040 / Waterloosesteenweg 1040",
+    "capacity": 25,
+    "lat": 50.798988,
+    "lon": 4.375581,
+    "name": [
+     {
+      "language": "en",
+      "text": "HAMOIR"
+     },
+     {
+      "language": "nl",
+      "text": "HAMOIR"
+     },
+     {
+      "language": "fr",
+      "text": "HAMOIR"
+     }
+    ],
+    "station_id": "245"
+   },
+   {
+    "address": "GATTI DE GAMMOND - RUE DE STALLE PROLONGEE/STALLE STRAAT 160",
+    "capacity": 20,
+    "lat": 50.796471,
+    "lon": 4.328415,
+    "name": [
+     {
+      "language": "en",
+      "text": "GATTI DE GAMOND"
+     },
+     {
+      "language": "nl",
+      "text": "GATTI DE GAMOND"
+     },
+     {
+      "language": "fr",
+      "text": "GATTI DE GAMOND"
+     }
+    ],
+    "station_id": "246"
+   },
+   {
+    "address": "STALLE - RUE DE STALLE PROLONGEE/VERLENGDE STALLESTRAAT",
+    "capacity": 25,
+    "lat": 50.79586,
+    "lon": 4.32058,
+    "name": [
+     {
+      "language": "en",
+      "text": "STALLE"
+     },
+     {
+      "language": "nl",
+      "text": "STALLE"
+     },
+     {
+      "language": "fr",
+      "text": "STALLE"
+     }
+    ],
+    "station_id": "247"
+   },
+   {
+    "address": "Av. du Prince de Ligne 1 / Prins de Lignelaan 1",
+    "capacity": 22,
+    "lat": 50.795777,
+    "lon": 4.373405,
+    "name": [
+     {
+      "language": "en",
+      "text": "PRINCE DE LIGNE / PRINS DE LIGNE"
+     },
+     {
+      "language": "nl",
+      "text": "PRINCE DE LIGNE / PRINS DE LIGNE"
+     },
+     {
+      "language": "fr",
+      "text": "PRINCE DE LIGNE / PRINS DE LIGNE"
+     }
+    ],
+    "station_id": "248"
+   },
+   {
+    "address": "Pl. de Saint-Job (à côté de l'église) / Sint-Jobsplein (naast de kerk)",
+    "capacity": 25,
+    "lat": 50.794173,
+    "lon": 4.366414,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINT-JOB / SINT-JOB"
+     },
+     {
+      "language": "nl",
+      "text": "SAINT-JOB / SINT-JOB"
+     },
+     {
+      "language": "fr",
+      "text": "SAINT-JOB / SINT-JOB"
+     }
+    ],
+    "station_id": "249"
+   },
+   {
+    "address": "Chau. de Waterloo x Av. De Fré / Waterloosesteenweg x De Frélaan",
+    "capacity": 25,
+    "lat": 50.805409,
+    "lon": 4.371953,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINTE-ELISABETH / SINT-ELISABETH"
+     },
+     {
+      "language": "nl",
+      "text": "SAINTE-ELISABETH / SINT-ELISABETH"
+     },
+     {
+      "language": "fr",
+      "text": "SAINTE-ELISABETH / SINT-ELISABETH"
+     }
+    ],
+    "station_id": "250"
+   },
+   {
+    "address": "Rue Victor Allard 212 / Victor Allardstraat 212",
+    "capacity": 20,
+    "lat": 50.800377,
+    "lon": 4.326985,
+    "name": [
+     {
+      "language": "en",
+      "text": "PAOLA"
+     },
+     {
+      "language": "nl",
+      "text": "PAOLA"
+     },
+     {
+      "language": "fr",
+      "text": "PAOLA"
+     }
+    ],
+    "station_id": "251"
+   },
+   {
+    "address": "Chaussée de Neerstalle / Neerstalsesteenweg 226",
+    "capacity": 23,
+    "lat": 50.803413,
+    "lon": 4.314756,
+    "name": [
+     {
+      "language": "en",
+      "text": "BEMPT"
+     },
+     {
+      "language": "nl",
+      "text": "BEMPT"
+     },
+     {
+      "language": "fr",
+      "text": "BEMPT"
+     }
+    ],
+    "station_id": "252"
+   },
+   {
+    "address": "Pl. Reine Fabiola 10 / Koningin Fabiolaplein 10",
+    "capacity": 25,
+    "lat": 50.872676,
+    "lon": 4.314497,
+    "name": [
+     {
+      "language": "en",
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
+     },
+     {
+      "language": "nl",
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
+     },
+     {
+      "language": "fr",
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
+     }
+    ],
+    "station_id": "253"
+   },
+   {
+    "address": "Av. Gloires Nationales x Av. Jacques Sermon / Nationale Glorielaan x Jacques Sermonlaan",
+    "capacity": 22,
+    "lat": 50.867393,
+    "lon": 4.320344,
+    "name": [
+     {
+      "language": "en",
+      "text": "BASILIQUE / BASILIEK"
+     },
+     {
+      "language": "nl",
+      "text": "BASILIQUE / BASILIEK"
+     },
+     {
+      "language": "fr",
+      "text": "BASILIQUE / BASILIEK"
+     }
+    ],
+    "station_id": "254"
+   },
+   {
+    "address": "Av. Charles-Quint 27 / Keizer Karellaan 27",
+    "capacity": 25,
+    "lat": 50.868038,
+    "lon": 4.314122,
+    "name": [
+     {
+      "language": "en",
+      "text": "SACRE-COEUR DE GANSHOREN"
+     },
+     {
+      "language": "nl",
+      "text": "SACRE-COEUR DE GANSHOREN"
+     },
+     {
+      "language": "fr",
+      "text": "SACRE-COEUR DE GANSHOREN"
+     }
+    ],
+    "station_id": "255"
+   },
+   {
+    "address": "VAN OVERBEKE / AV VAN OVERBEKE / VAN OVERBEKELAAN",
+    "capacity": 24,
+    "lat": 50.874767,
+    "lon": 4.308977,
+    "name": [
+     {
+      "language": "en",
+      "text": "VAN OVERBEKE"
+     },
+     {
+      "language": "nl",
+      "text": "VAN OVERBEKE"
+     },
+     {
+      "language": "fr",
+      "text": "VAN OVERBEKE"
+     }
+    ],
+    "station_id": "256"
+   },
+   {
+    "address": "Pl. Marguerite d'Autriche 4 / Margaretha van Oostenrijkplein 4",
+    "capacity": 25,
+    "lat": 50.872249,
+    "lon": 4.298174,
+    "name": [
+     {
+      "language": "en",
+      "text": "MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
+     },
+     {
+      "language": "nl",
+      "text": "MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
+     },
+     {
+      "language": "fr",
+      "text": "MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
+     }
+    ],
+    "station_id": "257"
+   },
+   {
+    "address": "Av. de la Liberté 44 / Vrijheidslaan 44",
+    "capacity": 18,
+    "lat": 50.862199,
+    "lon": 4.323446,
+    "name": [
+     {
+      "language": "en",
+      "text": "LIBERTE / VRIJHEID"
+     },
+     {
+      "language": "nl",
+      "text": "LIBERTE / VRIJHEID"
+     },
+     {
+      "language": "fr",
+      "text": "LIBERTE / VRIJHEID"
+     }
+    ],
+    "station_id": "258"
+   },
+   {
+    "address": "Square de Noville / Novillesquare",
+    "capacity": 20,
+    "lat": 50.859608,
+    "lon": 4.33409,
+    "name": [
+     {
+      "language": "en",
+      "text": "NOVILLE"
+     },
+     {
+      "language": "nl",
+      "text": "NOVILLE"
+     },
+     {
+      "language": "fr",
+      "text": "NOVILLE"
+     }
+    ],
+    "station_id": "259"
+   },
+   {
+    "address": "TRITON - AVENUE DES ANCIENS COMBATTANTS - PISCINE / OUD-STRIJDERSLAAN - ZWEMBAD",
+    "capacity": 25,
+    "lat": 50.86702,
+    "lon": 4.406995,
+    "name": [
+     {
+      "language": "en",
+      "text": "TRITON"
+     },
+     {
+      "language": "nl",
+      "text": "TRITON"
+     },
+     {
+      "language": "fr",
+      "text": "TRITON"
+     }
+    ],
+    "station_id": "260"
+   },
+   {
+    "address": "CONSCIENCE - AVENUE HENRI CONSCIENCE / HENRI CONSCIENCELAAN 83",
+    "capacity": 20,
+    "lat": 50.86879,
+    "lon": 4.399587,
+    "name": [
+     {
+      "language": "en",
+      "text": "CONSCIENCE"
+     },
+     {
+      "language": "nl",
+      "text": "CONSCIENCE"
+     },
+     {
+      "language": "fr",
+      "text": "CONSCIENCE"
+     }
+    ],
+    "station_id": "261"
+   },
+   {
+    "address": "PLACE DE LA PAIX / VREDEPLEIN 24",
+    "capacity": 20,
+    "lat": 50.87693,
+    "lon": 4.400722,
+    "name": [
+     {
+      "language": "en",
+      "text": "PLACE DE LA PAIX / VREDEPLEIN"
+     },
+     {
+      "language": "nl",
+      "text": "PLACE DE LA PAIX / VREDEPLEIN"
+     },
+     {
+      "language": "fr",
+      "text": "PLACE DE LA PAIX / VREDEPLEIN"
+     }
+    ],
+    "station_id": "262"
+   },
+   {
+    "address": "Square Hoedemaekers 7 / Hoedemaekerssquare 7",
+    "capacity": 19,
+    "lat": 50.871919,
+    "lon": 4.403183,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAISON COMMUNALE EVERE / GEMEENTEHUIS EVERE"
+     },
+     {
+      "language": "nl",
+      "text": "MAISON COMMUNALE EVERE / GEMEENTEHUIS EVERE"
+     },
+     {
+      "language": "fr",
+      "text": "MAISON COMMUNALE EVERE / GEMEENTEHUIS EVERE"
+     }
+    ],
+    "station_id": "263"
+   },
+   {
+    "address": "Av. Notre-Dame 57 / Onze Lieve Vrouwlaan 57",
+    "capacity": 20,
+    "lat": 50.871013,
+    "lon": 4.397616,
+    "name": [
+     {
+      "language": "en",
+      "text": "NOTRE-DAME / ONZE-LIEVE-VROUW"
+     },
+     {
+      "language": "nl",
+      "text": "NOTRE-DAME / ONZE-LIEVE-VROUW"
+     },
+     {
+      "language": "fr",
+      "text": "NOTRE-DAME / ONZE-LIEVE-VROUW"
+     }
+    ],
+    "station_id": "264"
+   },
+   {
+    "address": "EVERE SHOPPING - AV DES LOISIRS / VRIJETIJDSLAAN",
+    "capacity": 25,
+    "lat": 50.867241,
+    "lon": 4.40287,
+    "name": [
+     {
+      "language": "en",
+      "text": "EVERE SHOPPING"
+     },
+     {
+      "language": "nl",
+      "text": "EVERE SHOPPING"
+     },
+     {
+      "language": "fr",
+      "text": "EVERE SHOPPING"
+     }
+    ],
+    "station_id": "265"
+   },
+   {
+    "address": "Chau. de Haecht 1145 / Haachtsesteenweg 1145",
+    "capacity": 21,
+    "lat": 50.877476,
+    "lon": 4.409133,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DE BORDET / BORDET STATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DE BORDET / BORDET STATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DE BORDET / BORDET STATION"
+     }
+    ],
+    "station_id": "266"
+   },
+   {
+    "address": "GENEVE - RUE DE GENEVE /  GENEVESTRAT 12",
+    "capacity": 25,
+    "lat": 50.862912,
+    "lon": 4.403226,
+    "name": [
+     {
+      "language": "en",
+      "text": "GENEVE"
+     },
+     {
+      "language": "nl",
+      "text": "GENEVE"
+     },
+     {
+      "language": "fr",
+      "text": "GENEVE"
+     }
+    ],
+    "station_id": "267"
+   },
+   {
+    "address": "DUNANT - AV HENRI DUNANT / HENRI DUNANTLAAN",
+    "capacity": 20,
+    "lat": 50.862808,
+    "lon": 4.410791,
+    "name": [
+     {
+      "language": "en",
+      "text": "DUNANT"
+     },
+     {
+      "language": "nl",
+      "text": "DUNANT"
+     },
+     {
+      "language": "fr",
+      "text": "DUNANT"
+     }
+    ],
+    "station_id": "268"
+   },
+   {
+    "address": "Chau. de Louvain 951 / Leuvensesteenweg 951",
+    "capacity": 25,
+    "lat": 50.860957,
+    "lon": 4.421515,
+    "name": [
+     {
+      "language": "en",
+      "text": "CICERON / CICERO"
+     },
+     {
+      "language": "nl",
+      "text": "CICERON / CICERO"
+     },
+     {
+      "language": "fr",
+      "text": "CICERON / CICERO"
+     }
+    ],
+    "station_id": "269"
+   },
+   {
+    "address": "Av. des Anciens Combattants / Oud-Strijderslaan 1",
+    "capacity": 25,
+    "lat": 50.859215,
+    "lon": 4.414115,
+    "name": [
+     {
+      "language": "en",
+      "text": "DE PADUWA"
+     },
+     {
+      "language": "nl",
+      "text": "DE PADUWA"
+     },
+     {
+      "language": "fr",
+      "text": "DE PADUWA"
+     }
+    ],
+    "station_id": "270"
+   },
+   {
+    "address": "Bd Edmond Machtens 130 / Edmond Machtenslaan 130",
+    "capacity": 25,
+    "lat": 50.851158,
+    "lon": 4.309591,
+    "name": [
+     {
+      "language": "en",
+      "text": "DUBOIS"
+     },
+     {
+      "language": "nl",
+      "text": "DUBOIS"
+     },
+     {
+      "language": "fr",
+      "text": "DUBOIS"
+     }
+    ],
+    "station_id": "271"
+   },
+   {
+    "address": "Bd Louis Mettewie 419 / Louis Mettewielaan 419",
+    "capacity": 24,
+    "lat": 50.851129,
+    "lon": 4.299792,
+    "name": [
+     {
+      "language": "en",
+      "text": "SCHEUTBOS"
+     },
+     {
+      "language": "nl",
+      "text": "SCHEUTBOS"
+     },
+     {
+      "language": "fr",
+      "text": "SCHEUTBOS"
+     }
+    ],
+    "station_id": "272"
+   },
+   {
+    "address": "Bd Louis Mettewie 76 / Louis Mettewielaan 76",
+    "capacity": 25,
+    "lat": 50.854809,
+    "lon": 4.306337,
+    "name": [
+     {
+      "language": "en",
+      "text": "TAMARIS / TAMARISKEN"
+     },
+     {
+      "language": "nl",
+      "text": "TAMARIS / TAMARISKEN"
+     },
+     {
+      "language": "fr",
+      "text": "TAMARIS / TAMARISKEN"
+     }
+    ],
+    "station_id": "273"
+   },
+   {
+    "address": "Chau. de Gand 585 / Gentsesteenweg 585",
+    "capacity": 25,
+    "lat": 50.860027,
+    "lon": 4.307686,
+    "name": [
+     {
+      "language": "en",
+      "text": "CORHAY"
+     },
+     {
+      "language": "nl",
+      "text": "CORHAY"
+     },
+     {
+      "language": "fr",
+      "text": "CORHAY"
+     }
+    ],
+    "station_id": "274"
+   },
+   {
+    "address": "VERSAILLES - AVENUE DE VERSAILLES / VERSAILLESLAAN 125",
+    "capacity": 20,
+    "lat": 50.896278,
+    "lon": 4.372427,
+    "name": [
+     {
+      "language": "en",
+      "text": "VERSAILLES"
+     },
+     {
+      "language": "nl",
+      "text": "VERSAILLES"
+     },
+     {
+      "language": "fr",
+      "text": "VERSAILLES"
+     }
+    ],
+    "station_id": "275"
+   },
+   {
+    "address": "Av. des Croix de Guerre 106 / Oorlogskruisenlaan 106",
+    "capacity": 25,
+    "lat": 50.889521,
+    "lon": 4.380226,
+    "name": [
+     {
+      "language": "en",
+      "text": "CROIX DE GUERRE / OORLOGSKRUISEN"
+     },
+     {
+      "language": "nl",
+      "text": "CROIX DE GUERRE / OORLOGSKRUISEN"
+     },
+     {
+      "language": "fr",
+      "text": "CROIX DE GUERRE / OORLOGSKRUISEN"
+     }
+    ],
+    "station_id": "276"
+   },
+   {
+    "address": "Bd de Lambermont x Chau. de Vilvorde 1 / Lambermontlaan x Vilvoordelaan 1",
+    "capacity": 21,
+    "lat": 50.881588,
+    "lon": 4.373817,
+    "name": [
+     {
+      "language": "en",
+      "text": "VAN PRAET"
+     },
+     {
+      "language": "nl",
+      "text": "VAN PRAET"
+     },
+     {
+      "language": "fr",
+      "text": "VAN PRAET"
+     }
+    ],
+    "station_id": "277"
+   },
+   {
+    "address": "Av. Houba de Strooper 510 / Houba de Strooperlaan 510",
+    "capacity": 25,
+    "lat": 50.893923,
+    "lon": 4.332117,
+    "name": [
+     {
+      "language": "en",
+      "text": "STADE / STADION"
+     },
+     {
+      "language": "nl",
+      "text": "STADE / STADION"
+     },
+     {
+      "language": "fr",
+      "text": "STADE / STADION"
+     }
+    ],
+    "station_id": "278"
+   },
+   {
+    "address": "Av. Houba de Strooper 141 / Houba de Strooperlaan 141",
+    "capacity": 25,
+    "lat": 50.890231,
+    "lon": 4.336993,
+    "name": [
+     {
+      "language": "en",
+      "text": "HOUBA-BRUGMANN"
+     },
+     {
+      "language": "nl",
+      "text": "HOUBA-BRUGMANN"
+     },
+     {
+      "language": "fr",
+      "text": "HOUBA-BRUGMANN"
+     }
+    ],
+    "station_id": "279"
+   },
+   {
+    "address": "Av. Impératrice Charlotte x Av. des Athlètes / Keizerin Charlottelaan x Atletenlaan",
+    "capacity": 25,
+    "lat": 50.897522,
+    "lon": 4.334831,
+    "name": [
+     {
+      "language": "en",
+      "text": "HEYSEL / HEIZEL"
+     },
+     {
+      "language": "nl",
+      "text": "HEYSEL / HEIZEL"
+     },
+     {
+      "language": "fr",
+      "text": "HEYSEL / HEIZEL"
+     }
+    ],
+    "station_id": "280"
+   },
+   {
+    "address": "ATOMIUM - BOULEVARD DU CENTENAIRE / EEUWFEESTLAAN",
+    "capacity": 25,
+    "lat": 50.895485,
+    "lon": 4.341311,
+    "name": [
+     {
+      "language": "en",
+      "text": "ATOMIUM"
+     },
+     {
+      "language": "nl",
+      "text": "ATOMIUM"
+     },
+     {
+      "language": "fr",
+      "text": "ATOMIUM"
+     }
+    ],
+    "station_id": "281"
+   },
+   {
+    "address": "CENTENAIRE / EEUWFEEST - BOULEVARD DU CENTENAIRE / EEUWFEESTLAAN",
+    "capacity": 25,
+    "lat": 50.89097,
+    "lon": 4.344827,
+    "name": [
+     {
+      "language": "en",
+      "text": "CENTENAIRE / EEUWFEEST"
+     },
+     {
+      "language": "nl",
+      "text": "CENTENAIRE / EEUWFEEST"
+     },
+     {
+      "language": "fr",
+      "text": "CENTENAIRE / EEUWFEEST"
+     }
+    ],
+    "station_id": "282"
+   },
+   {
+    "address": "Rue de Lombartzyde 118 / Lombartsijdestraat 118",
+    "capacity": 14,
+    "lat": 50.893166,
+    "lon": 4.376996,
+    "name": [
+     {
+      "language": "en",
+      "text": "PISCINE / ZWEMBAD"
+     },
+     {
+      "language": "nl",
+      "text": "PISCINE / ZWEMBAD"
+     },
+     {
+      "language": "fr",
+      "text": "PISCINE / ZWEMBAD"
+     }
+    ],
+    "station_id": "283"
+   },
+   {
+    "address": "CLAESSENS - RUE CLAESSENS FACE 7 / CLAESSENSSTRAAT VOOR 7",
+    "capacity": 25,
+    "lat": 50.873085,
+    "lon": 4.35859,
+    "name": [
+     {
+      "language": "en",
+      "text": "CLAESSENS"
+     },
+     {
+      "language": "nl",
+      "text": "CLAESSENS"
+     },
+     {
+      "language": "fr",
+      "text": "CLAESSENS"
+     }
+    ],
+    "station_id": "284"
+   },
+   {
+    "address": "COGHEN - AV COGHEN 1 A 5 / COGHENSTRAAT 1 TOT 5",
+    "capacity": 25,
+    "lat": 50.813469,
+    "lon": 4.338951,
+    "name": [
+     {
+      "language": "en",
+      "text": "COGHEN"
+     },
+     {
+      "language": "nl",
+      "text": "COGHEN"
+     },
+     {
+      "language": "fr",
+      "text": "COGHEN"
+     }
+    ],
+    "station_id": "285"
+   },
+   {
+    "address": "Chau. d'Alsemberg 615 / Alsembergsesteenweg 615",
+    "capacity": 18,
+    "lat": 50.8081,
+    "lon": 4.336816,
+    "name": [
+     {
+      "language": "en",
+      "text": "BENS"
+     },
+     {
+      "language": "nl",
+      "text": "BENS"
+     },
+     {
+      "language": "fr",
+      "text": "BENS"
+     }
+    ],
+    "station_id": "286"
+   },
+   {
+    "address": "FLOREAL - AV BRUGMANN 359 / BRUGMANNLAAN 359",
+    "capacity": 23,
+    "lat": 50.809334,
+    "lon": 4.345243,
+    "name": [
+     {
+      "language": "en",
+      "text": "FLOREAL"
+     },
+     {
+      "language": "nl",
+      "text": "FLOREAL"
+     },
+     {
+      "language": "fr",
+      "text": "FLOREAL"
+     }
+    ],
+    "station_id": "287"
+   },
+   {
+    "address": "HOUZEAU - AVENUE HOUZEAU 21 / HOUZEAULAAN 21",
+    "capacity": 18,
+    "lat": 50.80351,
+    "lon": 4.3589,
+    "name": [
+     {
+      "language": "en",
+      "text": "HOUZEAU"
+     },
+     {
+      "language": "nl",
+      "text": "HOUZEAU"
+     },
+     {
+      "language": "fr",
+      "text": "HOUZEAU"
+     }
+    ],
+    "station_id": "288"
+   },
+   {
+    "address": "Square Georges Marlow 4 / Georges Marlowsquare 4",
+    "capacity": 25,
+    "lat": 50.801818,
+    "lon": 4.340812,
+    "name": [
+     {
+      "language": "en",
+      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
+     },
+     {
+      "language": "nl",
+      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
+     },
+     {
+      "language": "fr",
+      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
+     }
+    ],
+    "station_id": "289"
+   },
+   {
+    "address": "Chau. d'Alsemberg 1006 / Alsembergsesteenweg 1006",
+    "capacity": 24,
+    "lat": 50.791568,
+    "lon": 4.332586,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DE CALEVOET / KALEVOET STATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DE CALEVOET / KALEVOET STATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DE CALEVOET / KALEVOET STATION"
+     }
+    ],
+    "station_id": "290"
+   },
+   {
+    "address": "DECROLY - RUE GATTI DE GAMMOND / GATTI DE GAMMOND STRAAT",
+    "capacity": 19,
+    "lat": 50.804661,
+    "lon": 4.327886,
+    "name": [
+     {
+      "language": "en",
+      "text": "DECROLY"
+     },
+     {
+      "language": "nl",
+      "text": "DECROLY"
+     },
+     {
+      "language": "fr",
+      "text": "DECROLY"
+     }
+    ],
+    "station_id": "291"
+   },
+   {
+    "address": "RITTWEGER - RUE RITTWEGER 6-8 / RITTWEGERSTRAAT 6-8",
+    "capacity": 20,
+    "lat": 50.797739,
+    "lon": 4.336083,
+    "name": [
+     {
+      "language": "en",
+      "text": "RITTWEGER"
+     },
+     {
+      "language": "nl",
+      "text": "RITTWEGER"
+     },
+     {
+      "language": "fr",
+      "text": "RITTWEGER"
+     }
+    ],
+    "station_id": "292"
+   },
+   {
+    "address": "KEYM - AVENUE DU COLVERT",
+    "capacity": 25,
+    "lat": 50.810528,
+    "lon": 4.40231,
+    "name": [
+     {
+      "language": "en",
+      "text": "KEYM"
+     },
+     {
+      "language": "nl",
+      "text": "KEYM"
+     },
+     {
+      "language": "fr",
+      "text": "KEYM"
+     }
+    ],
+    "station_id": "293"
+   },
+   {
+    "address": "Pl. Léopold Wiener 2 / Léopold Wienerplein 2",
+    "capacity": 25,
+    "lat": 50.798344,
+    "lon": 4.419014,
+    "name": [
+     {
+      "language": "en",
+      "text": "WIENER"
+     },
+     {
+      "language": "nl",
+      "text": "WIENER"
+     },
+     {
+      "language": "fr",
+      "text": "WIENER"
+     }
+    ],
+    "station_id": "294"
+   },
+   {
+    "address": "Av. de la Foresterie 2 / Vorsterielaan 2",
+    "capacity": 25,
+    "lat": 50.793682,
+    "lon": 4.418497,
+    "name": [
+     {
+      "language": "en",
+      "text": "COIN DU BALAI / BEZEMHOEK"
+     },
+     {
+      "language": "nl",
+      "text": "COIN DU BALAI / BEZEMHOEK"
+     },
+     {
+      "language": "fr",
+      "text": "COIN DU BALAI / BEZEMHOEK"
+     }
+    ],
+    "station_id": "295"
+   },
+   {
+    "address": "Chau. de la Hulpe 191 / Terhulpsesteenweg 191",
+    "capacity": 25,
+    "lat": 50.795209,
+    "lon": 4.408152,
+    "name": [
+     {
+      "language": "en",
+      "text": "BOITSFORT GARE / BOSVOORDE STATION"
+     },
+     {
+      "language": "nl",
+      "text": "BOITSFORT GARE / BOSVOORDE STATION"
+     },
+     {
+      "language": "fr",
+      "text": "BOITSFORT GARE / BOSVOORDE STATION"
+     }
+    ],
+    "station_id": "296"
+   },
+   {
+    "address": "Bd du Souverain 76 / Vorstlaan 76",
+    "capacity": 25,
+    "lat": 50.804951,
+    "lon": 4.426541,
+    "name": [
+     {
+      "language": "en",
+      "text": "TENREUKEN"
+     },
+     {
+      "language": "nl",
+      "text": "TENREUKEN"
+     },
+     {
+      "language": "fr",
+      "text": "TENREUKEN"
+     }
+    ],
+    "station_id": "297"
+   },
+   {
+    "address": "Rue Vanderveken 157B / Vandervekenstraat 157B",
+    "capacity": 25,
+    "lat": 50.877082,
+    "lon": 4.301232,
+    "name": [
+     {
+      "language": "en",
+      "text": "HALL DES SPORTS / SPORTHAL"
+     },
+     {
+      "language": "nl",
+      "text": "HALL DES SPORTS / SPORTHAL"
+     },
+     {
+      "language": "fr",
+      "text": "HALL DES SPORTS / SPORTHAL"
+     }
+    ],
+    "station_id": "298"
+   },
+   {
+    "address": "Av. du Pesage 24 / Waaglaan 24",
+    "capacity": 20,
+    "lat": 50.809494,
+    "lon": 4.386465,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINT-ADRIEN / SINT-ADRIANUS"
+     },
+     {
+      "language": "nl",
+      "text": "SAINT-ADRIEN / SINT-ADRIANUS"
+     },
+     {
+      "language": "fr",
+      "text": "SAINT-ADRIEN / SINT-ADRIANUS"
+     }
+    ],
+    "station_id": "299"
+   },
+   {
+    "address": "Av. de la Forêt 23 / Vorstlaan 23",
+    "capacity": 25,
+    "lat": 50.801455,
+    "lon": 4.392831,
+    "name": [
+     {
+      "language": "en",
+      "text": "BOONDAEL GARE / BOONDAAL STATION"
+     },
+     {
+      "language": "nl",
+      "text": "BOONDAEL GARE / BOONDAAL STATION"
+     },
+     {
+      "language": "fr",
+      "text": "BOONDAEL GARE / BOONDAAL STATION"
+     }
+    ],
+    "station_id": "300"
+   },
+   {
+    "address": "MARIE-JOSE - PLACE MARIE-JOSE FACE 14 / MARIE-JOSE PLAATS VOOR 14",
+    "capacity": 22,
+    "lat": 50.806552,
+    "lon": 4.387843,
+    "name": [
+     {
+      "language": "en",
+      "text": "MARIE-JOSE"
+     },
+     {
+      "language": "nl",
+      "text": "MARIE-JOSE"
+     },
+     {
+      "language": "fr",
+      "text": "MARIE-JOSE"
+     }
+    ],
+    "station_id": "301"
+   },
+   {
+    "address": "Av. du Bois de la Cambre 111 / Terkamerenboslaan 111",
+    "capacity": 25,
+    "lat": 50.807938,
+    "lon": 4.392845,
+    "name": [
+     {
+      "language": "en",
+      "text": "VIEUX TILLEUL / OUDE LINDE"
+     },
+     {
+      "language": "nl",
+      "text": "VIEUX TILLEUL / OUDE LINDE"
+     },
+     {
+      "language": "fr",
+      "text": "VIEUX TILLEUL / OUDE LINDE"
+     }
+    ],
+    "station_id": "303"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.893497,
+    "lon": 4.363297,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "304"
+   },
+   {
+    "address": "PETER BENOIT - PLACE PETER BENOIT PLAATS 2-4",
+    "capacity": 25,
+    "lat": 50.895592,
+    "lon": 4.387965,
+    "name": [
+     {
+      "language": "en",
+      "text": "PETER BENOIT"
+     },
+     {
+      "language": "nl",
+      "text": "PETER BENOIT"
+     },
+     {
+      "language": "fr",
+      "text": "PETER BENOIT"
+     }
+    ],
+    "station_id": "305"
+   },
+   {
+    "address": "Av. des Pagodes 13 / Pagodenlaan 13",
+    "capacity": 25,
+    "lat": 50.889187,
+    "lon": 4.37499,
+    "name": [
+     {
+      "language": "en",
+      "text": "HEEMBEEK"
+     },
+     {
+      "language": "nl",
+      "text": "HEEMBEEK"
+     },
+     {
+      "language": "fr",
+      "text": "HEEMBEEK"
+     }
+    ],
+    "station_id": "306"
+   },
+   {
+    "address": "Bd Emile Bockstael 307 / Emile Bockstaellaan 307",
+    "capacity": 20,
+    "lat": 50.88194,
+    "lon": 4.347501,
+    "name": [
+     {
+      "language": "en",
+      "text": "KAREL BOGAERD"
+     },
+     {
+      "language": "nl",
+      "text": "KAREL BOGAERD"
+     },
+     {
+      "language": "fr",
+      "text": "KAREL BOGAERD"
+     }
+    ],
+    "station_id": "307"
+   },
+   {
+    "address": "Rue de Molenbeek x Rue de Wautier / Molenbeeksestraat x De Wautierstraat",
+    "capacity": 19,
+    "lat": 50.872276,
+    "lon": 4.351953,
+    "name": [
+     {
+      "language": "en",
+      "text": "TIVOLI"
+     },
+     {
+      "language": "nl",
+      "text": "TIVOLI"
+     },
+     {
+      "language": "fr",
+      "text": "TIVOLI"
+     }
+    ],
+    "station_id": "308"
+   },
+   {
+    "address": "Square du Centenaire 37 / Eeuwfeestsquare 37",
+    "capacity": 25,
+    "lat": 50.875535,
+    "lon": 4.318377,
+    "name": [
+     {
+      "language": "en",
+      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
+     },
+     {
+      "language": "nl",
+      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
+     },
+     {
+      "language": "fr",
+      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
+     }
+    ],
+    "station_id": "309"
+   },
+   {
+    "address": "Rue Stroobants 75 / Stroobantsstraat 75",
+    "capacity": 20,
+    "lat": 50.87992,
+    "lon": 4.400427,
+    "name": [
+     {
+      "language": "en",
+      "text": "SAINT-VINCENT / SINT-VINCENTIUS"
+     },
+     {
+      "language": "nl",
+      "text": "SAINT-VINCENT / SINT-VINCENTIUS"
+     },
+     {
+      "language": "fr",
+      "text": "SAINT-VINCENT / SINT-VINCENTIUS"
+     }
+    ],
+    "station_id": "310"
+   },
+   {
+    "address": "DELTA - BD DES INVALIDES / INVALIDENLAAN",
+    "capacity": 22,
+    "lat": 50.818322,
+    "lon": 4.404122,
+    "name": [
+     {
+      "language": "en",
+      "text": "DELTA"
+     },
+     {
+      "language": "nl",
+      "text": "DELTA"
+     },
+     {
+      "language": "fr",
+      "text": "DELTA"
+     }
+    ],
+    "station_id": "311"
+   },
+   {
+    "address": "Bd du Souverain 182 / Vorstlaan 182",
+    "capacity": 25,
+    "lat": 50.817087,
+    "lon": 4.426761,
+    "name": [
+     {
+      "language": "en",
+      "text": "CENTRE CULTUREL / CULTUREEL CENTRUM"
+     },
+     {
+      "language": "nl",
+      "text": "CENTRE CULTUREL / CULTUREEL CENTRUM"
+     },
+     {
+      "language": "fr",
+      "text": "CENTRE CULTUREL / CULTUREEL CENTRUM"
+     }
+    ],
+    "station_id": "312"
+   },
+   {
+    "address": "DEMEY - INTERSECTION BD INVALIDENLAAN / AV LOUIS DEHOUXLAAN",
+    "capacity": 25,
+    "lat": 50.814858,
+    "lon": 4.417184,
+    "name": [
+     {
+      "language": "en",
+      "text": "DEMEY"
+     },
+     {
+      "language": "nl",
+      "text": "DEMEY"
+     },
+     {
+      "language": "fr",
+      "text": "DEMEY"
+     }
+    ],
+    "station_id": "313"
+   },
+   {
+    "address": "Av. Herrmann-Debroux 1 / Herrmann-Debrouxlaan 1",
+    "capacity": 30,
+    "lat": 50.812325,
+    "lon": 4.427962,
+    "name": [
+     {
+      "language": "en",
+      "text": "HERRMANN-DEBROUX"
+     },
+     {
+      "language": "nl",
+      "text": "HERRMANN-DEBROUX"
+     },
+     {
+      "language": "fr",
+      "text": "HERRMANN-DEBROUX"
+     }
+    ],
+    "station_id": "314"
+   },
+   {
+    "address": "Square du Sacré-Coeur / Heilig Hartsquare",
+    "capacity": 19,
+    "lat": 50.810322,
+    "lon": 4.435789,
+    "name": [
+     {
+      "language": "en",
+      "text": "SACRE-COEUR AUDERGHEM / HEILIG HART OUDERGEM"
+     },
+     {
+      "language": "nl",
+      "text": "SACRE-COEUR AUDERGHEM / HEILIG HART OUDERGEM"
+     },
+     {
+      "language": "fr",
+      "text": "SACRE-COEUR AUDERGHEM / HEILIG HART OUDERGEM"
+     }
+    ],
+    "station_id": "315"
+   },
+   {
+    "address": "Av. Isidore Geyskens 108 / Isidore Geyskenslaan 108",
+    "capacity": 20,
+    "lat": 50.820097,
+    "lon": 4.42214,
+    "name": [
+     {
+      "language": "en",
+      "text": "GEYSKENS"
+     },
+     {
+      "language": "nl",
+      "text": "GEYSKENS"
+     },
+     {
+      "language": "fr",
+      "text": "GEYSKENS"
+     }
+    ],
+    "station_id": "317"
+   },
+   {
+    "address": "Pl. Cardinal Mercier 10 / Kardinaal Mercierplein 10",
+    "capacity": 20,
+    "lat": 50.880539,
+    "lon": 4.32823,
+    "name": [
+     {
+      "language": "en",
+      "text": "CARDINAL MERCIER / KARDINAAL MERCIER"
+     },
+     {
+      "language": "nl",
+      "text": "CARDINAL MERCIER / KARDINAAL MERCIER"
+     },
+     {
+      "language": "fr",
+      "text": "CARDINAL MERCIER / KARDINAAL MERCIER"
+     }
+    ],
+    "station_id": "318"
+   },
+   {
+    "address": "Pl. de l'Ancienne Barrière 11 / Oude Afspanningsplein 11",
+    "capacity": 20,
+    "lat": 50.884954,
+    "lon": 4.317553,
+    "name": [
+     {
+      "language": "en",
+      "text": "ANCIENNE BARRIERE / OUDE AFSPANNING"
+     },
+     {
+      "language": "nl",
+      "text": "ANCIENNE BARRIERE / OUDE AFSPANNING"
+     },
+     {
+      "language": "fr",
+      "text": "ANCIENNE BARRIERE / OUDE AFSPANNING"
+     }
+    ],
+    "station_id": "319"
+   },
+   {
+    "address": "UZ BRUSSEL - AVENUE DE L'ARBRE BALLON / DIKKE-BEUKLAAN",
+    "capacity": 20,
+    "lat": 50.886451,
+    "lon": 4.310966,
+    "name": [
+     {
+      "language": "en",
+      "text": "UZ BRUSSEL"
+     },
+     {
+      "language": "nl",
+      "text": "UZ BRUSSEL"
+     },
+     {
+      "language": "fr",
+      "text": "UZ BRUSSEL"
+     }
+    ],
+    "station_id": "320"
+   },
+   {
+    "address": "Av. du Sacré-Cœur 8 / Heilig-Hartlaan 8",
+    "capacity": 19,
+    "lat": 50.884229,
+    "lon": 4.330276,
+    "name": [
+     {
+      "language": "en",
+      "text": "SACRE-CŒUR DE JETTE / HEILIG HART VAN JETTE"
+     },
+     {
+      "language": "nl",
+      "text": "SACRE-CŒUR DE JETTE / HEILIG HART VAN JETTE"
+     },
+     {
+      "language": "fr",
+      "text": "SACRE-CŒUR DE JETTE / HEILIG HART VAN JETTE"
+     }
+    ],
+    "station_id": "321"
+   },
+   {
+    "address": "Rue J.-B. Moyens 20 / J.-B. Moyensstraat 20",
+    "capacity": 20,
+    "lat": 50.889582,
+    "lon": 4.316351,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARC ROI BAUDOUIN / KONING BOUDEWIJNPARK"
+     },
+     {
+      "language": "nl",
+      "text": "PARC ROI BAUDOUIN / KONING BOUDEWIJNPARK"
+     },
+     {
+      "language": "fr",
+      "text": "PARC ROI BAUDOUIN / KONING BOUDEWIJNPARK"
+     }
+    ],
+    "station_id": "322"
+   },
+   {
+    "address": "Av. Léon Grosjean 103 / Léon Grosjeanlaan 103",
+    "capacity": 20,
+    "lat": 50.85517,
+    "lon": 4.415303,
+    "name": [
+     {
+      "language": "en",
+      "text": "CARENE / CARINA"
+     },
+     {
+      "language": "nl",
+      "text": "CARENE / CARINA"
+     },
+     {
+      "language": "fr",
+      "text": "CARENE / CARINA"
+     }
+    ],
+    "station_id": "323"
+   },
+   {
+    "address": "THOMAS BALIS - CHEE DE WAVRE 1395 à 1403 / WAVERSESTEENWEG 1395 TOT 1403",
+    "capacity": 25,
+    "lat": 50.819641,
+    "lon": 4.412926,
+    "name": [
+     {
+      "language": "en",
+      "text": "THOMAS BALIS"
+     },
+     {
+      "language": "nl",
+      "text": "THOMAS BALIS"
+     },
+     {
+      "language": "fr",
+      "text": "THOMAS BALIS"
+     }
+    ],
+    "station_id": "324"
+   },
+   {
+    "address": "HANKAR - CHEE DE WAVRE / WAVERSESTEENWEG 1208",
+    "capacity": 25,
+    "lat": 50.821441,
+    "lon": 4.406925,
+    "name": [
+     {
+      "language": "en",
+      "text": "HANKAR"
+     },
+     {
+      "language": "nl",
+      "text": "HANKAR"
+     },
+     {
+      "language": "fr",
+      "text": "HANKAR"
+     }
+    ],
+    "station_id": "325"
+   },
+   {
+    "address": "ADEPS - CHEE DE WAVRE / WAVERSESTEENWEG 2057",
+    "capacity": 22,
+    "lat": 50.809406,
+    "lon": 4.443777,
+    "name": [
+     {
+      "language": "en",
+      "text": "ADEPS"
+     },
+     {
+      "language": "nl",
+      "text": "ADEPS"
+     },
+     {
+      "language": "fr",
+      "text": "ADEPS"
+     }
+    ],
+    "station_id": "326"
+   },
+   {
+    "address": "SIBELGA - QUAI DES USINES / WERKHUIZENKAAI 16",
+    "capacity": 20,
+    "lat": 50.874082,
+    "lon": 4.362205,
+    "name": [
+     {
+      "language": "en",
+      "text": "SIBELGA"
+     },
+     {
+      "language": "nl",
+      "text": "SIBELGA"
+     },
+     {
+      "language": "fr",
+      "text": "SIBELGA"
+     }
+    ],
+    "station_id": "327"
+   },
+   {
+    "address": "HEYDENBERG - AV HEYDENBERG FACE 99-101",
+    "capacity": 20,
+    "lat": 50.849386,
+    "lon": 4.41712,
+    "name": [
+     {
+      "language": "en",
+      "text": "HEYDENBERG"
+     },
+     {
+      "language": "nl",
+      "text": "HEYDENBERG"
+     },
+     {
+      "language": "fr",
+      "text": "HEYDENBERG"
+     }
+    ],
+    "station_id": "328"
+   },
+   {
+    "address": "ROODEBEEK - AV PAUL HYMANS FACE À L'ARRÊT METRO ROODEBEEK",
+    "capacity": 24,
+    "lat": 50.847617,
+    "lon": 4.436084,
+    "name": [
+     {
+      "language": "en",
+      "text": "ROODEBEEK"
+     },
+     {
+      "language": "nl",
+      "text": "ROODEBEEK"
+     },
+     {
+      "language": "fr",
+      "text": "ROODEBEEK"
+     }
+    ],
+    "station_id": "329"
+   },
+   {
+    "address": "VANDERVELDE - AVENUE EMILE VANDERVELDE 90",
+    "capacity": 25,
+    "lat": 50.847546,
+    "lon": 4.450015,
+    "name": [
+     {
+      "language": "en",
+      "text": "VANDERVELDE"
+     },
+     {
+      "language": "nl",
+      "text": "VANDERVELDE"
+     },
+     {
+      "language": "fr",
+      "text": "VANDERVELDE"
+     }
+    ],
+    "station_id": "330"
+   },
+   {
+    "address": "GEORGES HENRI - AV GEORGES HENRI",
+    "capacity": 20,
+    "lat": 50.842319,
+    "lon": 4.406295,
+    "name": [
+     {
+      "language": "en",
+      "text": "GEORGES HENRI"
+     },
+     {
+      "language": "nl",
+      "text": "GEORGES HENRI"
+     },
+     {
+      "language": "fr",
+      "text": "GEORGES HENRI"
+     }
+    ],
+    "station_id": "331"
+   },
+   {
+    "address": "VERGOTE - BD BRAND WHITLOK",
+    "capacity": 24,
+    "lat": 50.845229,
+    "lon": 4.404311,
+    "name": [
+     {
+      "language": "en",
+      "text": "VERGOTE"
+     },
+     {
+      "language": "nl",
+      "text": "VERGOTE"
+     },
+     {
+      "language": "fr",
+      "text": "VERGOTE"
+     }
+    ],
+    "station_id": "332"
+   },
+   {
+    "address": "TRACTEBEL - AV MARCEL THIRY FACE AU N°93",
+    "capacity": 25,
+    "lat": 50.856582,
+    "lon": 4.430988,
+    "name": [
+     {
+      "language": "en",
+      "text": "TRACTEBEL"
+     },
+     {
+      "language": "nl",
+      "text": "TRACTEBEL"
+     },
+     {
+      "language": "fr",
+      "text": "TRACTEBEL"
+     }
+    ],
+    "station_id": "333"
+   },
+   {
+    "address": "MARCEL THIRY - AV MARCEL THIRY FACE 23",
+    "capacity": 20,
+    "lat": 50.855593,
+    "lon": 4.439625,
+    "name": [
+     {
+      "language": "en",
+      "text": "MARCEL THIRY"
+     },
+     {
+      "language": "nl",
+      "text": "MARCEL THIRY"
+     },
+     {
+      "language": "fr",
+      "text": "MARCEL THIRY"
+     }
+    ],
+    "station_id": "334"
+   },
+   {
+    "address": "Bd de la Woluwe / Woluwelaan 100",
+    "capacity": 20,
+    "lat": 50.854231,
+    "lon": 4.444034,
+    "name": [
+     {
+      "language": "en",
+      "text": "THIRY"
+     },
+     {
+      "language": "nl",
+      "text": "THIRY"
+     },
+     {
+      "language": "fr",
+      "text": "THIRY"
+     }
+    ],
+    "station_id": "335"
+   },
+   {
+    "address": "KRAAINEM - AV DE WEZEMBEEK 7A",
+    "capacity": 17,
+    "lat": 50.848578,
+    "lon": 4.459038,
+    "name": [
+     {
+      "language": "en",
+      "text": "KRAAINEM"
+     },
+     {
+      "language": "nl",
+      "text": "KRAAINEM"
+     },
+     {
+      "language": "fr",
+      "text": "KRAAINEM"
+     }
+    ],
+    "station_id": "336"
+   },
+   {
+    "address": "SHOPPING - BD DE LA WOLUWE",
+    "capacity": 20,
+    "lat": 50.843779,
+    "lon": 4.437698,
+    "name": [
+     {
+      "language": "en",
+      "text": "SHOPPING"
+     },
+     {
+      "language": "nl",
+      "text": "SHOPPING"
+     },
+     {
+      "language": "fr",
+      "text": "SHOPPING"
+     }
+    ],
+    "station_id": "337"
+   },
+   {
+    "address": "UCL - AVENUE E.MOUNIER,40",
+    "capacity": 24,
+    "lat": 50.851073,
+    "lon": 4.452706,
+    "name": [
+     {
+      "language": "en",
+      "text": "UCL"
+     },
+     {
+      "language": "nl",
+      "text": "UCL"
+     },
+     {
+      "language": "fr",
+      "text": "UCL"
+     }
+    ],
+    "station_id": "338"
+   },
+   {
+    "address": "MEUDON - SQUARE MEUDON",
+    "capacity": 22,
+    "lat": 50.845365,
+    "lon": 4.41788,
+    "name": [
+     {
+      "language": "en",
+      "text": "MEUDON"
+     },
+     {
+      "language": "nl",
+      "text": "MEUDON"
+     },
+     {
+      "language": "fr",
+      "text": "MEUDON"
+     }
+    ],
+    "station_id": "339"
+   },
+   {
+    "address": "AVENUE PAUL HYMANSLAAN",
+    "capacity": 24,
+    "lat": 50.843617,
+    "lon": 4.425324,
+    "name": [
+     {
+      "language": "en",
+      "text": "TOMBERG"
+     },
+     {
+      "language": "nl",
+      "text": "TOMBERG"
+     },
+     {
+      "language": "fr",
+      "text": "TOMBERG"
+     }
+    ],
+    "station_id": "340"
+   },
+   {
+    "address": "",
+    "capacity": 0,
+    "lat": 50.840942,
+    "lon": 4.436529,
+    "name": [
+     {
+      "language": "en",
+      "text": ""
+     },
+     {
+      "language": "nl",
+      "text": ""
+     },
+     {
+      "language": "fr",
+      "text": ""
+     }
+    ],
+    "station_id": "341"
+   },
+   {
+    "address": "Av. du Roi Albert 38 / Koning Albertlaan 38",
+    "capacity": 20,
+    "lat": 50.864771,
+    "lon": 4.294266,
+    "name": [
+     {
+      "language": "en",
+      "text": "MAISON COMM. BERCHEM / GEMEENTEH. BERCHEM"
+     },
+     {
+      "language": "nl",
+      "text": "MAISON COMM. BERCHEM / GEMEENTEH. BERCHEM"
+     },
+     {
+      "language": "fr",
+      "text": "MAISON COMM. BERCHEM / GEMEENTEH. BERCHEM"
+     }
+    ],
+    "station_id": "342"
+   },
+   {
+    "address": "Rue J.-B. Vandendriesch 24 / J.-B. Vandendrieschstraat 24",
+    "capacity": 20,
+    "lat": 50.861754,
+    "lon": 4.292798,
+    "name": [
+     {
+      "language": "en",
+      "text": "VANDENDRIESCH"
+     },
+     {
+      "language": "nl",
+      "text": "VANDENDRIESCH"
+     },
+     {
+      "language": "fr",
+      "text": "VANDENDRIESCH"
+     }
+    ],
+    "station_id": "343"
+   },
+   {
+    "address": "Pl. de Bethléem 10 / Bethlehemplein 10",
+    "capacity": 20,
+    "lat": 50.830235,
+    "lon": 4.337965,
+    "name": [
+     {
+      "language": "en",
+      "text": "BETHLEEM / BETHLEHEM"
+     },
+     {
+      "language": "nl",
+      "text": "BETHLEEM / BETHLEHEM"
+     },
+     {
+      "language": "fr",
+      "text": "BETHLEEM / BETHLEHEM"
+     }
+    ],
+    "station_id": "344"
+   },
+   {
+    "address": "Av. des Ortolans 2 / Ortolanenlaan 2",
+    "capacity": 18,
+    "lat": 50.802713,
+    "lon": 4.411871,
+    "name": [
+     {
+      "language": "en",
+      "text": "TROIS TILLEULS / DRIE LINDEN"
+     },
+     {
+      "language": "nl",
+      "text": "TROIS TILLEULS / DRIE LINDEN"
+     },
+     {
+      "language": "fr",
+      "text": "TROIS TILLEULS / DRIE LINDEN"
+     }
+    ],
+    "station_id": "345"
+   },
+   {
+    "address": "Route de Lennik 445 / Lenniksebaan 445",
+    "capacity": 20,
+    "lat": 50.81595,
+    "lon": 4.273669,
+    "name": [
+     {
+      "language": "en",
+      "text": "RECHERCHE / RESEARCH"
+     },
+     {
+      "language": "nl",
+      "text": "RECHERCHE / RESEARCH"
+     },
+     {
+      "language": "fr",
+      "text": "RECHERCHE / RESEARCH"
+     }
+    ],
+    "station_id": "346"
+   },
+   {
+    "address": "Route de Lennik 808 / Lenniksebaan 808",
+    "capacity": 25,
+    "lat": 50.814961,
+    "lon": 4.265429,
+    "name": [
+     {
+      "language": "en",
+      "text": "ERASME / ERASMUS"
+     },
+     {
+      "language": "nl",
+      "text": "ERASME / ERASMUS"
+     },
+     {
+      "language": "fr",
+      "text": "ERASME / ERASMUS"
+     }
+    ],
+    "station_id": "347"
+   },
+   {
+    "address": "HANSEN-SOULIE - AVENUE HANSEN-SOULIE 42",
+    "capacity": 24,
+    "lat": 50.831078,
+    "lon": 4.398546,
+    "name": [
+     {
+      "language": "en",
+      "text": "HANSEN-SOULIE"
+     },
+     {
+      "language": "nl",
+      "text": "HANSEN-SOULIE"
+     },
+     {
+      "language": "fr",
+      "text": "HANSEN-SOULIE"
+     }
+    ],
+    "station_id": "348"
+   },
+   {
+    "address": "FONSNY - AVENUE FONSNY EN FACE DES DEBOUCHES DES RUES COENRAETS ET J. CLAES",
+    "capacity": 20,
+    "lat": 50.833444,
+    "lon": 4.334857,
+    "name": [
+     {
+      "language": "en",
+      "text": "FONSNY"
+     },
+     {
+      "language": "nl",
+      "text": "FONSNY"
+     },
+     {
+      "language": "fr",
+      "text": "FONSNY"
+     }
+    ],
+    "station_id": "349"
+   },
+   {
+    "address": "Pl. Verheyleweghen / Verheyleweghenplein 34",
+    "capacity": 22,
+    "lat": 50.848184,
+    "lon": 4.425621,
+    "name": [
+     {
+      "language": "en",
+      "text": "VERHEYLEWEGHEN"
+     },
+     {
+      "language": "nl",
+      "text": "VERHEYLEWEGHEN"
+     },
+     {
+      "language": "fr",
+      "text": "VERHEYLEWEGHEN"
+     }
+    ],
+    "station_id": "350"
+   },
+   {
+    "address": "Av. Paul Héger 42 x Av. Adolphe Buyl 140 / Paul Hégerlaan 42 x Adolphe Buyllaan 140",
+    "capacity": 25,
+    "lat": 50.813945,
+    "lon": 4.384019,
+    "name": [
+     {
+      "language": "en",
+      "text": "ULB"
+     },
+     {
+      "language": "nl",
+      "text": "ULB"
+     },
+     {
+      "language": "fr",
+      "text": "ULB"
+     }
+    ],
+    "station_id": "351"
+   },
+   {
+    "address": "Rue du Rouge-Cloître (parking Centre d'Art) / Roodkloosterstraat (parking Kunstencentrum)",
+    "capacity": 23,
+    "lat": 50.814264,
+    "lon": 4.443479,
+    "name": [
+     {
+      "language": "en",
+      "text": "ROUGE-CLOÎTRE / ROODKLOOSTER"
+     },
+     {
+      "language": "nl",
+      "text": "ROUGE-CLOÎTRE / ROODKLOOSTER"
+     },
+     {
+      "language": "fr",
+      "text": "ROUGE-CLOÎTRE / ROODKLOOSTER"
+     }
+    ],
+    "station_id": "352"
+   },
+   {
+    "address": "Avenue Nippone / Nipponelaan 2",
+    "capacity": 20,
+    "lat": 50.815681,
+    "lon": 4.40812,
+    "name": [
+     {
+      "language": "en",
+      "text": "BEAULIEU"
+     },
+     {
+      "language": "nl",
+      "text": "BEAULIEU"
+     },
+     {
+      "language": "fr",
+      "text": "BEAULIEU"
+     }
+    ],
+    "station_id": "353"
+   },
+   {
+    "address": "Bd du Triomphe 105 / Triomflaan 105",
+    "capacity": 20,
+    "lat": 50.821515,
+    "lon": 4.402259,
+    "name": [
+     {
+      "language": "en",
+      "text": "TRIOMPHE / TRIOMF"
+     },
+     {
+      "language": "nl",
+      "text": "TRIOMPHE / TRIOMF"
+     },
+     {
+      "language": "fr",
+      "text": "TRIOMPHE / TRIOMF"
+     }
+    ],
+    "station_id": "354"
+   },
+   {
+    "address": "Rue du Trône 66 / Troonstraat 66",
+    "capacity": 22,
+    "lat": 50.837738,
+    "lon": 4.3692,
+    "name": [
+     {
+      "language": "en",
+      "text": "PARNASSE / PARNASSUS"
+     },
+     {
+      "language": "nl",
+      "text": "PARNASSE / PARNASSUS"
+     },
+     {
+      "language": "fr",
+      "text": "PARNASSE / PARNASSUS"
+     }
+    ],
+    "station_id": "355"
+   },
+   {
+    "address": "Rond-point du Tibet / Tibetplein",
+    "capacity": 16,
+    "lat": 50.829715,
+    "lon": 4.455151,
+    "name": [
+     {
+      "language": "en",
+      "text": "SPORTCITY"
+     },
+     {
+      "language": "nl",
+      "text": "SPORTCITY"
+     },
+     {
+      "language": "fr",
+      "text": "SPORTCITY"
+     }
+    ],
+    "station_id": "356"
+   },
+   {
+    "address": "Av. de l'Aviation 59 / Luchtvaartlaan 59",
+    "capacity": 20,
+    "lat": 50.834556,
+    "lon": 4.456873,
+    "name": [
+     {
+      "language": "en",
+      "text": "AVIATION / LUCHTVAART"
+     },
+     {
+      "language": "nl",
+      "text": "AVIATION / LUCHTVAART"
+     },
+     {
+      "language": "fr",
+      "text": "AVIATION / LUCHTVAART"
+     }
+    ],
+    "station_id": "357"
+   },
+   {
+    "address": "MADOUX - AVENUE DE TERVUREN FACE 403",
+    "capacity": 25,
+    "lat": 50.82708,
+    "lon": 4.444795,
+    "name": [
+     {
+      "language": "en",
+      "text": "MADOUX"
+     },
+     {
+      "language": "nl",
+      "text": "MADOUX"
+     },
+     {
+      "language": "fr",
+      "text": "MADOUX"
+     }
+    ],
+    "station_id": "358"
+   },
+   {
+    "address": "JCDECAUX - ALLÉE VERTE 50 À 1000 BRUXELLES",
+    "capacity": 20,
+    "lat": 50.867708,
+    "lon": 4.357532,
+    "name": [
+     {
+      "language": "en",
+      "text": "JCDECAUX"
+     },
+     {
+      "language": "nl",
+      "text": "JCDECAUX"
+     },
+     {
+      "language": "fr",
+      "text": "JCDECAUX"
+     }
+    ],
+    "station_id": "359"
+   },
+   {
+    "address": "Av. d'Ophem 1 / Oppemlaan 1",
+    "capacity": 24,
+    "lat": 50.841609,
+    "lon": 4.465632,
+    "name": [
+     {
+      "language": "en",
+      "text": "STOCKEL / STOKKEL"
+     },
+     {
+      "language": "nl",
+      "text": "STOCKEL / STOKKEL"
+     },
+     {
+      "language": "fr",
+      "text": "STOCKEL / STOKKEL"
+     }
+    ],
+    "station_id": "360"
+   },
+   {
+    "address": "Rue Bois des Iles 2 / Eilandenhoutstraat 2",
+    "capacity": 20,
+    "lat": 50.872491,
+    "lon": 4.290227,
+    "name": [
+     {
+      "language": "en",
+      "text": "GARE DE BERCHEM / BERCHEM STATION"
+     },
+     {
+      "language": "nl",
+      "text": "GARE DE BERCHEM / BERCHEM STATION"
+     },
+     {
+      "language": "fr",
+      "text": "GARE DE BERCHEM / BERCHEM STATION"
+     }
+    ],
+    "station_id": "362"
+   },
+   {
+    "address": "DOCKS BRUXSEL - AVENUE JULES VAN PRAETLAAN",
+    "capacity": 20,
+    "lat": 50.879086,
+    "lon": 4.374729,
+    "name": [
+     {
+      "language": "en",
+      "text": "DOCKS BRUXSEL"
+     },
+     {
+      "language": "nl",
+      "text": "DOCKS BRUXSEL"
+     },
+     {
+      "language": "fr",
+      "text": "DOCKS BRUXSEL"
+     }
+    ],
+    "station_id": "364"
+   },
+   {
+    "address": "Bd Adolphe Max 101 / Adolphe Maxlaan 101",
+    "capacity": 21,
+    "lat": 50.854062,
+    "lon": 4.356368,
+    "name": [
+     {
+      "language": "en",
+      "text": "ADOLPHE MAX"
+     },
+     {
+      "language": "nl",
+      "text": "ADOLPHE MAX"
+     },
+     {
+      "language": "fr",
+      "text": "ADOLPHE MAX"
+     }
+    ],
+    "station_id": "365"
+   },
+   {
+    "address": "BORNE ATELIER MECANOS SPL - CHAUSSÉE DE MONS 173 - SAINT-PIETERS-LEEUW",
+    "capacity": 2,
+    "lat": 50.797869,
+    "lon": 4.289803,
+    "name": [
+     {
+      "language": "en",
+      "text": "BORNE ATELIER MECANOS SPL"
+     },
+     {
+      "language": "nl",
+      "text": "BORNE ATELIER MECANOS SPL"
+     },
+     {
+      "language": "fr",
+      "text": "BORNE ATELIER MECANOS SPL"
+     }
+    ],
+    "station_id": "1005"
+   }
+  ]
+ },
+ "version": "3.0"
+}

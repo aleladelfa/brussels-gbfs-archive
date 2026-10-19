@@ -152290,6 +152290,81 @@
        [
         [
          [
+          4.34982,
+          50.845
+         ],
+         [
+          4.34987,
+          50.84497
+         ],
+         [
+          4.34996,
+          50.84502
+         ],
+         [
+          4.34985,
+          50.84504
+         ],
+         [
+          4.34982,
+          50.845
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 45"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.36103,
           50.81436
          ],
@@ -250855,6 +250930,81 @@
          [
           4.3452,
           50.8267
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3351,
+          50.8371
+         ],
+         [
+          4.3351,
+          50.8372
+         ],
+         [
+          4.335,
+          50.8372
+         ],
+         [
+          4.335,
+          50.8371
+         ],
+         [
+          4.3351,
+          50.8371
          ]
         ]
        ]
