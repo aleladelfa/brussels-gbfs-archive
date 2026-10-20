@@ -363,6 +363,20 @@
     "propulsion_type": "electric_assist",
     "return_constraint": "station",
     "vehicle_type_id": "bb0d00aa-363c-5b55-99c8-877ada6158c7"
+   },
+   {
+    "default_reserve_time": 108000,
+    "form_factor": "bicycle",
+    "max_range_meters": 70000,
+    "name": [
+     {
+      "language": "en",
+      "text": "BICYCLE"
+     }
+    ],
+    "propulsion_type": "electric_assist",
+    "return_constraint": "station",
+    "vehicle_type_id": "63d2708b-0e5f-5093-b844-0687173baeea"
    }
   ]
  },
