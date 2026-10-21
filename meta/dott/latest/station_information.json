@@ -533,7 +533,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9651ce43-c8e1-485c-b13a-d250e219d794",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -744,8 +744,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "37d41f4e-3227-4ede-9a0d-caaa0f378c50",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 1,
+     "dott_scooter": 2
     }
    },
    {
@@ -945,8 +945,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "ab020dc9-fed3-4eb4-8823-26eeb734b18c",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -1338,7 +1338,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "16ba9598-1df0-42d7-8b8c-590d44e2ed28",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -1814,8 +1814,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "24e995a2-72f3-46d8-8ba0-5490ee2a4b8c",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -1838,8 +1838,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "e1a6787d-6699-411d-8952-c4754d77ec44",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -2041,7 +2041,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "29ca1027-31c5-4284-8d69-92b296a910a0",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -2184,8 +2184,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "f5d3adec-736a-49c5-a503-8bf137770220",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -2600,7 +2600,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "92de760a-ca4e-422d-867f-0090173db4bc",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -2834,8 +2834,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "109336db-1594-405f-9dde-d83dce8922a8",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -3074,8 +3074,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "0719495b-b245-4efa-9bc4-809052eab59c",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -3216,8 +3216,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "3c253636-8a64-4c51-b61f-8d760c1ddb64",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -3489,7 +3489,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9f702aca-a886-4be8-ab31-7293d4383364",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -3524,8 +3524,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b7b06c87-6780-4db9-9716-5b1117992d10",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -3620,7 +3620,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b8a01e6d-6def-4774-a50a-7ca070602b5c",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -3962,8 +3962,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "cae13a58-fd48-4273-a3ac-aa0e2c0054e8",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -4556,8 +4556,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b8454c2c-04e5-4b4b-8768-9b700e3773f4",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -5197,8 +5197,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "a769a951-1e76-41cb-bb82-fc77102ee768",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -5409,8 +5409,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "2ee375a1-73fd-42e1-a774-c4a67ccad040",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -5492,8 +5492,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "906daeea-0bc9-480b-bc88-ada40de05394",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -7672,8 +7672,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "5c50a865-33db-428d-88d9-7d74dfa264e4",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -8535,8 +8535,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "1afb6ee5-c647-4eb1-a320-abc70b688cec",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -9179,8 +9179,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "094265e0-fc33-4320-b8d3-24897f8af518",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -10755,7 +10755,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "f4be2950-6f2b-4af2-99ec-9846d03b1484",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -13148,7 +13148,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "cb96ae15-b2bc-4856-8957-ae0e0159b1e8",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -13792,8 +13792,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "f25f4fe9-98b3-441c-972e-93e16d3ac2e8",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -15294,7 +15294,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "8ed6e227-b21c-4b9a-b7c8-3a018f112df4",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -15341,7 +15341,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "2c0a4020-49d5-406b-a3bc-7dc9116c0d8c",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -15556,8 +15556,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "456f1ee8-d05b-410a-87f5-e271ad28f2a0",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -17590,8 +17590,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "485ad708-ae05-4240-871a-1ddbc85bc5d4",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -17674,8 +17674,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b4fa335e-8b7b-48b9-b6ca-4dd9200f5770",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -18104,7 +18104,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "8460d88b-45b2-4061-95b0-2b56e6c1b844",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -19547,8 +19547,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "574156da-64e7-4483-ace7-7012b6a881dc",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -19641,8 +19641,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "88a23111-340a-4dcc-a065-7dbd34561ea8",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -20794,8 +20794,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "6d87d396-0928-4c67-97b0-d5446972822c",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -21389,7 +21389,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "26ad3a5f-53ab-4881-a11b-1a8f0d0f0f74",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -22271,8 +22271,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "a4e1acb7-a3c9-43ee-8648-0cf48a88ac78",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -22341,8 +22341,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "ccea0f7a-b437-4d83-9462-2e057e099594",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -22400,8 +22400,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9d93a14d-8a5e-4aed-b62e-b2adccf650f4",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -22659,7 +22659,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "96793a9f-d4f1-4a7c-b4e5-2e7a5cfcdc1c",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -22873,8 +22873,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9f478835-1b4d-4a00-85d3-02db7f793d54",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -24530,8 +24530,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "576b63db-d46e-4843-8742-a6180f9af048",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -24866,8 +24866,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "1fc6ccb8-b273-4c72-baa6-7ac4071b993c",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -24890,8 +24890,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "24a6dde2-65d5-4557-a9ca-67b43908d380",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -24902,8 +24902,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "1ef90edd-0acd-4230-ad27-df0244e07ad4",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -25771,8 +25771,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "37dccd09-fd87-4dae-942e-cf66a3b5c434",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -25974,8 +25974,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "82a217f0-04a1-4924-9617-18e8cea33dd8",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -26604,8 +26604,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "74563060-f814-4d02-9cc8-288682bf5a7c",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -27187,7 +27187,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "bf3471b9-262d-4389-ac56-77f0f0eeb810",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -27630,8 +27630,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "efdae89e-798c-4d2a-b6bd-1d1dd034efb0",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -27963,8 +27963,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "4cb631d1-e453-462d-9671-5f2e4abc6ea4",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {

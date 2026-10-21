@@ -15,11 +15,11 @@
   "rental_apps": {
    "android": {
     "discovery_uri": "bolt://",
-    "store_uri": "https://bolt.onelink.me/sbJ2/payzone?client_id=bray_payzone&deep_link_value=GBFS_PROVIDER_DEEPLINK"
+    "store_uri": "https://bolt.sng.link/Epy3j/o9sr?pcn=Mobimeo&_smtype=3&client_id=all_germany_mobimeo&_dl=GBFS_PROVIDER_DEEPLINK"
    },
    "ios": {
     "discovery_uri": "bolt://",
-    "store_uri": "https://bolt.onelink.me/sbJ2/payzone?client_id=bray_payzone&deep_link_value=GBFS_PROVIDER_DEEPLINK"
+    "store_uri": "https://bolt.sng.link/Epy3j/o9sr?pcn=Mobimeo&_smtype=3&client_id=all_germany_mobimeo&_dl=GBFS_PROVIDER_DEEPLINK"
    }
   },
   "system_id": "BoltEU_Brussels",
