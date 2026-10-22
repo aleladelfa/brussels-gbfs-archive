@@ -67,8 +67,8 @@
    {
     "address": "JARDIN AUX FLEURS/BLOEMENHOF - PLACE DU JARDIN AUX FLEURS/BLOEMENHOFPLEIN - RUE DES 6 JETONS/ZES PENNIGENSTRAAT 71",
     "capacity": 20,
-    "lat": 50.847865,
-    "lon": 4.343521,
+    "lat": 50.8478648532058,
+    "lon": 4.34352099986983,
     "name": [
      {
       "language": "en",
@@ -214,8 +214,8 @@
    {
     "address": "Rue de la Régence 20 / Regentschapsstraat 20",
     "capacity": 17,
-    "lat": 50.840405,
-    "lon": 4.356998,
+    "lat": 50.8404045367738,
+    "lon": 4.3569983981935,
     "name": [
      {
       "language": "en",
@@ -571,8 +571,8 @@
    {
     "address": "Chaussée de Mons 163 / Bergensesteenweg 163",
     "capacity": 27,
-    "lat": 50.842098,
-    "lon": 4.330422,
+    "lat": 50.8420977072788,
+    "lon": 4.33042245108607,
     "name": [
      {
       "language": "en",
@@ -655,8 +655,8 @@
    {
     "address": "Rue Antoine Dansaert 64 / Antoine Dansaertstraat 64",
     "capacity": 35,
-    "lat": 50.850224,
-    "lon": 4.346137,
+    "lat": 50.8502235708238,
+    "lon": 4.34613673736941,
     "name": [
      {
       "language": "en",
@@ -1768,8 +1768,8 @@
    {
     "address": "ETANGS NOIRS / ZWARTE VIJVERS - Chau. de Gand / Gentsesteenweg 182",
     "capacity": 25,
-    "lat": 50.857266,
-    "lon": 4.332368,
+    "lat": 50.8572655240874,
+    "lon": 4.33236837868758,
     "name": [
      {
       "language": "en",
@@ -2398,8 +2398,8 @@
    {
     "address": "Pl. de la Petite Suisse 17 / Klein-Zwitserlandplein 17",
     "capacity": 24,
-    "lat": 50.817807,
-    "lon": 4.38547,
+    "lat": 50.8178067955119,
+    "lon": 4.38546967650475,
     "name": [
      {
       "language": "en",
@@ -2756,7 +2756,7 @@
     "address": "Av. du Château / Kasteellaan 133",
     "capacity": 24,
     "lat": 50.866795,
-    "lon": 4.309222,
+    "lon": 4.3092224,
     "name": [
      {
       "language": "en",
@@ -4519,8 +4519,8 @@
    {
     "address": "DELACROIX - RUE DE BIRMINGHAM 96 / BIRMINGHAMSTRAAT 96",
     "capacity": 25,
-    "lat": 50.845978,
-    "lon": 4.323226,
+    "lat": 50.845978218314,
+    "lon": 4.3232258415201,
     "name": [
      {
       "language": "en",
@@ -4603,8 +4603,8 @@
    {
     "address": "MERCKX - ROUTE DE LENNIK / LENNIKSEBAAN",
     "capacity": 25,
-    "lat": 50.817246,
-    "lon": 4.280445,
+    "lat": 50.8172462427287,
+    "lon": 4.28044544916521,
     "name": [
      {
       "language": "en",
@@ -7186,8 +7186,8 @@
    {
     "address": "Route de Lennik 808 / Lenniksebaan 808",
     "capacity": 25,
-    "lat": 50.814961,
-    "lon": 4.265429,
+    "lat": 50.8149606388997,
+    "lon": 4.26542850805528,
     "name": [
      {
       "language": "en",
@@ -7543,8 +7543,8 @@
    {
     "address": "BORNE ATELIER MECANOS SPL - CHAUSSÉE DE MONS 173 - SAINT-PIETERS-LEEUW",
     "capacity": 2,
-    "lat": 50.797869,
-    "lon": 4.289803,
+    "lat": 50.7978687517766,
+    "lon": 4.28980290893378,
     "name": [
      {
       "language": "en",
