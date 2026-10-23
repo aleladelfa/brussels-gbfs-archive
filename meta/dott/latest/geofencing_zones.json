@@ -1770,12 +1770,12 @@
           50.833176445763755
          ],
          [
-          4.333835547465146,
-          50.83182120141521
+          4.333063071268857,
+          50.83216001619142
          ],
          [
-          4.340702002543271,
-          50.83726904483433
+          4.339865153330624,
+          50.837540065214874
          ],
          [
           4.339028304117978,
@@ -1790,7 +1790,7 @@
       "rules": [
        {
         "ride_allowed": false,
-        "ride_through_allowed": true,
+        "ride_through_allowed": false,
         "station_parking": false,
         "vehicle_type_id": [
          "dott_bicycle"
@@ -1798,7 +1798,7 @@
        },
        {
         "ride_allowed": false,
-        "ride_through_allowed": true,
+        "ride_through_allowed": false,
         "station_parking": false,
         "vehicle_type_id": [
          "dott_scooter"
