@@ -3655,58 +3655,6 @@
        [
         [
          [
-          4.372083444720398,
-          50.839672036692754
-         ],
-         [
-          4.371820588236939,
-          50.838957249697046
-         ],
-         [
-          4.3732743455230105,
-          50.838669299235335
-         ],
-         [
-          4.373698134547364,
-          50.83950943208234
-         ],
-         [
-          4.372083444720398,
-          50.839672036692754
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "rules": [
-       {
-        "ride_allowed": false,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_bicycle"
-        ]
-       },
-       {
-        "ride_allowed": false,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_scooter"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.345476665126777,
           50.86667526663346
          ],
