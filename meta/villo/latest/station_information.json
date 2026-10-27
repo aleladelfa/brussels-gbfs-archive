@@ -655,20 +655,20 @@
    {
     "address": "Rue Antoine Dansaert 64 / Antoine Dansaertstraat 64",
     "capacity": 35,
-    "lat": 50.850224,
-    "lon": 4.346137,
+    "lat": 50.8502235708238,
+    "lon": 4.34613673736941,
     "name": [
      {
       "language": "en",
-      "text": "DANSAERT"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "DANSAERT"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "DANSAERT"
+      "text": ""
      }
     ],
     "station_id": "32"
@@ -1458,15 +1458,15 @@
     "name": [
      {
       "language": "en",
-      "text": "AURORE / DAGERAAD"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "AURORE / DAGERAAD"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "AURORE / DAGERAAD"
+      "text": ""
      }
     ],
     "station_id": "70"
@@ -2193,15 +2193,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DE HENNIN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "DE HENNIN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "DE HENNIN"
+      "text": ""
      }
     ],
     "station_id": "105"
@@ -2571,15 +2571,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BASCULE"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "BASCULE"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "BASCULE"
+      "text": ""
      }
     ],
     "station_id": "123"
@@ -3999,15 +3999,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GARE DE L'OUEST / WESTSTATION"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "GARE DE L'OUEST / WESTSTATION"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "GARE DE L'OUEST / WESTSTATION"
+      "text": ""
      }
     ],
     "station_id": "193"
@@ -4146,15 +4146,15 @@
     "name": [
      {
       "language": "en",
-      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+      "text": ""
      }
     ],
     "station_id": "200"
@@ -4440,15 +4440,15 @@
     "name": [
      {
       "language": "en",
-      "text": "CAMPUS CERIA / CAMPUS COOVI"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "CAMPUS CERIA / CAMPUS COOVI"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "CAMPUS CERIA / CAMPUS COOVI"
+      "text": ""
      }
     ],
     "station_id": "214"
@@ -5028,15 +5028,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+      "text": ""
      }
     ],
     "station_id": "242"
@@ -5868,15 +5868,15 @@
     "name": [
      {
       "language": "en",
-      "text": "CENTENAIRE / EEUWFEEST"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "CENTENAIRE / EEUWFEEST"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "CENTENAIRE / EEUWFEEST"
+      "text": ""
      }
     ],
     "station_id": "282"
@@ -6015,15 +6015,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
+      "text": ""
      }
     ],
     "station_id": "289"
@@ -6456,15 +6456,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DELTA"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "DELTA"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "DELTA"
+      "text": ""
      }
     ],
     "station_id": "311"
@@ -7186,8 +7186,8 @@
    {
     "address": "Route de Lennik 808 / Lenniksebaan 808",
     "capacity": 25,
-    "lat": 50.8149606388997,
-    "lon": 4.26542850805528,
+    "lat": 50.814961,
+    "lon": 4.265429,
     "name": [
      {
       "language": "en",
