@@ -655,20 +655,20 @@
    {
     "address": "Rue Antoine Dansaert 64 / Antoine Dansaertstraat 64",
     "capacity": 35,
-    "lat": 50.8502235708238,
-    "lon": 4.34613673736941,
+    "lat": 50.850224,
+    "lon": 4.346137,
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "DANSAERT"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "DANSAERT"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "DANSAERT"
      }
     ],
     "station_id": "32"
@@ -870,15 +870,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": ""
      }
     ],
     "station_id": "42"
@@ -891,15 +891,15 @@
     "name": [
      {
       "language": "en",
-      "text": "JOSEPH II / JOZEF II"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "JOSEPH II / JOZEF II"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "JOSEPH II / JOZEF II"
+      "text": ""
      }
     ],
     "station_id": "43"
@@ -1458,15 +1458,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "AURORE / DAGERAAD"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "AURORE / DAGERAAD"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "AURORE / DAGERAAD"
      }
     ],
     "station_id": "70"
@@ -1479,15 +1479,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LEGRAND"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "LEGRAND"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "LEGRAND"
+      "text": ""
      }
     ],
     "station_id": "71"
@@ -1794,15 +1794,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MAISON COMMUNALE JETTE / GEMEENTEHUIS JETTE"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MAISON COMMUNALE JETTE / GEMEENTEHUIS JETTE"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MAISON COMMUNALE JETTE / GEMEENTEHUIS JETTE"
+      "text": ""
      }
     ],
     "station_id": "86"
@@ -2193,15 +2193,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "DE HENNIN"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "DE HENNIN"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "DE HENNIN"
      }
     ],
     "station_id": "105"
@@ -2214,15 +2214,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GERMOIR / MOUTERIJ"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "GERMOIR / MOUTERIJ"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "GERMOIR / MOUTERIJ"
+      "text": ""
      }
     ],
     "station_id": "106"
@@ -2235,15 +2235,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DEFACQZ"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "DEFACQZ"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "DEFACQZ"
+      "text": ""
      }
     ],
     "station_id": "107"
@@ -2571,15 +2571,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "BASCULE"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "BASCULE"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "BASCULE"
      }
     ],
     "station_id": "123"
@@ -2592,15 +2592,15 @@
     "name": [
      {
       "language": "en",
-      "text": "CHARLES GRAUX"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "CHARLES GRAUX"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "CHARLES GRAUX"
+      "text": ""
      }
     ],
     "station_id": "124"
@@ -2907,15 +2907,15 @@
     "name": [
      {
       "language": "en",
-      "text": "AZALEES / AZALEA"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "AZALEES / AZALEA"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "AZALEES / AZALEA"
+      "text": ""
      }
     ],
     "station_id": "140"
@@ -3999,15 +3999,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "GARE DE L'OUEST / WESTSTATION"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "GARE DE L'OUEST / WESTSTATION"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "GARE DE L'OUEST / WESTSTATION"
      }
     ],
     "station_id": "193"
@@ -4146,15 +4146,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
      }
     ],
     "station_id": "200"
@@ -4167,15 +4167,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PETERBOS"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "PETERBOS"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "PETERBOS"
+      "text": ""
      }
     ],
     "station_id": "201"
@@ -4440,15 +4440,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
      }
     ],
     "station_id": "214"
@@ -4854,7 +4854,7 @@
    },
    {
     "address": "",
-    "capacity": 0,
+    "capacity": 20,
     "lat": 50.809799,
     "lon": 4.317546,
     "name": [
@@ -5868,15 +5868,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "CENTENAIRE / EEUWFEEST"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "CENTENAIRE / EEUWFEEST"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "CENTENAIRE / EEUWFEEST"
      }
     ],
     "station_id": "282"
@@ -6015,15 +6015,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "SQUARE GEORGES MARLOW / GEORGES MARLOWSQUARE"
      }
     ],
     "station_id": "289"
@@ -6099,15 +6099,15 @@
     "name": [
      {
       "language": "en",
-      "text": "KEYM"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "KEYM"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "KEYM"
+      "text": ""
      }
     ],
     "station_id": "293"
@@ -6351,15 +6351,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HEEMBEEK"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "HEEMBEEK"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "HEEMBEEK"
+      "text": ""
      }
     ],
     "station_id": "306"
@@ -6456,15 +6456,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "DELTA"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "DELTA"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "DELTA"
      }
     ],
     "station_id": "311"
