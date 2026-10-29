@@ -584,3 +584,16 @@ cooltra: 238 vehicles
 nextbike: 239 vehicles
 nextbike: 68 stations
 lime: 0 vehicles
+run 2026-10-29T04:36:03.308128+00:00
+bolt: 5338 vehicles
+bolt: meta station_information changed, stored
+bolt: meta geofencing_zones changed, stored
+dott: 5210 vehicles
+dott: meta station_information changed, stored
+dott: meta geofencing_zones changed, stored
+villo: 360 stations
+villo: meta station_information changed, stored
+cooltra: 238 vehicles
+nextbike: 239 vehicles
+nextbike: 68 stations
+lime: 0 vehicles
