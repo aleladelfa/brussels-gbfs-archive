@@ -214,20 +214,20 @@
    {
     "address": "Rue de la Régence 20 / Regentschapsstraat 20",
     "capacity": 17,
-    "lat": 50.840405,
-    "lon": 4.356998,
+    "lat": 50.8404045367738,
+    "lon": 4.3569983981935,
     "name": [
      {
       "language": "en",
-      "text": "SABLON / ZAVEL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "SABLON / ZAVEL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "SABLON / ZAVEL"
+      "text": ""
      }
     ],
     "station_id": "11"
@@ -345,15 +345,15 @@
     "name": [
      {
       "language": "en",
-      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+      "text": ""
      }
     ],
     "station_id": "17"
@@ -639,15 +639,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MUSEE DE LA BD / STRIPMUSEUM"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MUSEE DE LA BD / STRIPMUSEUM"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MUSEE DE LA BD / STRIPMUSEUM"
+      "text": ""
      }
     ],
     "station_id": "31"
@@ -807,15 +807,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
+      "text": ""
      }
     ],
     "station_id": "39"
@@ -1542,15 +1542,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PLACE LOIX / LOIXPLEIN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "PLACE LOIX / LOIXPLEIN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "PLACE LOIX / LOIXPLEIN"
+      "text": ""
      }
     ],
     "station_id": "74"
@@ -1920,15 +1920,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LENOIR"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "LENOIR"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "LENOIR"
+      "text": ""
      }
     ],
     "station_id": "92"
@@ -2571,15 +2571,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BASCULE"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "BASCULE"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "BASCULE"
+      "text": ""
      }
     ],
     "station_id": "123"
@@ -3075,15 +3075,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GARE DE MEISER / MEISER STATION"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "GARE DE MEISER / MEISER STATION"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "GARE DE MEISER / MEISER STATION"
+      "text": ""
      }
     ],
     "station_id": "148"
@@ -3243,15 +3243,15 @@
     "name": [
      {
       "language": "en",
-      "text": "JAMBLINNE DE MEUX"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "JAMBLINNE DE MEUX"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "JAMBLINNE DE MEUX"
+      "text": ""
      }
     ],
     "station_id": "156"
@@ -3810,15 +3810,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PHILIPPE BAUCQ"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "PHILIPPE BAUCQ"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "PHILIPPE BAUCQ"
+      "text": ""
      }
     ],
     "station_id": "184"
@@ -3852,15 +3852,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GENOT"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "GENOT"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "GENOT"
+      "text": ""
      }
     ],
     "station_id": "186"
@@ -4020,15 +4020,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STUYVENBERG"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "STUYVENBERG"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "STUYVENBERG"
+      "text": ""
      }
     ],
     "station_id": "194"
@@ -4566,15 +4566,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LUTHER KING"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "LUTHER KING"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "LUTHER KING"
+      "text": ""
      }
     ],
     "station_id": "220"
@@ -4944,15 +4944,15 @@
     "name": [
      {
       "language": "en",
-      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
+      "text": ""
      }
     ],
     "station_id": "238"
@@ -5847,15 +5847,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ATOMIUM"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "ATOMIUM"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "ATOMIUM"
+      "text": ""
      }
     ],
     "station_id": "281"
@@ -5931,15 +5931,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "COGHEN"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "COGHEN"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "COGHEN"
      }
     ],
     "station_id": "285"
@@ -5973,15 +5973,15 @@
     "name": [
      {
       "language": "en",
-      "text": "FLOREAL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "FLOREAL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "FLOREAL"
+      "text": ""
      }
     ],
     "station_id": "287"
@@ -6183,15 +6183,15 @@
     "name": [
      {
       "language": "en",
-      "text": "TENREUKEN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "TENREUKEN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "TENREUKEN"
+      "text": ""
      }
     ],
     "station_id": "297"
@@ -6267,15 +6267,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MARIE-JOSE"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MARIE-JOSE"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MARIE-JOSE"
+      "text": ""
      }
     ],
     "station_id": "301"
@@ -6414,15 +6414,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
+      "text": ""
      }
     ],
     "station_id": "309"
@@ -7464,15 +7464,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STOCKEL / STOKKEL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "STOCKEL / STOKKEL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "STOCKEL / STOKKEL"
+      "text": ""
      }
     ],
     "station_id": "360"
