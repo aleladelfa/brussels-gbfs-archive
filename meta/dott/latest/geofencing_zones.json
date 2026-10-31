@@ -1432,72 +1432,6 @@
        [
         [
          [
-          4.348116766509689,
-          50.84085741483496
-         ],
-         [
-          4.346963262619723,
-          50.8406839508117
-         ],
-         [
-          4.346893525185336,
-          50.84053489983945
-         ],
-         [
-          4.347676730217684,
-          50.84017920809557
-         ],
-         [
-          4.347826933922518,
-          50.84022663381808
-         ],
-         [
-          4.347674202022231,
-          50.84040179331005
-         ],
-         [
-          4.348140906390823,
-          50.84074562706601
-         ],
-         [
-          4.348116766509689,
-          50.84085741483496
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "rules": [
-       {
-        "maximum_speed_kph": 12,
-        "ride_allowed": true,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_bicycle"
-        ]
-       },
-       {
-        "maximum_speed_kph": 7,
-        "ride_allowed": true,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_scooter"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.352842215798676,
           50.84950162086751
          ],
@@ -2084,6 +2018,72 @@
        [
         [
          [
+          4.348116766509689,
+          50.84085741483496
+         ],
+         [
+          4.346963262619723,
+          50.8406839508117
+         ],
+         [
+          4.346893525185336,
+          50.84053489983945
+         ],
+         [
+          4.347676730217684,
+          50.84017920809557
+         ],
+         [
+          4.347826933922518,
+          50.84022663381808
+         ],
+         [
+          4.347674202022231,
+          50.84040179331005
+         ],
+         [
+          4.348140906390823,
+          50.84074562706601
+         ],
+         [
+          4.348116766509689,
+          50.84085741483496
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "rules": [
+       {
+        "maximum_speed_kph": 12,
+        "ride_allowed": true,
+        "ride_through_allowed": true,
+        "station_parking": false,
+        "vehicle_type_id": [
+         "dott_bicycle"
+        ]
+       },
+       {
+        "maximum_speed_kph": 7,
+        "ride_allowed": true,
+        "ride_through_allowed": true,
+        "station_parking": false,
+        "vehicle_type_id": [
+         "dott_scooter"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.353438659166411,
           50.84543735824169
          ],
@@ -2318,6 +2318,60 @@
          [
           4.3449761826850475,
           50.84653162215027
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "rules": [
+       {
+        "maximum_speed_kph": 12,
+        "ride_allowed": true,
+        "ride_through_allowed": true,
+        "station_parking": false,
+        "vehicle_type_id": [
+         "dott_bicycle"
+        ]
+       },
+       {
+        "maximum_speed_kph": 7,
+        "ride_allowed": true,
+        "ride_through_allowed": true,
+        "station_parking": false,
+        "vehicle_type_id": [
+         "dott_scooter"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.351289033716927,
+          50.8419968946455
+         ],
+         [
+          4.351117372339974,
+          50.841915596461824
+         ],
+         [
+          4.35172891599537,
+          50.841607339561904
+         ],
+         [
+          4.351846933192025,
+          50.84171235038293
+         ],
+         [
+          4.351289033716927,
+          50.8419968946455
          ]
         ]
        ]
@@ -3356,60 +3410,6 @@
       "rules": [
        {
         "maximum_speed_kph": 7,
-        "ride_allowed": true,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_bicycle"
-        ]
-       },
-       {
-        "maximum_speed_kph": 7,
-        "ride_allowed": true,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_scooter"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.351289033716927,
-          50.8419968946455
-         ],
-         [
-          4.351117372339974,
-          50.841915596461824
-         ],
-         [
-          4.35172891599537,
-          50.841607339561904
-         ],
-         [
-          4.351846933192025,
-          50.84171235038293
-         ],
-         [
-          4.351289033716927,
-          50.8419968946455
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "rules": [
-       {
-        "maximum_speed_kph": 12,
         "ride_allowed": true,
         "ride_through_allowed": true,
         "station_parking": false,

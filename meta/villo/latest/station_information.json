@@ -214,20 +214,20 @@
    {
     "address": "Rue de la Régence 20 / Regentschapsstraat 20",
     "capacity": 17,
-    "lat": 50.8404045367738,
-    "lon": 4.3569983981935,
+    "lat": 50.840405,
+    "lon": 4.356998,
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "SABLON / ZAVEL"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "SABLON / ZAVEL"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "SABLON / ZAVEL"
      }
     ],
     "station_id": "11"
@@ -303,15 +303,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MONTGOMERY"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MONTGOMERY"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MONTGOMERY"
+      "text": ""
      }
     ],
     "station_id": "15"
@@ -345,15 +345,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
      }
     ],
     "station_id": "17"
@@ -471,15 +471,15 @@
     "name": [
      {
       "language": "en",
-      "text": "AGORA"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "AGORA"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "AGORA"
+      "text": ""
      }
     ],
     "station_id": "23"
@@ -639,15 +639,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      }
     ],
     "station_id": "31"
@@ -786,15 +786,15 @@
     "name": [
      {
       "language": "en",
-      "text": "JEU DE BALLE / VOSSENPLEIN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "JEU DE BALLE / VOSSENPLEIN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "JEU DE BALLE / VOSSENPLEIN"
+      "text": ""
      }
     ],
     "station_id": "38"
@@ -807,15 +807,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "HOTEL DES MONNAIES / MUNTHOTEL"
      }
     ],
     "station_id": "39"
@@ -933,15 +933,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STEPHANIE / STEFANIA"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "STEPHANIE / STEFANIA"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "STEPHANIE / STEFANIA"
+      "text": ""
      }
     ],
     "station_id": "45"
@@ -1458,15 +1458,15 @@
     "name": [
      {
       "language": "en",
-      "text": "AURORE / DAGERAAD"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "AURORE / DAGERAAD"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "AURORE / DAGERAAD"
+      "text": ""
      }
     ],
     "station_id": "70"
@@ -1542,15 +1542,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "PLACE LOIX / LOIXPLEIN"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "PLACE LOIX / LOIXPLEIN"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "PLACE LOIX / LOIXPLEIN"
      }
     ],
     "station_id": "74"
@@ -1920,15 +1920,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "LENOIR"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "LENOIR"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "LENOIR"
      }
     ],
     "station_id": "92"
@@ -2004,15 +2004,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HOTEL PRESIDENT / PRESIDENT HOTEL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "HOTEL PRESIDENT / PRESIDENT HOTEL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "HOTEL PRESIDENT / PRESIDENT HOTEL"
+      "text": ""
      }
     ],
     "station_id": "96"
@@ -2214,15 +2214,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GERMOIR / MOUTERIJ"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "GERMOIR / MOUTERIJ"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "GERMOIR / MOUTERIJ"
+      "text": ""
      }
     ],
     "station_id": "106"
@@ -2382,15 +2382,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SAISONS / JAARGETIJDEN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "SAISONS / JAARGETIJDEN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "SAISONS / JAARGETIJDEN"
+      "text": ""
      }
     ],
     "station_id": "114"
@@ -2571,15 +2571,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "BASCULE"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "BASCULE"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "BASCULE"
      }
     ],
     "station_id": "123"
@@ -2781,15 +2781,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BASTOGNE / BASTENAKEN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "BASTOGNE / BASTENAKEN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "BASTOGNE / BASTENAKEN"
+      "text": ""
      }
     ],
     "station_id": "134"
@@ -2970,15 +2970,15 @@
     "name": [
      {
       "language": "en",
-      "text": "RTL"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "RTL"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "RTL"
+      "text": ""
      }
     ],
     "station_id": "143"
@@ -3243,15 +3243,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "JAMBLINNE DE MEUX"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "JAMBLINNE DE MEUX"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "JAMBLINNE DE MEUX"
      }
     ],
     "station_id": "156"
@@ -3852,15 +3852,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "GENOT"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "GENOT"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "GENOT"
      }
     ],
     "station_id": "186"
@@ -4020,15 +4020,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "STUYVENBERG"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "STUYVENBERG"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "STUYVENBERG"
      }
     ],
     "station_id": "194"
@@ -4356,15 +4356,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MARIUS RENARD"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MARIUS RENARD"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MARIUS RENARD"
+      "text": ""
      }
     ],
     "station_id": "210"
@@ -4377,15 +4377,15 @@
     "name": [
      {
       "language": "en",
-      "text": "METRO CERIA / METRO COOVI"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "METRO CERIA / METRO COOVI"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "METRO CERIA / METRO COOVI"
+      "text": ""
      }
     ],
     "station_id": "211"
@@ -4419,15 +4419,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "LA ROUE / HET RAD"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "LA ROUE / HET RAD"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "LA ROUE / HET RAD"
      }
     ],
     "station_id": "213"
@@ -4566,15 +4566,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "LUTHER KING"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "LUTHER KING"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "LUTHER KING"
      }
     ],
     "station_id": "220"
@@ -4818,15 +4818,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DOMAINE / DOMEIN"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "DOMAINE / DOMEIN"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "DOMAINE / DOMEIN"
+      "text": ""
      }
     ],
     "station_id": "232"
@@ -4902,15 +4902,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+      "text": ""
      }
     ],
     "station_id": "236"
@@ -4944,15 +4944,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "UNION SAINT-GILLOISE / UNION SINT-GILLIS"
      }
     ],
     "station_id": "238"
@@ -5364,15 +5364,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LIBERTE / VRIJHEID"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "LIBERTE / VRIJHEID"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "LIBERTE / VRIJHEID"
+      "text": ""
      }
     ],
     "station_id": "258"
@@ -5847,15 +5847,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "ATOMIUM"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "ATOMIUM"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "ATOMIUM"
      }
     ],
     "station_id": "281"
@@ -5973,15 +5973,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "FLOREAL"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "FLOREAL"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "FLOREAL"
      }
     ],
     "station_id": "287"
@@ -6183,15 +6183,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "TENREUKEN"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "TENREUKEN"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "TENREUKEN"
      }
     ],
     "station_id": "297"
@@ -6267,15 +6267,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "MARIE-JOSE"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "MARIE-JOSE"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "MARIE-JOSE"
      }
     ],
     "station_id": "301"
@@ -6351,15 +6351,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HEEMBEEK"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "HEEMBEEK"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "HEEMBEEK"
+      "text": ""
      }
     ],
     "station_id": "306"
@@ -6414,15 +6414,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE"
      }
     ],
     "station_id": "309"
@@ -6456,15 +6456,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DELTA"
+      "text": ""
      },
      {
       "language": "nl",
-      "text": "DELTA"
+      "text": ""
      },
      {
       "language": "fr",
-      "text": "DELTA"
+      "text": ""
      }
     ],
     "station_id": "311"
@@ -7464,15 +7464,15 @@
     "name": [
      {
       "language": "en",
-      "text": ""
+      "text": "STOCKEL / STOKKEL"
      },
      {
       "language": "nl",
-      "text": ""
+      "text": "STOCKEL / STOKKEL"
      },
      {
       "language": "fr",
-      "text": ""
+      "text": "STOCKEL / STOKKEL"
      }
     ],
     "station_id": "360"
