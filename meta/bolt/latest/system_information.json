@@ -8,18 +8,24 @@
   "name": [
    {
     "language": "en",
-    "text": "Bolt Technology OÜ"
+    "text": "Bolt"
    }
   ],
   "opening_hours": "24/7",
+  "operator": [
+   {
+    "language": "en",
+    "text": "Bolt Technology OÜ"
+   }
+  ],
   "rental_apps": {
    "android": {
     "discovery_uri": "bolt://",
-    "store_uri": "https://bolt.sng.link/Epy3j/o9sr?pcn=Mobimeo&_smtype=3&client_id=all_germany_mobimeo&_dl=GBFS_PROVIDER_DEEPLINK"
+    "store_uri": "https://play.google.com/store/apps/details?id=ee.mtakso.client"
    },
    "ios": {
     "discovery_uri": "bolt://",
-    "store_uri": "https://bolt.sng.link/Epy3j/o9sr?pcn=Mobimeo&_smtype=3&client_id=all_germany_mobimeo&_dl=GBFS_PROVIDER_DEEPLINK"
+    "store_uri": "itms-apps://itunes.apple.com/app/id675033630"
    }
   },
   "system_id": "BoltEU_Brussels",
