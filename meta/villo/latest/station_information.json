@@ -9,15 +9,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LEOPOLD II"
+      "text": "001 - LEOPOLD II"
      },
      {
       "language": "nl",
-      "text": "LEOPOLD II"
+      "text": "001 - LEOPOLD II"
      },
      {
       "language": "fr",
-      "text": "LEOPOLD II"
+      "text": "001 - LEOPOLD II"
      }
     ],
     "station_id": "1"
@@ -214,20 +214,20 @@
    {
     "address": "Rue de la Régence 20 / Regentschapsstraat 20",
     "capacity": 17,
-    "lat": 50.8404045367738,
-    "lon": 4.3569983981935,
+    "lat": 50.840405,
+    "lon": 4.356998,
     "name": [
      {
       "language": "en",
-      "text": "011 - SABLON / ZAVEL"
+      "text": "SABLON / ZAVEL"
      },
      {
       "language": "nl",
-      "text": "011 - SABLON / ZAVEL"
+      "text": "SABLON / ZAVEL"
      },
      {
       "language": "fr",
-      "text": "011 - SABLON / ZAVEL"
+      "text": "SABLON / ZAVEL"
      }
     ],
     "station_id": "11"
@@ -345,15 +345,15 @@
     "name": [
      {
       "language": "en",
-      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+      "text": "017 - COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
      },
      {
       "language": "nl",
-      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+      "text": "017 - COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
      },
      {
       "language": "fr",
-      "text": "COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
+      "text": "017 - COMTE DE FLANDRE / GRAAF VAN VLAANDEREN"
      }
     ],
     "station_id": "17"
@@ -513,15 +513,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      },
      {
       "language": "nl",
-      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      },
      {
       "language": "fr",
-      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      }
     ],
     "station_id": "25"
@@ -571,20 +571,20 @@
    {
     "address": "Chaussée de Mons 163 / Bergensesteenweg 163",
     "capacity": 27,
-    "lat": 50.842098,
-    "lon": 4.330422,
+    "lat": 50.8420977072788,
+    "lon": 4.33042245108607,
     "name": [
      {
       "language": "en",
-      "text": "CLEMENCEAU"
+      "text": "028 - CLEMENCEAU"
      },
      {
       "language": "nl",
-      "text": "CLEMENCEAU"
+      "text": "028 - CLEMENCEAU"
      },
      {
       "language": "fr",
-      "text": "CLEMENCEAU"
+      "text": "028 - CLEMENCEAU"
      }
     ],
     "station_id": "28"
@@ -639,15 +639,15 @@
     "name": [
      {
       "language": "en",
-      "text": "031 - MUSEE DE LA BD / STRIPMUSEUM"
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      },
      {
       "language": "nl",
-      "text": "031 - MUSEE DE LA BD / STRIPMUSEUM"
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      },
      {
       "language": "fr",
-      "text": "031 - MUSEE DE LA BD / STRIPMUSEUM"
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      }
     ],
     "station_id": "31"
@@ -765,15 +765,15 @@
     "name": [
      {
       "language": "en",
-      "text": "037 - POELAERT"
+      "text": "POELAERT"
      },
      {
       "language": "nl",
-      "text": "037 - POELAERT"
+      "text": "POELAERT"
      },
      {
       "language": "fr",
-      "text": "037 - POELAERT"
+      "text": "POELAERT"
      }
     ],
     "station_id": "37"
@@ -1122,15 +1122,15 @@
     "name": [
      {
       "language": "en",
-      "text": "054 - TOUR ET TAXIS / THURN & TAXIS"
+      "text": "TOUR ET TAXIS / THURN & TAXIS"
      },
      {
       "language": "nl",
-      "text": "054 - TOUR ET TAXIS / THURN & TAXIS"
+      "text": "TOUR ET TAXIS / THURN & TAXIS"
      },
      {
       "language": "fr",
-      "text": "054 - TOUR ET TAXIS / THURN & TAXIS"
+      "text": "TOUR ET TAXIS / THURN & TAXIS"
      }
     ],
     "station_id": "54"
@@ -1374,15 +1374,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      },
      {
       "language": "nl",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      },
      {
       "language": "fr",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      }
     ],
     "station_id": "66"
@@ -2466,15 +2466,15 @@
     "name": [
      {
       "language": "en",
-      "text": "118 - SCHWEITZER"
+      "text": "SCHWEITZER"
      },
      {
       "language": "nl",
-      "text": "118 - SCHWEITZER"
+      "text": "SCHWEITZER"
      },
      {
       "language": "fr",
-      "text": "118 - SCHWEITZER"
+      "text": "SCHWEITZER"
      }
     ],
     "station_id": "118"
@@ -2571,15 +2571,15 @@
     "name": [
      {
       "language": "en",
-      "text": "123 - BASCULE"
+      "text": "BASCULE"
      },
      {
       "language": "nl",
-      "text": "123 - BASCULE"
+      "text": "BASCULE"
      },
      {
       "language": "fr",
-      "text": "123 - BASCULE"
+      "text": "BASCULE"
      }
     ],
     "station_id": "123"
@@ -3201,15 +3201,15 @@
     "name": [
      {
       "language": "en",
-      "text": "154 - PLASKY"
+      "text": "PLASKY"
      },
      {
       "language": "nl",
-      "text": "154 - PLASKY"
+      "text": "PLASKY"
      },
      {
       "language": "fr",
-      "text": "154 - PLASKY"
+      "text": "PLASKY"
      }
     ],
     "station_id": "154"
@@ -3789,15 +3789,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LA CHASSE / JACHT"
+      "text": "183 - LA CHASSE / JACHT"
      },
      {
       "language": "nl",
-      "text": "LA CHASSE / JACHT"
+      "text": "183 - LA CHASSE / JACHT"
      },
      {
       "language": "fr",
-      "text": "LA CHASSE / JACHT"
+      "text": "183 - LA CHASSE / JACHT"
      }
     ],
     "station_id": "183"
@@ -3831,15 +3831,15 @@
     "name": [
      {
       "language": "en",
-      "text": "185 - PERE DE DEKEN / PATER DE DEKEN"
+      "text": "PERE DE DEKEN / PATER DE DEKEN"
      },
      {
       "language": "nl",
-      "text": "185 - PERE DE DEKEN / PATER DE DEKEN"
+      "text": "PERE DE DEKEN / PATER DE DEKEN"
      },
      {
       "language": "fr",
-      "text": "185 - PERE DE DEKEN / PATER DE DEKEN"
+      "text": "PERE DE DEKEN / PATER DE DEKEN"
      }
     ],
     "station_id": "185"
@@ -4020,15 +4020,15 @@
     "name": [
      {
       "language": "en",
-      "text": "194 - STUYVENBERG"
+      "text": "STUYVENBERG"
      },
      {
       "language": "nl",
-      "text": "194 - STUYVENBERG"
+      "text": "STUYVENBERG"
      },
      {
       "language": "fr",
-      "text": "194 - STUYVENBERG"
+      "text": "STUYVENBERG"
      }
     ],
     "station_id": "194"
@@ -4314,15 +4314,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MELBA"
+      "text": "208 - MELBA"
      },
      {
       "language": "nl",
-      "text": "MELBA"
+      "text": "208 - MELBA"
      },
      {
       "language": "fr",
-      "text": "MELBA"
+      "text": "208 - MELBA"
      }
     ],
     "station_id": "208"
@@ -4356,15 +4356,15 @@
     "name": [
      {
       "language": "en",
-      "text": "210 - MARIUS RENARD"
+      "text": "MARIUS RENARD"
      },
      {
       "language": "nl",
-      "text": "210 - MARIUS RENARD"
+      "text": "MARIUS RENARD"
      },
      {
       "language": "fr",
-      "text": "210 - MARIUS RENARD"
+      "text": "MARIUS RENARD"
      }
     ],
     "station_id": "210"
@@ -4902,15 +4902,15 @@
     "name": [
      {
       "language": "en",
-      "text": "236 - MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
      },
      {
       "language": "nl",
-      "text": "236 - MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
      },
      {
       "language": "fr",
-      "text": "236 - MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
+      "text": "MAISON COMMUNALE FOREST / GEMEENTEHUIS VORST"
      }
     ],
     "station_id": "236"
@@ -5007,15 +5007,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STATUAIRES / BEELDHOUWERS"
+      "text": "241 - STATUAIRES / BEELDHOUWERS"
      },
      {
       "language": "nl",
-      "text": "STATUAIRES / BEELDHOUWERS"
+      "text": "241 - STATUAIRES / BEELDHOUWERS"
      },
      {
       "language": "fr",
-      "text": "STATUAIRES / BEELDHOUWERS"
+      "text": "241 - STATUAIRES / BEELDHOUWERS"
      }
     ],
     "station_id": "241"
@@ -6498,15 +6498,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DEMEY"
+      "text": "313 - DEMEY"
      },
      {
       "language": "nl",
-      "text": "DEMEY"
+      "text": "313 - DEMEY"
      },
      {
       "language": "fr",
-      "text": "DEMEY"
+      "text": "313 - DEMEY"
      }
     ],
     "station_id": "313"
