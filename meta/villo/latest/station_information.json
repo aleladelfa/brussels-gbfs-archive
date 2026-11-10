@@ -30,15 +30,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ELOY"
+      "text": "002 - ELOY"
      },
      {
       "language": "nl",
-      "text": "ELOY"
+      "text": "002 - ELOY"
      },
      {
       "language": "fr",
-      "text": "ELOY"
+      "text": "002 - ELOY"
      }
     ],
     "station_id": "2"
@@ -114,15 +114,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GARE CENTRALE / CENTRAAL STATION"
+      "text": "006 - GARE CENTRALE / CENTRAAL STATION"
      },
      {
       "language": "nl",
-      "text": "GARE CENTRALE / CENTRAAL STATION"
+      "text": "006 - GARE CENTRALE / CENTRAAL STATION"
      },
      {
       "language": "fr",
-      "text": "GARE CENTRALE / CENTRAAL STATION"
+      "text": "006 - GARE CENTRALE / CENTRAAL STATION"
      }
     ],
     "station_id": "6"
@@ -261,15 +261,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      },
      {
       "language": "nl",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      },
      {
       "language": "fr",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      }
     ],
     "station_id": "13"
@@ -408,15 +408,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PALAIS ROYAL / KONINKLIJK PALEIS"
+      "text": "020 - PALAIS ROYAL / KONINKLIJK PALEIS"
      },
      {
       "language": "nl",
-      "text": "PALAIS ROYAL / KONINKLIJK PALEIS"
+      "text": "020 - PALAIS ROYAL / KONINKLIJK PALEIS"
      },
      {
       "language": "fr",
-      "text": "PALAIS ROYAL / KONINKLIJK PALEIS"
+      "text": "020 - PALAIS ROYAL / KONINKLIJK PALEIS"
      }
     ],
     "station_id": "20"
@@ -450,15 +450,15 @@
     "name": [
      {
       "language": "en",
-      "text": "JACQMAIN"
+      "text": "022 - JACQMAIN"
      },
      {
       "language": "nl",
-      "text": "JACQMAIN"
+      "text": "022 - JACQMAIN"
      },
      {
       "language": "fr",
-      "text": "JACQMAIN"
+      "text": "022 - JACQMAIN"
      }
     ],
     "station_id": "22"
@@ -471,15 +471,15 @@
     "name": [
      {
       "language": "en",
-      "text": "023 - AGORA"
+      "text": "AGORA"
      },
      {
       "language": "nl",
-      "text": "023 - AGORA"
+      "text": "AGORA"
      },
      {
       "language": "fr",
-      "text": "023 - AGORA"
+      "text": "AGORA"
      }
     ],
     "station_id": "23"
@@ -849,15 +849,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SAINT-ROCH / SINT-ROCHUS"
+      "text": "041 - SAINT-ROCH / SINT-ROCHUS"
      },
      {
       "language": "nl",
-      "text": "SAINT-ROCH / SINT-ROCHUS"
+      "text": "041 - SAINT-ROCH / SINT-ROCHUS"
      },
      {
       "language": "fr",
-      "text": "SAINT-ROCH / SINT-ROCHUS"
+      "text": "041 - SAINT-ROCH / SINT-ROCHUS"
      }
     ],
     "station_id": "41"
@@ -1059,15 +1059,15 @@
     "name": [
      {
       "language": "en",
-      "text": "051 - MIDI FONSNY / ZUID FONSNY"
+      "text": "MIDI FONSNY / ZUID FONSNY"
      },
      {
       "language": "nl",
-      "text": "051 - MIDI FONSNY / ZUID FONSNY"
+      "text": "MIDI FONSNY / ZUID FONSNY"
      },
      {
       "language": "fr",
-      "text": "051 - MIDI FONSNY / ZUID FONSNY"
+      "text": "MIDI FONSNY / ZUID FONSNY"
      }
     ],
     "station_id": "51"
@@ -1101,15 +1101,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GARE DU MIDI / ZUIDSTATION"
+      "text": "053 - GARE DU MIDI / ZUIDSTATION"
      },
      {
       "language": "nl",
-      "text": "GARE DU MIDI / ZUIDSTATION"
+      "text": "053 - GARE DU MIDI / ZUIDSTATION"
      },
      {
       "language": "fr",
-      "text": "GARE DU MIDI / ZUIDSTATION"
+      "text": "053 - GARE DU MIDI / ZUIDSTATION"
      }
     ],
     "station_id": "53"
@@ -1248,15 +1248,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SAINT-LAZARE / SINT-LAZARUS"
+      "text": "060 - SAINT-LAZARE / SINT-LAZARUS"
      },
      {
       "language": "nl",
-      "text": "SAINT-LAZARE / SINT-LAZARUS"
+      "text": "060 - SAINT-LAZARE / SINT-LAZARUS"
      },
      {
       "language": "fr",
-      "text": "SAINT-LAZARE / SINT-LAZARUS"
+      "text": "060 - SAINT-LAZARE / SINT-LAZARUS"
      }
     ],
     "station_id": "60"
@@ -1332,15 +1332,15 @@
     "name": [
      {
       "language": "en",
-      "text": "VETERINAIRES / VEEARTSEN"
+      "text": "064 - VETERINAIRES / VEEARTSEN"
      },
      {
       "language": "nl",
-      "text": "VETERINAIRES / VEEARTSEN"
+      "text": "064 - VETERINAIRES / VEEARTSEN"
      },
      {
       "language": "fr",
-      "text": "VETERINAIRES / VEEARTSEN"
+      "text": "064 - VETERINAIRES / VEEARTSEN"
      }
     ],
     "station_id": "64"
@@ -1521,15 +1521,15 @@
     "name": [
      {
       "language": "en",
-      "text": "VLEURGAT"
+      "text": "073 - VLEURGAT"
      },
      {
       "language": "nl",
-      "text": "VLEURGAT"
+      "text": "073 - VLEURGAT"
      },
      {
       "language": "fr",
-      "text": "VLEURGAT"
+      "text": "073 - VLEURGAT"
      }
     ],
     "station_id": "73"
@@ -1647,15 +1647,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LOI / WET"
+      "text": "079 - LOI / WET"
      },
      {
       "language": "nl",
-      "text": "LOI / WET"
+      "text": "079 - LOI / WET"
      },
      {
       "language": "fr",
-      "text": "LOI / WET"
+      "text": "079 - LOI / WET"
      }
     ],
     "station_id": "79"
@@ -1878,15 +1878,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BROUSTIN"
+      "text": "090 - BROUSTIN"
      },
      {
       "language": "nl",
-      "text": "BROUSTIN"
+      "text": "090 - BROUSTIN"
      },
      {
       "language": "fr",
-      "text": "BROUSTIN"
+      "text": "090 - BROUSTIN"
      }
     ],
     "station_id": "90"
@@ -1983,15 +1983,15 @@
     "name": [
      {
       "language": "en",
-      "text": "095 - PLACE BOCKSTAEL / BOCKSTAELPLAATS"
+      "text": "PLACE BOCKSTAEL / BOCKSTAELPLAATS"
      },
      {
       "language": "nl",
-      "text": "095 - PLACE BOCKSTAEL / BOCKSTAELPLAATS"
+      "text": "PLACE BOCKSTAEL / BOCKSTAELPLAATS"
      },
      {
       "language": "fr",
-      "text": "095 - PLACE BOCKSTAEL / BOCKSTAELPLAATS"
+      "text": "PLACE BOCKSTAEL / BOCKSTAELPLAATS"
      }
     ],
     "station_id": "95"
@@ -2340,15 +2340,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PAGE / EDELKNAAP"
+      "text": "112 - PAGE / EDELKNAAP"
      },
      {
       "language": "nl",
-      "text": "PAGE / EDELKNAAP"
+      "text": "112 - PAGE / EDELKNAAP"
      },
      {
       "language": "fr",
-      "text": "PAGE / EDELKNAAP"
+      "text": "112 - PAGE / EDELKNAAP"
      }
     ],
     "station_id": "112"
@@ -2529,15 +2529,15 @@
     "name": [
      {
       "language": "en",
-      "text": "121 - ETANGS / VIJVERS"
+      "text": "ETANGS / VIJVERS"
      },
      {
       "language": "nl",
-      "text": "121 - ETANGS / VIJVERS"
+      "text": "ETANGS / VIJVERS"
      },
      {
       "language": "fr",
-      "text": "121 - ETANGS / VIJVERS"
+      "text": "ETANGS / VIJVERS"
      }
     ],
     "station_id": "121"
@@ -2886,15 +2886,15 @@
     "name": [
      {
       "language": "en",
-      "text": "139 - LIEDTS"
+      "text": "LIEDTS"
      },
      {
       "language": "nl",
-      "text": "139 - LIEDTS"
+      "text": "LIEDTS"
      },
      {
       "language": "fr",
-      "text": "139 - LIEDTS"
+      "text": "LIEDTS"
      }
     ],
     "station_id": "139"
@@ -3075,15 +3075,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GARE DE MEISER / MEISER STATION"
+      "text": "148 - GARE DE MEISER / MEISER STATION"
      },
      {
       "language": "nl",
-      "text": "GARE DE MEISER / MEISER STATION"
+      "text": "148 - GARE DE MEISER / MEISER STATION"
      },
      {
       "language": "fr",
-      "text": "GARE DE MEISER / MEISER STATION"
+      "text": "148 - GARE DE MEISER / MEISER STATION"
      }
     ],
     "station_id": "148"
@@ -3726,15 +3726,15 @@
     "name": [
      {
       "language": "en",
-      "text": "JOURDAN"
+      "text": "180 - JOURDAN"
      },
      {
       "language": "nl",
-      "text": "JOURDAN"
+      "text": "180 - JOURDAN"
      },
      {
       "language": "fr",
-      "text": "JOURDAN"
+      "text": "180 - JOURDAN"
      }
     ],
     "station_id": "180"
@@ -3915,15 +3915,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
+      "text": "189 - PLACE VAN MEYEL / VAN MEYELPLEIN"
      },
      {
       "language": "nl",
-      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
+      "text": "189 - PLACE VAN MEYEL / VAN MEYELPLEIN"
      },
      {
       "language": "fr",
-      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
+      "text": "189 - PLACE VAN MEYEL / VAN MEYELPLEIN"
      }
     ],
     "station_id": "189"
@@ -4419,15 +4419,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LA ROUE / HET RAD"
+      "text": "213 - LA ROUE / HET RAD"
      },
      {
       "language": "nl",
-      "text": "LA ROUE / HET RAD"
+      "text": "213 - LA ROUE / HET RAD"
      },
      {
       "language": "fr",
-      "text": "LA ROUE / HET RAD"
+      "text": "213 - LA ROUE / HET RAD"
      }
     ],
     "station_id": "213"
@@ -4519,20 +4519,20 @@
    {
     "address": "DELACROIX - RUE DE BIRMINGHAM 96 / BIRMINGHAMSTRAAT 96",
     "capacity": 25,
-    "lat": 50.845978,
-    "lon": 4.323226,
+    "lat": 50.845978218314,
+    "lon": 4.3232258415201,
     "name": [
      {
       "language": "en",
-      "text": "DELACROIX"
+      "text": "218 - DELACROIX"
      },
      {
       "language": "nl",
-      "text": "DELACROIX"
+      "text": "218 - DELACROIX"
      },
      {
       "language": "fr",
-      "text": "DELACROIX"
+      "text": "218 - DELACROIX"
      }
     ],
     "station_id": "218"
@@ -4734,15 +4734,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ALTITUDE CENT / HOOGTE HONDERD"
+      "text": "228 - ALTITUDE CENT / HOOGTE HONDERD"
      },
      {
       "language": "nl",
-      "text": "ALTITUDE CENT / HOOGTE HONDERD"
+      "text": "228 - ALTITUDE CENT / HOOGTE HONDERD"
      },
      {
       "language": "fr",
-      "text": "ALTITUDE CENT / HOOGTE HONDERD"
+      "text": "228 - ALTITUDE CENT / HOOGTE HONDERD"
      }
     ],
     "station_id": "228"
@@ -4797,15 +4797,15 @@
     "name": [
      {
       "language": "en",
-      "text": "231 - KERSBEEK"
+      "text": "KERSBEEK"
      },
      {
       "language": "nl",
-      "text": "231 - KERSBEEK"
+      "text": "KERSBEEK"
      },
      {
       "language": "fr",
-      "text": "231 - KERSBEEK"
+      "text": "KERSBEEK"
      }
     ],
     "station_id": "231"
@@ -4818,15 +4818,15 @@
     "name": [
      {
       "language": "en",
-      "text": "232 - DOMAINE / DOMEIN"
+      "text": "DOMAINE / DOMEIN"
      },
      {
       "language": "nl",
-      "text": "232 - DOMAINE / DOMEIN"
+      "text": "DOMAINE / DOMEIN"
      },
      {
       "language": "fr",
-      "text": "232 - DOMAINE / DOMEIN"
+      "text": "DOMAINE / DOMEIN"
      }
     ],
     "station_id": "232"
@@ -4839,15 +4839,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PARC DUDEN / DUDENPARK"
+      "text": "233 - PARC DUDEN / DUDENPARK"
      },
      {
       "language": "nl",
-      "text": "PARC DUDEN / DUDENPARK"
+      "text": "233 - PARC DUDEN / DUDENPARK"
      },
      {
       "language": "fr",
-      "text": "PARC DUDEN / DUDENPARK"
+      "text": "233 - PARC DUDEN / DUDENPARK"
      }
     ],
     "station_id": "233"
@@ -4923,15 +4923,15 @@
     "name": [
      {
       "language": "en",
-      "text": "237 - PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
+      "text": "PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
      },
      {
       "language": "nl",
-      "text": "237 - PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
+      "text": "PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
      },
      {
       "language": "fr",
-      "text": "237 - PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
+      "text": "PARVIS ST-ANTOINE / ST-ANTONIUSVOORPLEIN"
      }
     ],
     "station_id": "237"
@@ -5133,15 +5133,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STALLE"
+      "text": "247 - STALLE"
      },
      {
       "language": "nl",
-      "text": "STALLE"
+      "text": "247 - STALLE"
      },
      {
       "language": "fr",
-      "text": "STALLE"
+      "text": "247 - STALLE"
      }
     ],
     "station_id": "247"
@@ -5280,15 +5280,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BASILIQUE / BASILIEK"
+      "text": "254 - BASILIQUE / BASILIEK"
      },
      {
       "language": "nl",
-      "text": "BASILIQUE / BASILIEK"
+      "text": "254 - BASILIQUE / BASILIEK"
      },
      {
       "language": "fr",
-      "text": "BASILIQUE / BASILIEK"
+      "text": "254 - BASILIQUE / BASILIEK"
      }
     ],
     "station_id": "254"
@@ -5532,15 +5532,15 @@
     "name": [
      {
       "language": "en",
-      "text": "266 - GARE DE BORDET / BORDET STATION"
+      "text": "GARE DE BORDET / BORDET STATION"
      },
      {
       "language": "nl",
-      "text": "266 - GARE DE BORDET / BORDET STATION"
+      "text": "GARE DE BORDET / BORDET STATION"
      },
      {
       "language": "fr",
-      "text": "266 - GARE DE BORDET / BORDET STATION"
+      "text": "GARE DE BORDET / BORDET STATION"
      }
     ],
     "station_id": "266"
@@ -5595,15 +5595,15 @@
     "name": [
      {
       "language": "en",
-      "text": "CICERON / CICERO"
+      "text": "269 - CICERON / CICERO"
      },
      {
       "language": "nl",
-      "text": "CICERON / CICERO"
+      "text": "269 - CICERON / CICERO"
      },
      {
       "language": "fr",
-      "text": "CICERON / CICERO"
+      "text": "269 - CICERON / CICERO"
      }
     ],
     "station_id": "269"
@@ -5910,15 +5910,15 @@
     "name": [
      {
       "language": "en",
-      "text": "CLAESSENS"
+      "text": "284 - CLAESSENS"
      },
      {
       "language": "nl",
-      "text": "CLAESSENS"
+      "text": "284 - CLAESSENS"
      },
      {
       "language": "fr",
-      "text": "CLAESSENS"
+      "text": "284 - CLAESSENS"
      }
     ],
     "station_id": "284"
@@ -5931,15 +5931,15 @@
     "name": [
      {
       "language": "en",
-      "text": "COGHEN"
+      "text": "285 - COGHEN"
      },
      {
       "language": "nl",
-      "text": "COGHEN"
+      "text": "285 - COGHEN"
      },
      {
       "language": "fr",
-      "text": "COGHEN"
+      "text": "285 - COGHEN"
      }
     ],
     "station_id": "285"
@@ -6099,15 +6099,15 @@
     "name": [
      {
       "language": "en",
-      "text": "KEYM"
+      "text": "293 - KEYM"
      },
      {
       "language": "nl",
-      "text": "KEYM"
+      "text": "293 - KEYM"
      },
      {
       "language": "fr",
-      "text": "KEYM"
+      "text": "293 - KEYM"
      }
     ],
     "station_id": "293"
@@ -6246,15 +6246,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BOONDAEL GARE / BOONDAAL STATION"
+      "text": "300 - BOONDAEL GARE / BOONDAAL STATION"
      },
      {
       "language": "nl",
-      "text": "BOONDAEL GARE / BOONDAAL STATION"
+      "text": "300 - BOONDAEL GARE / BOONDAAL STATION"
      },
      {
       "language": "fr",
-      "text": "BOONDAEL GARE / BOONDAAL STATION"
+      "text": "300 - BOONDAEL GARE / BOONDAAL STATION"
      }
     ],
     "station_id": "300"
@@ -6267,15 +6267,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MARIE-JOSE"
+      "text": "301 - MARIE-JOSE"
      },
      {
       "language": "nl",
-      "text": "MARIE-JOSE"
+      "text": "301 - MARIE-JOSE"
      },
      {
       "language": "fr",
-      "text": "MARIE-JOSE"
+      "text": "301 - MARIE-JOSE"
      }
     ],
     "station_id": "301"
@@ -6498,15 +6498,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DEMEY"
+      "text": "313 - DEMEY"
      },
      {
       "language": "nl",
-      "text": "DEMEY"
+      "text": "313 - DEMEY"
      },
      {
       "language": "fr",
-      "text": "DEMEY"
+      "text": "313 - DEMEY"
      }
     ],
     "station_id": "313"
@@ -7359,15 +7359,15 @@
     "name": [
      {
       "language": "en",
-      "text": "355 - PARNASSE / PARNASSUS"
+      "text": "PARNASSE / PARNASSUS"
      },
      {
       "language": "nl",
-      "text": "355 - PARNASSE / PARNASSUS"
+      "text": "PARNASSE / PARNASSUS"
      },
      {
       "language": "fr",
-      "text": "355 - PARNASSE / PARNASSUS"
+      "text": "PARNASSE / PARNASSUS"
      }
     ],
     "station_id": "355"
@@ -7464,15 +7464,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STOCKEL / STOKKEL"
+      "text": "360 - STOCKEL / STOKKEL"
      },
      {
       "language": "nl",
-      "text": "STOCKEL / STOKKEL"
+      "text": "360 - STOCKEL / STOKKEL"
      },
      {
       "language": "fr",
-      "text": "STOCKEL / STOKKEL"
+      "text": "360 - STOCKEL / STOKKEL"
      }
     ],
     "station_id": "360"
