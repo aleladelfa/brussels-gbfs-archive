@@ -2347,171 +2347,6 @@
        [
         [
          [
-          4.3593,
-          50.84205
-         ],
-         [
-          4.35993,
-          50.84164
-         ],
-         [
-          4.36035,
-          50.84157
-         ],
-         [
-          4.36084,
-          50.8417
-         ],
-         [
-          4.36111,
-          50.84205
-         ],
-         [
-          4.36109,
-          50.84286
-         ],
-         [
-          4.36435,
-          50.84222
-         ],
-         [
-          4.36665,
-          50.84625
-         ],
-         [
-          4.36689,
-          50.8466
-         ],
-         [
-          4.36519,
-          50.84685
-         ],
-         [
-          4.36538,
-          50.84733
-         ],
-         [
-          4.36592,
-          50.84823
-         ],
-         [
-          4.36895,
-          50.84866
-         ],
-         [
-          4.36872,
-          50.84947
-         ],
-         [
-          4.36647,
-          50.84998
-         ],
-         [
-          4.36618,
-          50.85085
-         ],
-         [
-          4.36717,
-          50.85299
-         ],
-         [
-          4.36653,
-          50.85309
-         ],
-         [
-          4.36605,
-          50.85326
-         ],
-         [
-          4.36425,
-          50.8537
-         ],
-         [
-          4.36292,
-          50.85125
-         ],
-         [
-          4.36217,
-          50.85002
-         ],
-         [
-          4.35949,
-          50.8443
-         ],
-         [
-          4.35855,
-          50.84324
-         ],
-         [
-          4.3587,
-          50.84304
-         ],
-         [
-          4.35954,
-          50.84243
-         ],
-         [
-          4.3593,
-          50.84205
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "NO GO 325 0"
-       }
-      ],
-      "rules": [
-       {
-        "maximum_speed_kph": 0,
-        "ride_end_allowed": false,
-        "ride_start_allowed": false,
-        "ride_through_allowed": false,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.42671,
           50.84411
          ],
@@ -56115,6 +55950,82 @@
        [
         [
          [
+          4.36603,
+          50.85066
+         ],
+         [
+          4.36617,
+          50.85066
+         ],
+         [
+          4.36617,
+          50.85074
+         ],
+         [
+          4.36603,
+          50.85074
+         ],
+         [
+          4.36603,
+          50.85066
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 221                                                                                                                                                                                                                                                 "
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.29933,
           50.87166
          ],
@@ -77631,6 +77542,82 @@
        {
         "language": "en",
         "text": "Saint-Gilles 83                                                                                                                                                                                                                                           "
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.36573,
+          50.84956
+         ],
+         [
+          4.36587,
+          50.84956
+         ],
+         [
+          4.36587,
+          50.84964
+         ],
+         [
+          4.36573,
+          50.84964
+         ],
+         [
+          4.36573,
+          50.84956
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 213                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -111670,6 +111657,82 @@
        [
         [
          [
+          4.36423,
+          50.84996
+         ],
+         [
+          4.36437,
+          50.84996
+         ],
+         [
+          4.36437,
+          50.85004
+         ],
+         [
+          4.36423,
+          50.85004
+         ],
+         [
+          4.36423,
+          50.84996
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 212                                                                                                                                                                                                                                                 "
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.41713,
           50.82766
          ],
@@ -133854,6 +133917,82 @@
        {
         "language": "en",
         "text": "Ville 174                                                                                                                                                                                                                                                 "
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.36473,
+          50.84756
+         ],
+         [
+          4.36487,
+          50.84756
+         ],
+         [
+          4.36487,
+          50.84764
+         ],
+         [
+          4.36473,
+          50.84764
+         ],
+         [
+          4.36473,
+          50.84756
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 206                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -179316,6 +179455,82 @@
        [
         [
          [
+          4.36233,
+          50.84776
+         ],
+         [
+          4.36247,
+          50.84776
+         ],
+         [
+          4.36247,
+          50.84784
+         ],
+         [
+          4.36233,
+          50.84784
+         ],
+         [
+          4.36233,
+          50.84776
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 412                                                                                                                                                                                                                                                 "
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.38723,
           50.84956
          ],
@@ -213941,6 +214156,82 @@
        [
         [
          [
+          4.36363,
+          50.84796
+         ],
+         [
+          4.36377,
+          50.84796
+         ],
+         [
+          4.36377,
+          50.84804
+         ],
+         [
+          4.36363,
+          50.84804
+         ],
+         [
+          4.36363,
+          50.84796
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Ville 207                                                                                                                                                                                                                                                 "
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.43093,
           50.83576
          ],
@@ -233377,6 +233668,94 @@
        [
         [
          [
+          4.36505,
+          50.85316
+         ],
+         [
+          4.36504,
+          50.85318
+         ],
+         [
+          4.36499,
+          50.85319
+         ],
+         [
+          4.36496,
+          50.85317
+         ],
+         [
+          4.36496,
+          50.85315
+         ],
+         [
+          4.36501,
+          50.85313
+         ],
+         [
+          4.36504,
+          50.85314
+         ],
+         [
+          4.36505,
+          50.85316
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.3602,
           50.85494
          ],
@@ -236425,6 +236804,82 @@
        [
         [
          [
+          4.366,
+          50.8529
+         ],
+         [
+          4.3659,
+          50.8529
+         ],
+         [
+          4.3659,
+          50.8528
+         ],
+         [
+          4.366,
+          50.8528
+         ],
+         [
+          4.366,
+          50.8529
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.3475,
           50.8333
          ],
@@ -237033,6 +237488,230 @@
        [
         [
          [
+          4.3681,
+          50.8493
+         ],
+         [
+          4.368,
+          50.8493
+         ],
+         [
+          4.368,
+          50.8492
+         ],
+         [
+          4.3681,
+          50.8492
+         ],
+         [
+          4.3681,
+          50.8493
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3606,
+          50.8435
+         ],
+         [
+          4.3606,
+          50.8436
+         ],
+         [
+          4.3605,
+          50.8435
+         ],
+         [
+          4.3606,
+          50.8435
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3667,
+          50.8492
+         ],
+         [
+          4.3667,
+          50.8493
+         ],
+         [
+          4.3666,
+          50.8493
+         ],
+         [
+          4.3666,
+          50.8492
+         ],
+         [
+          4.3667,
+          50.8492
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.3562,
           50.8449
          ],
@@ -237051,6 +237730,82 @@
          [
           4.3562,
           50.8449
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3621,
+          50.8489
+         ],
+         [
+          4.3621,
+          50.849
+         ],
+         [
+          4.362,
+          50.849
+         ],
+         [
+          4.362,
+          50.8489
+         ],
+         [
+          4.3621,
+          50.8489
          ]
         ]
        ]
@@ -237185,6 +237940,158 @@
        [
         [
          [
+          4.3618,
+          50.8454
+         ],
+         [
+          4.3617,
+          50.8454
+         ],
+         [
+          4.3617,
+          50.8453
+         ],
+         [
+          4.3618,
+          50.8453
+         ],
+         [
+          4.3618,
+          50.8454
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3651,
+          50.8487
+         ],
+         [
+          4.365,
+          50.8487
+         ],
+         [
+          4.365,
+          50.8486
+         ],
+         [
+          4.3651,
+          50.8486
+         ],
+         [
+          4.3651,
+          50.8487
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.3483,
           50.8575
          ],
@@ -237203,6 +238110,230 @@
          [
           4.3483,
           50.8575
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3609,
+          50.8437
+         ],
+         [
+          4.3608,
+          50.8437
+         ],
+         [
+          4.3608,
+          50.8436
+         ],
+         [
+          4.3609,
+          50.8436
+         ],
+         [
+          4.3609,
+          50.8437
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.364,
+          50.8492
+         ],
+         [
+          4.3639,
+          50.8492
+         ],
+         [
+          4.3639,
+          50.8491
+         ],
+         [
+          4.364,
+          50.8491
+         ],
+         [
+          4.364,
+          50.8492
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "MDS Policy API RPZ _Brussels-Capital Region"
+       }
+      ],
+      "rules": [
+       {
+        "ride_end_allowed": true,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d",
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.3647,
+          50.8509
+         ],
+         [
+          4.3646,
+          50.851
+         ],
+         [
+          4.3646,
+          50.8509
+         ],
+         [
+          4.3647,
+          50.8509
          ]
         ]
        ]
