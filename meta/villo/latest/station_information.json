@@ -51,15 +51,15 @@
     "name": [
      {
       "language": "en",
-      "text": "003 - PORTE DE FLANDRE / VLAAMSEPOORT"
+      "text": "PORTE DE FLANDRE / VLAAMSEPOORT"
      },
      {
       "language": "nl",
-      "text": "003 - PORTE DE FLANDRE / VLAAMSEPOORT"
+      "text": "PORTE DE FLANDRE / VLAAMSEPOORT"
      },
      {
       "language": "fr",
-      "text": "003 - PORTE DE FLANDRE / VLAAMSEPOORT"
+      "text": "PORTE DE FLANDRE / VLAAMSEPOORT"
      }
     ],
     "station_id": "3"
@@ -366,15 +366,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GUTENBERG"
+      "text": "018 - GUTENBERG"
      },
      {
       "language": "nl",
-      "text": "GUTENBERG"
+      "text": "018 - GUTENBERG"
      },
      {
       "language": "fr",
-      "text": "GUTENBERG"
+      "text": "018 - GUTENBERG"
      }
     ],
     "station_id": "18"
@@ -618,15 +618,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LAEKEN / LAKEN"
+      "text": "030 - LAEKEN / LAKEN"
      },
      {
       "language": "nl",
-      "text": "LAEKEN / LAKEN"
+      "text": "030 - LAEKEN / LAKEN"
      },
      {
       "language": "fr",
-      "text": "LAEKEN / LAKEN"
+      "text": "030 - LAEKEN / LAKEN"
      }
     ],
     "station_id": "30"
@@ -870,15 +870,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": "042 - PORTE DE NINOVE / NINOOFSEPOORT"
      },
      {
       "language": "nl",
-      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": "042 - PORTE DE NINOVE / NINOOFSEPOORT"
      },
      {
       "language": "fr",
-      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": "042 - PORTE DE NINOVE / NINOOFSEPOORT"
      }
     ],
     "station_id": "42"
@@ -1038,15 +1038,15 @@
     "name": [
      {
       "language": "en",
-      "text": "050 - RIBAUCOURT"
+      "text": "RIBAUCOURT"
      },
      {
       "language": "nl",
-      "text": "050 - RIBAUCOURT"
+      "text": "RIBAUCOURT"
      },
      {
       "language": "fr",
-      "text": "050 - RIBAUCOURT"
+      "text": "RIBAUCOURT"
      }
     ],
     "station_id": "50"
@@ -1227,15 +1227,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
+      "text": "059 - PLACE ST-JOSSE / ST-JOOSTPLEIN"
      },
      {
       "language": "nl",
-      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
+      "text": "059 - PLACE ST-JOSSE / ST-JOOSTPLEIN"
      },
      {
       "language": "fr",
-      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
+      "text": "059 - PLACE ST-JOSSE / ST-JOOSTPLEIN"
      }
     ],
     "station_id": "59"
@@ -1479,15 +1479,15 @@
     "name": [
      {
       "language": "en",
-      "text": "071 - LEGRAND"
+      "text": "LEGRAND"
      },
      {
       "language": "nl",
-      "text": "071 - LEGRAND"
+      "text": "LEGRAND"
      },
      {
       "language": "fr",
-      "text": "071 - LEGRAND"
+      "text": "LEGRAND"
      }
     ],
     "station_id": "71"
@@ -1689,15 +1689,15 @@
     "name": [
      {
       "language": "en",
-      "text": "081 - PONT BOCKSTAEL / BRUG BOCKSTAEL"
+      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
      },
      {
       "language": "nl",
-      "text": "081 - PONT BOCKSTAEL / BRUG BOCKSTAEL"
+      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
      },
      {
       "language": "fr",
-      "text": "081 - PONT BOCKSTAEL / BRUG BOCKSTAEL"
+      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
      }
     ],
     "station_id": "81"
@@ -1878,15 +1878,15 @@
     "name": [
      {
       "language": "en",
-      "text": "090 - BROUSTIN"
+      "text": "BROUSTIN"
      },
      {
       "language": "nl",
-      "text": "090 - BROUSTIN"
+      "text": "BROUSTIN"
      },
      {
       "language": "fr",
-      "text": "090 - BROUSTIN"
+      "text": "BROUSTIN"
      }
     ],
     "station_id": "90"
@@ -2756,19 +2756,19 @@
     "address": "Av. du Château / Kasteellaan 133",
     "capacity": 24,
     "lat": 50.866795,
-    "lon": 4.3092224,
+    "lon": 4.309222,
     "name": [
      {
       "language": "en",
-      "text": "133 - CHÂTEAU / KASTEEL"
+      "text": "CHÂTEAU / KASTEEL"
      },
      {
       "language": "nl",
-      "text": "133 - CHÂTEAU / KASTEEL"
+      "text": "CHÂTEAU / KASTEEL"
      },
      {
       "language": "fr",
-      "text": "133 - CHÂTEAU / KASTEEL"
+      "text": "CHÂTEAU / KASTEEL"
      }
     ],
     "station_id": "133"
@@ -3264,15 +3264,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HELIOTROPES / HELIOTROPEN"
+      "text": "157 - HELIOTROPES / HELIOTROPEN"
      },
      {
       "language": "nl",
-      "text": "HELIOTROPES / HELIOTROPEN"
+      "text": "157 - HELIOTROPES / HELIOTROPEN"
      },
      {
       "language": "fr",
-      "text": "HELIOTROPES / HELIOTROPEN"
+      "text": "157 - HELIOTROPES / HELIOTROPEN"
      }
     ],
     "station_id": "157"
@@ -3789,15 +3789,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LA CHASSE / JACHT"
+      "text": "183 - LA CHASSE / JACHT"
      },
      {
       "language": "nl",
-      "text": "LA CHASSE / JACHT"
+      "text": "183 - LA CHASSE / JACHT"
      },
      {
       "language": "fr",
-      "text": "LA CHASSE / JACHT"
+      "text": "183 - LA CHASSE / JACHT"
      }
     ],
     "station_id": "183"
@@ -3978,15 +3978,15 @@
     "name": [
      {
       "language": "en",
-      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
+      "text": "192 - AUBERGE DE JEUNESSE / JEUGDHERBERG"
      },
      {
       "language": "nl",
-      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
+      "text": "192 - AUBERGE DE JEUNESSE / JEUGDHERBERG"
      },
      {
       "language": "fr",
-      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
+      "text": "192 - AUBERGE DE JEUNESSE / JEUGDHERBERG"
      }
     ],
     "station_id": "192"
@@ -4167,15 +4167,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PETERBOS"
+      "text": "201 - PETERBOS"
      },
      {
       "language": "nl",
-      "text": "PETERBOS"
+      "text": "201 - PETERBOS"
      },
      {
       "language": "fr",
-      "text": "PETERBOS"
+      "text": "201 - PETERBOS"
      }
     ],
     "station_id": "201"
@@ -4272,15 +4272,15 @@
     "name": [
      {
       "language": "en",
-      "text": "206 - SAINT-GUIDON / SINT-GUIDO"
+      "text": "SAINT-GUIDON / SINT-GUIDO"
      },
      {
       "language": "nl",
-      "text": "206 - SAINT-GUIDON / SINT-GUIDO"
+      "text": "SAINT-GUIDON / SINT-GUIDO"
      },
      {
       "language": "fr",
-      "text": "206 - SAINT-GUIDON / SINT-GUIDO"
+      "text": "SAINT-GUIDON / SINT-GUIDO"
      }
     ],
     "station_id": "206"
@@ -4440,15 +4440,15 @@
     "name": [
      {
       "language": "en",
-      "text": "214 - CAMPUS CERIA / CAMPUS COOVI"
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
      },
      {
       "language": "nl",
-      "text": "214 - CAMPUS CERIA / CAMPUS COOVI"
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
      },
      {
       "language": "fr",
-      "text": "214 - CAMPUS CERIA / CAMPUS COOVI"
+      "text": "CAMPUS CERIA / CAMPUS COOVI"
      }
     ],
     "station_id": "214"
@@ -5259,15 +5259,15 @@
     "name": [
      {
       "language": "en",
-      "text": "REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
      },
      {
       "language": "nl",
-      "text": "REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
      },
      {
       "language": "fr",
-      "text": "REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
      }
     ],
     "station_id": "253"
@@ -5532,15 +5532,15 @@
     "name": [
      {
       "language": "en",
-      "text": "266 - GARE DE BORDET / BORDET STATION"
+      "text": "GARE DE BORDET / BORDET STATION"
      },
      {
       "language": "nl",
-      "text": "266 - GARE DE BORDET / BORDET STATION"
+      "text": "GARE DE BORDET / BORDET STATION"
      },
      {
       "language": "fr",
-      "text": "266 - GARE DE BORDET / BORDET STATION"
+      "text": "GARE DE BORDET / BORDET STATION"
      }
     ],
     "station_id": "266"
@@ -5847,15 +5847,15 @@
     "name": [
      {
       "language": "en",
-      "text": "281 - ATOMIUM"
+      "text": "ATOMIUM"
      },
      {
       "language": "nl",
-      "text": "281 - ATOMIUM"
+      "text": "ATOMIUM"
      },
      {
       "language": "fr",
-      "text": "281 - ATOMIUM"
+      "text": "ATOMIUM"
      }
     ],
     "station_id": "281"
@@ -5910,15 +5910,15 @@
     "name": [
      {
       "language": "en",
-      "text": "284 - CLAESSENS"
+      "text": "CLAESSENS"
      },
      {
       "language": "nl",
-      "text": "284 - CLAESSENS"
+      "text": "CLAESSENS"
      },
      {
       "language": "fr",
-      "text": "284 - CLAESSENS"
+      "text": "CLAESSENS"
      }
     ],
     "station_id": "284"
@@ -6141,15 +6141,15 @@
     "name": [
      {
       "language": "en",
-      "text": "295 - COIN DU BALAI / BEZEMHOEK"
+      "text": "COIN DU BALAI / BEZEMHOEK"
      },
      {
       "language": "nl",
-      "text": "295 - COIN DU BALAI / BEZEMHOEK"
+      "text": "COIN DU BALAI / BEZEMHOEK"
      },
      {
       "language": "fr",
-      "text": "295 - COIN DU BALAI / BEZEMHOEK"
+      "text": "COIN DU BALAI / BEZEMHOEK"
      }
     ],
     "station_id": "295"
@@ -6456,15 +6456,15 @@
     "name": [
      {
       "language": "en",
-      "text": "311 - DELTA"
+      "text": "DELTA"
      },
      {
       "language": "nl",
-      "text": "311 - DELTA"
+      "text": "DELTA"
      },
      {
       "language": "fr",
-      "text": "311 - DELTA"
+      "text": "DELTA"
      }
     ],
     "station_id": "311"
@@ -6855,15 +6855,15 @@
     "name": [
      {
       "language": "en",
-      "text": "331 - GEORGES HENRI"
+      "text": "GEORGES HENRI"
      },
      {
       "language": "nl",
-      "text": "331 - GEORGES HENRI"
+      "text": "GEORGES HENRI"
      },
      {
       "language": "fr",
-      "text": "331 - GEORGES HENRI"
+      "text": "GEORGES HENRI"
      }
     ],
     "station_id": "331"
@@ -7128,15 +7128,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BETHLEEM / BETHLEHEM"
+      "text": "344 - BETHLEEM / BETHLEHEM"
      },
      {
       "language": "nl",
-      "text": "BETHLEEM / BETHLEHEM"
+      "text": "344 - BETHLEEM / BETHLEHEM"
      },
      {
       "language": "fr",
-      "text": "BETHLEEM / BETHLEHEM"
+      "text": "344 - BETHLEEM / BETHLEHEM"
      }
     ],
     "station_id": "344"
