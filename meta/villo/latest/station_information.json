@@ -135,15 +135,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PARC / PARK"
+      "text": "007 - PARC / PARK"
      },
      {
       "language": "nl",
-      "text": "PARC / PARK"
+      "text": "007 - PARC / PARK"
      },
      {
       "language": "fr",
-      "text": "PARC / PARK"
+      "text": "007 - PARC / PARK"
      }
     ],
     "station_id": "7"
@@ -261,15 +261,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      },
      {
       "language": "nl",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      },
      {
       "language": "fr",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      }
     ],
     "station_id": "13"
@@ -303,15 +303,15 @@
     "name": [
      {
       "language": "en",
-      "text": "015 - MONTGOMERY"
+      "text": "MONTGOMERY"
      },
      {
       "language": "nl",
-      "text": "015 - MONTGOMERY"
+      "text": "MONTGOMERY"
      },
      {
       "language": "fr",
-      "text": "015 - MONTGOMERY"
+      "text": "MONTGOMERY"
      }
     ],
     "station_id": "15"
@@ -366,15 +366,15 @@
     "name": [
      {
       "language": "en",
-      "text": "018 - GUTENBERG"
+      "text": "GUTENBERG"
      },
      {
       "language": "nl",
-      "text": "018 - GUTENBERG"
+      "text": "GUTENBERG"
      },
      {
       "language": "fr",
-      "text": "018 - GUTENBERG"
+      "text": "GUTENBERG"
      }
     ],
     "station_id": "18"
@@ -513,15 +513,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      },
      {
       "language": "nl",
-      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      },
      {
       "language": "fr",
-      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      }
     ],
     "station_id": "25"
@@ -618,15 +618,15 @@
     "name": [
      {
       "language": "en",
-      "text": "030 - LAEKEN / LAKEN"
+      "text": "LAEKEN / LAKEN"
      },
      {
       "language": "nl",
-      "text": "030 - LAEKEN / LAKEN"
+      "text": "LAEKEN / LAKEN"
      },
      {
       "language": "fr",
-      "text": "030 - LAEKEN / LAKEN"
+      "text": "LAEKEN / LAKEN"
      }
     ],
     "station_id": "30"
@@ -870,15 +870,15 @@
     "name": [
      {
       "language": "en",
-      "text": "042 - PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
      },
      {
       "language": "nl",
-      "text": "042 - PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
      },
      {
       "language": "fr",
-      "text": "042 - PORTE DE NINOVE / NINOOFSEPOORT"
+      "text": "PORTE DE NINOVE / NINOOFSEPOORT"
      }
     ],
     "station_id": "42"
@@ -1122,15 +1122,15 @@
     "name": [
      {
       "language": "en",
-      "text": "TOUR ET TAXIS / THURN & TAXIS"
+      "text": "054 - TOUR ET TAXIS / THURN & TAXIS"
      },
      {
       "language": "nl",
-      "text": "TOUR ET TAXIS / THURN & TAXIS"
+      "text": "054 - TOUR ET TAXIS / THURN & TAXIS"
      },
      {
       "language": "fr",
-      "text": "TOUR ET TAXIS / THURN & TAXIS"
+      "text": "054 - TOUR ET TAXIS / THURN & TAXIS"
      }
     ],
     "station_id": "54"
@@ -1227,15 +1227,15 @@
     "name": [
      {
       "language": "en",
-      "text": "059 - PLACE ST-JOSSE / ST-JOOSTPLEIN"
+      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
      },
      {
       "language": "nl",
-      "text": "059 - PLACE ST-JOSSE / ST-JOOSTPLEIN"
+      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
      },
      {
       "language": "fr",
-      "text": "059 - PLACE ST-JOSSE / ST-JOOSTPLEIN"
+      "text": "PLACE ST-JOSSE / ST-JOOSTPLEIN"
      }
     ],
     "station_id": "59"
@@ -1332,15 +1332,15 @@
     "name": [
      {
       "language": "en",
-      "text": "VETERINAIRES / VEEARTSEN"
+      "text": "064 - VETERINAIRES / VEEARTSEN"
      },
      {
       "language": "nl",
-      "text": "VETERINAIRES / VEEARTSEN"
+      "text": "064 - VETERINAIRES / VEEARTSEN"
      },
      {
       "language": "fr",
-      "text": "VETERINAIRES / VEEARTSEN"
+      "text": "064 - VETERINAIRES / VEEARTSEN"
      }
     ],
     "station_id": "64"
@@ -1374,15 +1374,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      },
      {
       "language": "nl",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      },
      {
       "language": "fr",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      }
     ],
     "station_id": "66"
@@ -1416,15 +1416,15 @@
     "name": [
      {
       "language": "en",
-      "text": "JEAN REY"
+      "text": "068 - JEAN REY"
      },
      {
       "language": "nl",
-      "text": "JEAN REY"
+      "text": "068 - JEAN REY"
      },
      {
       "language": "fr",
-      "text": "JEAN REY"
+      "text": "068 - JEAN REY"
      }
     ],
     "station_id": "68"
@@ -1852,20 +1852,20 @@
    {
     "address": "Av. de Levis Mirepoix 100 / de Levis Mirepoixlaan 100",
     "capacity": 25,
-    "lat": 50.87106,
-    "lon": 4.32985,
+    "lat": 50.8710602400955,
+    "lon": 4.32984977344234,
     "name": [
      {
       "language": "en",
-      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+      "text": "089 - ATHENEE DE JETTE / ATHENEUM VAN JETTE"
      },
      {
       "language": "nl",
-      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+      "text": "089 - ATHENEE DE JETTE / ATHENEUM VAN JETTE"
      },
      {
       "language": "fr",
-      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+      "text": "089 - ATHENEE DE JETTE / ATHENEUM VAN JETTE"
      }
     ],
     "station_id": "89"
@@ -2361,15 +2361,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
+      "text": "113 - ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
      },
      {
       "language": "nl",
-      "text": "ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
+      "text": "113 - ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
      },
      {
       "language": "fr",
-      "text": "ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
+      "text": "113 - ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN"
      }
     ],
     "station_id": "113"
@@ -3075,15 +3075,15 @@
     "name": [
      {
       "language": "en",
-      "text": "148 - GARE DE MEISER / MEISER STATION"
+      "text": "GARE DE MEISER / MEISER STATION"
      },
      {
       "language": "nl",
-      "text": "148 - GARE DE MEISER / MEISER STATION"
+      "text": "GARE DE MEISER / MEISER STATION"
      },
      {
       "language": "fr",
-      "text": "148 - GARE DE MEISER / MEISER STATION"
+      "text": "GARE DE MEISER / MEISER STATION"
      }
     ],
     "station_id": "148"
@@ -3264,15 +3264,15 @@
     "name": [
      {
       "language": "en",
-      "text": "157 - HELIOTROPES / HELIOTROPEN"
+      "text": "HELIOTROPES / HELIOTROPEN"
      },
      {
       "language": "nl",
-      "text": "157 - HELIOTROPES / HELIOTROPEN"
+      "text": "HELIOTROPES / HELIOTROPEN"
      },
      {
       "language": "fr",
-      "text": "157 - HELIOTROPES / HELIOTROPEN"
+      "text": "HELIOTROPES / HELIOTROPEN"
      }
     ],
     "station_id": "157"
@@ -3684,15 +3684,15 @@
     "name": [
      {
       "language": "en",
-      "text": "DIAMANT"
+      "text": "178 - DIAMANT"
      },
      {
       "language": "nl",
-      "text": "DIAMANT"
+      "text": "178 - DIAMANT"
      },
      {
       "language": "fr",
-      "text": "DIAMANT"
+      "text": "178 - DIAMANT"
      }
     ],
     "station_id": "178"
@@ -3789,15 +3789,15 @@
     "name": [
      {
       "language": "en",
-      "text": "183 - LA CHASSE / JACHT"
+      "text": "LA CHASSE / JACHT"
      },
      {
       "language": "nl",
-      "text": "183 - LA CHASSE / JACHT"
+      "text": "LA CHASSE / JACHT"
      },
      {
       "language": "fr",
-      "text": "183 - LA CHASSE / JACHT"
+      "text": "LA CHASSE / JACHT"
      }
     ],
     "station_id": "183"
@@ -3873,15 +3873,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ARSENAL / ARSENAAL"
+      "text": "187 - ARSENAL / ARSENAAL"
      },
      {
       "language": "nl",
-      "text": "ARSENAL / ARSENAAL"
+      "text": "187 - ARSENAL / ARSENAAL"
      },
      {
       "language": "fr",
-      "text": "ARSENAL / ARSENAAL"
+      "text": "187 - ARSENAL / ARSENAAL"
      }
     ],
     "station_id": "187"
@@ -3978,15 +3978,15 @@
     "name": [
      {
       "language": "en",
-      "text": "192 - AUBERGE DE JEUNESSE / JEUGDHERBERG"
+      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
      },
      {
       "language": "nl",
-      "text": "192 - AUBERGE DE JEUNESSE / JEUGDHERBERG"
+      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
      },
      {
       "language": "fr",
-      "text": "192 - AUBERGE DE JEUNESSE / JEUGDHERBERG"
+      "text": "AUBERGE DE JEUNESSE / JEUGDHERBERG"
      }
     ],
     "station_id": "192"
@@ -4062,15 +4062,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PRINCE DE LIEGE / PRINS VAN LUIK"
+      "text": "196 - PRINCE DE LIEGE / PRINS VAN LUIK"
      },
      {
       "language": "nl",
-      "text": "PRINCE DE LIEGE / PRINS VAN LUIK"
+      "text": "196 - PRINCE DE LIEGE / PRINS VAN LUIK"
      },
      {
       "language": "fr",
-      "text": "PRINCE DE LIEGE / PRINS VAN LUIK"
+      "text": "196 - PRINCE DE LIEGE / PRINS VAN LUIK"
      }
     ],
     "station_id": "196"
@@ -4188,15 +4188,15 @@
     "name": [
      {
       "language": "en",
-      "text": "AUMALE"
+      "text": "202 - AUMALE"
      },
      {
       "language": "nl",
-      "text": "AUMALE"
+      "text": "202 - AUMALE"
      },
      {
       "language": "fr",
-      "text": "AUMALE"
+      "text": "202 - AUMALE"
      }
     ],
     "station_id": "202"
@@ -5091,15 +5091,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HAMOIR"
+      "text": "245 - HAMOIR"
      },
      {
       "language": "nl",
-      "text": "HAMOIR"
+      "text": "245 - HAMOIR"
      },
      {
       "language": "fr",
-      "text": "HAMOIR"
+      "text": "245 - HAMOIR"
      }
     ],
     "station_id": "245"
@@ -5259,15 +5259,15 @@
     "name": [
      {
       "language": "en",
-      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
      },
      {
       "language": "nl",
-      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
      },
      {
       "language": "fr",
-      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
      }
     ],
     "station_id": "253"
@@ -5805,15 +5805,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HOUBA-BRUGMANN"
+      "text": "279 - HOUBA-BRUGMANN"
      },
      {
       "language": "nl",
-      "text": "HOUBA-BRUGMANN"
+      "text": "279 - HOUBA-BRUGMANN"
      },
      {
       "language": "fr",
-      "text": "HOUBA-BRUGMANN"
+      "text": "279 - HOUBA-BRUGMANN"
      }
     ],
     "station_id": "279"
@@ -7128,15 +7128,15 @@
     "name": [
      {
       "language": "en",
-      "text": "344 - BETHLEEM / BETHLEHEM"
+      "text": "BETHLEEM / BETHLEHEM"
      },
      {
       "language": "nl",
-      "text": "344 - BETHLEEM / BETHLEHEM"
+      "text": "BETHLEEM / BETHLEHEM"
      },
      {
       "language": "fr",
-      "text": "344 - BETHLEEM / BETHLEHEM"
+      "text": "BETHLEEM / BETHLEHEM"
      }
     ],
     "station_id": "344"
