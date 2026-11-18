@@ -20,7 +20,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "467c75d3-3707-486d-816f-a8ae9467ab2c",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -765,8 +765,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "4f3aeca1-f36a-40a5-8cb3-98c12e94755c",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -777,8 +777,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "37d41f4e-3227-4ede-9a0d-caaa0f378c50",
     "vehicle_capacity": {
-     "dott_bicycle": 1,
-     "dott_scooter": 2
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -890,6 +890,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84260641,
+    "lon": 4.352714388,
+    "name": "Ville 266",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "5b403d15-7944-427b-afc4-03b5c6f124f0",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.81411739,
     "lon": 4.353283084,
     "name": "Uccle ARV 134",
@@ -930,8 +942,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "391189f0-bac6-446d-8042-4775774f50e0",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -1340,6 +1352,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84743934,
+    "lon": 4.357211965,
+    "name": "Ville 318",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "05df74c3-d7f8-427c-8459-402f6da22508",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.84231927,
     "lon": 4.3435052,
     "name": "Ville 260",
@@ -1394,8 +1418,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "c9046700-f8c4-4029-a56d-61faa62a22e4",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -1406,7 +1430,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "16ba9598-1df0-42d7-8b8c-590d44e2ed28",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -1752,8 +1776,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "42e7f413-de17-4c4f-b793-b45240d458f4",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -1870,7 +1894,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "c8ca803f-bd56-413b-b371-41c7a41f09c8",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -2741,6 +2765,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84376669,
+    "lon": 4.355030675,
+    "name": "Ville 288",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "309deb28-d1e7-4823-a19e-59bbea7f04b4",
+    "vehicle_capacity": {
+     "dott_bicycle": 0,
+     "dott_scooter": 0
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.82914972,
     "lon": 4.46015024,
     "name": "Woluwe-Saint-Pierre 46",
@@ -2854,7 +2890,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "341dfc21-d471-44ad-b59c-d8ad843067ec",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -2876,6 +2912,18 @@
     "name": "Woluwe-Saint-Pierre 85",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "6cf30d16-2132-439b-ad43-cb492f2e300c",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84515542,
+    "lon": 4.355159136,
+    "name": "Ville 382",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "7abd03e4-9482-4d53-9d05-dd281fb96458",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -3191,18 +3239,6 @@
    },
    {
     "is_virtual_station": true,
-    "lat": 50.84425366,
-    "lon": 4.353211111,
-    "name": "Ville 283",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "0719495b-b245-4efa-9bc4-809052eab59c",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
     "lat": 50.82946694,
     "lon": 4.333930408,
     "name": "Saint-Gilles 75",
@@ -3220,8 +3256,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "6155dff6-59b0-4777-b314-dc1c4add6e44",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -3392,18 +3428,6 @@
    },
    {
     "is_virtual_station": true,
-    "lat": 50.84085054,
-    "lon": 4.355405841,
-    "name": "Ville 252",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "46fcc4ea-0107-4591-8103-672af2962ba4",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
     "lat": 50.83570986,
     "lon": 4.377658287,
     "name": "Ixelles 7",
@@ -3515,6 +3539,18 @@
     "name": "Schaerbeek 155",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b6c33304-963d-48ac-95af-9b8e42288590",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84617626,
+    "lon": 4.356561784,
+    "name": "Ville 397",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "70fab90c-ccdf-4cc2-a938-9b49ea277024",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -3693,6 +3729,18 @@
     "station_id": "b7b06c87-6780-4db9-9716-5b1117992d10",
     "vehicle_capacity": {
      "dott_bicycle": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84812705,
+    "lon": 4.35785497,
+    "name": "Ville 240",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "11e0e1a3-9678-4d60-8cca-f85e2fa8ae60",
+    "vehicle_capacity": {
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -4129,8 +4177,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "cae13a58-fd48-4273-a3ac-aa0e2c0054e8",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -4522,7 +4570,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "5504ca4d-8ab8-4849-9059-5b0b27ae6298",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -4982,7 +5030,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "228515da-271b-4947-8933-3f0f6f16df68",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -5179,6 +5227,18 @@
     "name": "Woluwe-Saint-Pierre 131",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "6da9f4ad-d504-457c-8d03-71f743d5815c",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84662641,
+    "lon": 4.358967923,
+    "name": "Ville 245",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "9dc9497c-a3c8-4a99-9f28-b5dc40641850",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -5811,11 +5871,35 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84478512,
+    "lon": 4.355437003,
+    "name": "Ville 384",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "49011bd9-d170-4bdf-9fa9-de9a11fcfcc0",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.83014699,
     "lon": 4.381023412,
     "name": "Etterbeek 60",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "87261658-ea8c-4b5e-a58e-48a05746d55c",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84335678,
+    "lon": 4.354238801,
+    "name": "Ville 292",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "c7a9f003-5a0c-425c-807e-f8f9db53f5ec",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -6006,6 +6090,18 @@
     "name": "Anderlecht 86",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "539ee622-ce51-41dd-8de2-f066e2ed7c90",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84483478,
+    "lon": 4.355400009,
+    "name": "Ville 383",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "5c9941da-11ae-44ec-89bc-71a0ecfd96e0",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -6564,8 +6660,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "f68ce87d-20fc-4ecb-a818-77aadf081e48",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -6694,6 +6790,18 @@
     "name": "Ville 111",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "6752f51f-3836-41ad-b940-c5484d1bc258",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.8423611,
+    "lon": 4.351487551,
+    "name": "Ville 264",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "90137645-4619-4181-aa9a-7591abc4e758",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -7996,7 +8104,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "7b770f8a-4b02-4d63-a8e2-298f2eb12f14",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -8178,11 +8286,35 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84259546,
+    "lon": 4.352046832,
+    "name": "Ville 265",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "146e4293-249b-407d-9b67-a38518289aa0",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.89324673,
     "lon": 4.327978047,
     "name": "Machelen 10",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "29312677-0739-4cb2-a199-bb66561454f4",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.8436495,
+    "lon": 4.354517815,
+    "name": "Ville 289",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "5079484f-ce09-4d0f-b49d-751884444be8",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -8279,7 +8411,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "65c50936-39f6-45f6-a823-7f690daad978",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -8827,6 +8959,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84492856,
+    "lon": 4.356143283,
+    "name": "Ville 385",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "d742ed44-ba25-49f0-b466-b949be472b48",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.85148562,
     "lon": 4.415582769,
     "name": "Woluwe-Saint-Lambert 55",
@@ -9069,8 +9213,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "381e57c6-74ce-4686-bb7c-15f519ebd854",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -9200,8 +9344,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "8c1ad88a-9717-4a0a-a9e5-6d134c6947f4",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -9391,8 +9535,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "094265e0-fc33-4320-b8d3-24897f8af518",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -10366,18 +10510,6 @@
    },
    {
     "is_virtual_station": true,
-    "lat": 50.84693216,
-    "lon": 4.348265298,
-    "name": "Ville 395",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "9f3dd53f-18eb-4828-bc63-b190b603933c",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
     "lat": 50.82511972,
     "lon": 4.459910237,
     "name": "Woluwe-Saint-Pierre 60",
@@ -10858,7 +10990,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "ced9449a-e60f-4134-8575-f48a42eb3688",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -11024,7 +11156,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "f4be2950-6f2b-4af2-99ec-9846d03b1484",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -12161,8 +12293,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "841ba63b-9aa2-451b-8cd8-794d695690e8",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -12423,7 +12555,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b47e7a3f-a658-4bf9-aa5c-552437003cb0",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -13127,18 +13259,6 @@
    },
    {
     "is_virtual_station": true,
-    "lat": 50.84670838,
-    "lon": 4.347580336,
-    "name": "Ville 376",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "f4ebb39f-181f-45aa-8e3a-41cb9c86efb4",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
     "lat": 50.83656095,
     "lon": 4.366770859,
     "name": "-UNKNOWN- 9",
@@ -13383,8 +13503,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "71480f55-dc97-4690-8769-8c80a9c6fb90",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -13714,8 +13834,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "929cb85a-bcb5-40a1-9a4c-5ea4bc7312a0",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -14451,8 +14571,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "88fbf314-1964-4a22-850d-71bbf277d6a0",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -14781,8 +14901,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "b909b4dc-4188-4617-9941-76b921b5d62c",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -14840,8 +14960,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "755cbda9-7171-41f4-a02a-51b4c0149908",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -14898,18 +15018,6 @@
     "name": "Anderlecht 55",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "2f76f893-c85e-473d-bc98-8352ea38c974",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
-    "lat": 50.84599611,
-    "lon": 4.349865423,
-    "name": "Ville 405",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "a447459b-a279-4e7d-a619-a5c0be983930",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -15195,6 +15303,30 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84349903,
+    "lon": 4.354528358,
+    "name": "Ville 291",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "4761de5f-0373-430a-ad84-f2881ed30428",
+    "vehicle_capacity": {
+     "dott_bicycle": 0,
+     "dott_scooter": 0
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84507993,
+    "lon": 4.357271316,
+    "name": "Ville 248",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "63b8987a-6d8f-4916-9e89-4a96d14b8fd0",
+    "vehicle_capacity": {
+     "dott_bicycle": 0,
+     "dott_scooter": 0
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.83474607,
     "lon": 4.379693985,
     "name": "Etterbeek 69",
@@ -15270,8 +15402,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "58d6637f-0f39-48bb-83af-a14fc7cdeccc",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -15294,8 +15426,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "0a6949db-b3fb-4539-b14a-fea3ad64a954",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -15672,8 +15804,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "eeb17989-1760-4646-846c-3d76b0409c00",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -15684,8 +15816,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "3c06690f-197a-4b5b-930d-d1c2d55f3560",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -16790,18 +16922,6 @@
    },
    {
     "is_virtual_station": true,
-    "lat": 50.849089,
-    "lon": 4.350069868,
-    "name": "Ville 394",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "ca28d437-98ea-4236-967c-131f32ea05c8",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
     "lat": 50.81389934,
     "lon": 4.349181479,
     "name": "Uccle ARV 131",
@@ -16866,6 +16986,18 @@
     "name": "Anderlecht 94",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "c0c33792-9d98-4678-8e4a-f0654378ac24",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84623049,
+    "lon": 4.356678374,
+    "name": "Ville 399",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "517d3250-0c43-49b7-b206-997968fc76a4",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -17663,8 +17795,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "653f5fe8-d24b-4687-a3a6-cd6d1a456720",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -18007,8 +18139,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "485ad708-ae05-4240-871a-1ddbc85bc5d4",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -18507,8 +18639,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9e35fcdb-4d83-4a03-b9ed-2161a06d1ee8",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -19159,18 +19291,6 @@
     "name": "Ganshoren 47",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "f44562b7-2cee-4c2a-95e6-1901ad5c18d0",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
-    "lat": 50.84720115,
-    "lon": 4.348371768,
-    "name": "Ville 375",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "1f3150c4-4896-4bf4-abc6-87d2ddfb9c68",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -19839,8 +19959,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "0adc48b4-eecc-4e1f-ac6c-5a3b54cd9450",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -19921,6 +20041,18 @@
     "name": "Berchem-Sainte-Agathe 28",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "0dc2536a-46db-4985-8a7c-a663707013dc",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84349018,
+    "lon": 4.354704647,
+    "name": "Ville 290",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "09a53420-31f5-4a15-ae67-16773b478d00",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -20880,8 +21012,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "cb0472e3-c1d6-43c3-a2bf-6b69cb25ae70",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -20997,7 +21129,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "24298402-6512-464a-b6da-664e215c1ff0",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -21193,6 +21325,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84520783,
+    "lon": 4.355119689,
+    "name": "Ville 381",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "eb64c382-e124-4bbb-8834-2eef8828d3e4",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.86012742,
     "lon": 4.386517554,
     "name": "Schaerbeek 82",
@@ -21295,8 +21439,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "d218231e-2231-4835-ad45-56b14f6ba49c",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -21306,18 +21450,6 @@
     "name": "Woluwe-Saint-Pierre 19",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "acd28821-56b8-435c-a10f-b3ad24e3517c",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
-    "lat": 50.84871495,
-    "lon": 4.349929488,
-    "name": "Ville 374",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "38c96710-c30d-4a12-846b-82ba624d4978",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -21888,7 +22020,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "11b12f1b-bccc-4462-8de9-3f47517c2704",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -21911,7 +22043,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "26ad3a5f-53ab-4881-a11b-1a8f0d0f0f74",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -21982,8 +22114,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "ceb991b3-5e64-41ec-8d20-38a29d139d20",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -22703,6 +22835,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84691156,
+    "lon": 4.358104039,
+    "name": "Ville 244",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "3c237b93-b0c8-41b0-baec-d85412892040",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.87146668,
     "lon": 4.310959102,
     "name": "Ganshoren 44",
@@ -22921,8 +23065,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9d93a14d-8a5e-4aed-b62e-b2adccf650f4",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -23021,6 +23165,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84498191,
+    "lon": 4.356155739,
+    "name": "Ville 386",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "d39f2de3-6be3-465a-afee-198c74a4ee20",
+    "vehicle_capacity": {
+     "dott_bicycle": 0,
+     "dott_scooter": 0
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.84449852,
     "lon": 4.378120015,
     "name": "Ville 511",
@@ -23108,8 +23264,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "e7b8d957-4aba-486c-8b7f-3a5ec8b5dd4c",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -23166,8 +23322,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "75f440e2-6f29-4716-a278-d13d9b531188",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -24182,18 +24338,6 @@
    },
    {
     "is_virtual_station": true,
-    "lat": 50.84451832,
-    "lon": 4.353393946,
-    "name": "Ville 284",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "bc2e9b1e-a73a-4382-8b4e-e89ec30893d4",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
     "lat": 50.8339383,
     "lon": 4.347428476,
     "name": "Ville 323",
@@ -24378,7 +24522,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "e1aaa6d0-f2a7-4d44-a000-49cd333ea82c",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -24448,7 +24592,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "7e584c5d-f872-4da5-878a-987935de8e60",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -24483,8 +24627,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "3355fa8e-6f21-4f75-b738-25c1b08dc898",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -25005,8 +25149,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "86e34fd8-a23a-4567-8204-2e8ac618de14",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -25086,18 +25230,6 @@
     "name": "Ville 193",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "576b63db-d46e-4843-8742-a6180f9af048",
-    "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
-    }
-   },
-   {
-    "is_virtual_station": true,
-    "lat": 50.84059048,
-    "lon": 4.35505242,
-    "name": "Ville 253",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "c3d4297a-b6e9-418a-9fef-5a84d0b41d10",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -25253,18 +25385,6 @@
     "name": "Ville 150",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "12233098-3d1b-46fc-884d-89902631c364",
-    "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
-    }
-   },
-   {
-    "is_virtual_station": true,
-    "lat": 50.8464406,
-    "lon": 4.348955745,
-    "name": "Ville 276",
-    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
-    "station_id": "70a9330b-7dcc-4e84-8e85-63849393eb74",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -26079,6 +26199,18 @@
    },
    {
     "is_virtual_station": true,
+    "lat": 50.84741255,
+    "lon": 4.357069687,
+    "name": "Ville 317",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "aa2c9cd3-7e4f-4d23-a1ef-d37b4db47c1c",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
     "lat": 50.85839968,
     "lon": 4.383843744,
     "name": "Schaerbeek 92",
@@ -26204,8 +26336,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "02c681dd-f153-4700-8520-7f7615b15680",
     "vehicle_capacity": {
-     "dott_bicycle": 5,
-     "dott_scooter": 5
+     "dott_bicycle": 0,
+     "dott_scooter": 0
     }
    },
    {
@@ -26370,8 +26502,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "37dccd09-fd87-4dae-942e-cf66a3b5c434",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -26454,7 +26586,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "88561a4e-70ab-454a-82b1-8b2d90013864",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -26752,7 +26884,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "d5930524-bb27-4984-bd61-4b8f736801c4",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -26844,6 +26976,18 @@
     "name": "Woluwe-Saint-Lambert 95",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "51ba57de-586c-4dea-ae18-97d54c7c7aa8",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84624096,
+    "lon": 4.356579564,
+    "name": "Ville 396",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "76d04ec1-a068-4e57-95e2-d00c03488538",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -26952,7 +27096,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "981d59d9-bb3c-43e7-b7d7-937069cb0094",
     "vehicle_capacity": {
-     "dott_bicycle": 0
+     "dott_bicycle": 2
     }
    },
    {
@@ -26975,8 +27119,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9580fb8e-e9fd-47b8-85c5-ce2b6114cfc0",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -27032,6 +27176,18 @@
     "name": "Ville 175",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "532a70c1-f58e-41b1-aa3a-92191e45b330",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84616634,
+    "lon": 4.356662604,
+    "name": "Ville 398",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "edf6c30a-095a-4e3a-aed4-e57d59baf0e0",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -27211,7 +27367,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "d6b5f87a-e852-4dae-8384-105b68cb5814",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -27340,8 +27496,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "9a62e0bc-5455-4d11-b67f-01deb50c5ba8",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -27577,8 +27733,8 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "305099e0-c26b-4f0a-93b5-6c159bc2e6d0",
     "vehicle_capacity": {
-     "dott_bicycle": 0,
-     "dott_scooter": 0
+     "dott_bicycle": 5,
+     "dott_scooter": 5
     }
    },
    {
@@ -27801,7 +27957,7 @@
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "bf3471b9-262d-4389-ac56-77f0f0eeb810",
     "vehicle_capacity": {
-     "dott_bicycle": 2
+     "dott_bicycle": 0
     }
    },
    {
@@ -27943,6 +28099,18 @@
     "name": "Ville 309",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "01949e6a-2e5f-4dc2-8c79-7091ab017898",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84595726,
+    "lon": 4.35691097,
+    "name": "Ville 400",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "09712264-816a-40ad-9b3a-ed5499a0f538",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
@@ -28599,6 +28767,18 @@
     "name": "Ixelles 144",
     "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
     "station_id": "8bde1435-5a03-4cb5-bb9d-282362c24568",
+    "vehicle_capacity": {
+     "dott_bicycle": 5,
+     "dott_scooter": 5
+    }
+   },
+   {
+    "is_virtual_station": true,
+    "lat": 50.84277879,
+    "lon": 4.352792595,
+    "name": "Ville 267",
+    "region_id": "31531fbf-77ec-4002-a635-ebe80880ac44",
+    "station_id": "1f13dace-be83-442e-86cf-208d4481a348",
     "vehicle_capacity": {
      "dott_bicycle": 5,
      "dott_scooter": 5
