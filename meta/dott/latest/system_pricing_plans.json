@@ -18,13 +18,13 @@
    },
    {
     "currency": "EUR",
-    "description": "Pricing information for Brussels (scooter): Riders pay 1 EUR to unlock and 0.37 EUR per minute.",
+    "description": "Pricing information for Brussels (scooter): Riders pay 1 EUR to unlock and 0.39 EUR per minute.",
     "is_taxable": false,
     "name": "brussels-scooter-system-pricing-plan",
     "per_min_pricing": [
      {
       "interval": 1,
-      "rate": 0.37,
+      "rate": 0.39,
       "start": 1
      }
     ],

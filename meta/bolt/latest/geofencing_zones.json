@@ -2347,6 +2347,123 @@
        [
         [
          [
+          4.35529,
+          50.83959
+         ],
+         [
+          4.35799,
+          50.84141
+         ],
+         [
+          4.35637,
+          50.84282
+         ],
+         [
+          4.35246,
+          50.84574
+         ],
+         [
+          4.35192,
+          50.84544
+         ],
+         [
+          4.35151,
+          50.84585
+         ],
+         [
+          4.34983,
+          50.84657
+         ],
+         [
+          4.35198,
+          50.8487
+         ],
+         [
+          4.34985,
+          50.84952
+         ],
+         [
+          4.34786,
+          50.84741
+         ],
+         [
+          4.34702,
+          50.84669
+         ],
+         [
+          4.3542,
+          50.84315
+         ],
+         [
+          4.3523,
+          50.84213
+         ],
+         [
+          4.35364,
+          50.8414
+         ],
+         [
+          4.35529,
+          50.83959
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "Event 310-318"
+       }
+      ],
+      "rules": [
+       {
+        "maximum_speed_kph": 0,
+        "ride_end_allowed": false,
+        "ride_start_allowed": false,
+        "ride_through_allowed": false,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672",
+         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
+         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
+         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
+         "dc0788ca-e5fa-5816-804a-b771948365a3",
+         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
+         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
+         "6810d765-42b8-51af-8374-617cc0d54f97",
+         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
+         "63d2708b-0e5f-5093-b844-0687173baeea",
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.42671,
           50.84411
          ],
@@ -66052,82 +66169,6 @@
        [
         [
          [
-          4.35493,
-          50.84376
-         ],
-         [
-          4.35507,
-          50.84376
-         ],
-         [
-          4.35507,
-          50.84384
-         ],
-         [
-          4.35493,
-          50.84384
-         ],
-         [
-          4.35493,
-          50.84376
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 288                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.46013,
           50.82906
          ],
@@ -68652,82 +68693,6 @@
        [
         [
          [
-          4.35313,
-          50.84426
-         ],
-         [
-          4.35327,
-          50.84426
-         ],
-         [
-          4.35327,
-          50.84434
-         ],
-         [
-          4.35313,
-          50.84434
-         ],
-         [
-          4.35313,
-          50.84426
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 283                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.33383,
           50.82946
          ],
@@ -69846,82 +69811,6 @@
        {
         "language": "en",
         "text": "Berchem-Sainte-Agathe 13                                                                                                                                                                                                                                  "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.35533,
-          50.84086
-         ],
-         [
-          4.35547,
-          50.84086
-         ],
-         [
-          4.35547,
-          50.84094
-         ],
-         [
-          4.35533,
-          50.84094
-         ],
-         [
-          4.35533,
-          50.84086
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 252                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -73113,82 +73002,6 @@
        {
         "language": "en",
         "text": "Woluwe-Saint-Pierre 139                                                                                                                                                                                                                                   "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.35163,
-          50.84516
-         ],
-         [
-          4.35177,
-          50.84516
-         ],
-         [
-          4.35177,
-          50.84524
-         ],
-         [
-          4.35163,
-          50.84524
-         ],
-         [
-          4.35163,
-          50.84516
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 280                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -84489,82 +84302,6 @@
        [
         [
          [
-          4.35413,
-          50.84336
-         ],
-         [
-          4.35427,
-          50.84336
-         ],
-         [
-          4.35427,
-          50.84344
-         ],
-         [
-          4.35413,
-          50.84344
-         ],
-         [
-          4.35413,
-          50.84336
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 292                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.33753,
           50.86436
          ],
@@ -95430,82 +95167,6 @@
        [
         [
          [
-          4.35443,
-          50.84356
-         ],
-         [
-          4.35457,
-          50.84356
-         ],
-         [
-          4.35457,
-          50.84364
-         ],
-         [
-          4.35443,
-          50.84364
-         ],
-         [
-          4.35443,
-          50.84356
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 289                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.29613,
           50.83906
          ],
@@ -102235,82 +101896,6 @@
        [
         [
          [
-          4.34823,
-          50.84686
-         ],
-         [
-          4.34837,
-          50.84686
-         ],
-         [
-          4.34837,
-          50.84694
-         ],
-         [
-          4.34823,
-          50.84694
-         ],
-         [
-          4.34823,
-          50.84686
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 395                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.33743,
           50.85066
          ],
@@ -108812,82 +108397,6 @@
        [
         [
          [
-          4.34933,
-          50.84576
-         ],
-         [
-          4.34947,
-          50.84576
-         ],
-         [
-          4.34947,
-          50.84584
-         ],
-         [
-          4.34933,
-          50.84584
-         ],
-         [
-          4.34933,
-          50.84576
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 279                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.33013,
           50.86696
          ],
@@ -113594,82 +113103,6 @@
        {
         "language": "en",
         "text": "Ixelles 103                                                                                                                                                                                                                                               "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.34983,
-          50.84596
-         ],
-         [
-          4.34997,
-          50.84596
-         ],
-         [
-          4.34997,
-          50.84604
-         ],
-         [
-          4.34983,
-          50.84604
-         ],
-         [
-          4.34983,
-          50.84596
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 405                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -122290,82 +121723,6 @@
        {
         "language": "en",
         "text": "Anderlecht 126                                                                                                                                                                                                                                            "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.34833,
-          50.84716
-         ],
-         [
-          4.34847,
-          50.84716
-         ],
-         [
-          4.34847,
-          50.84724
-         ],
-         [
-          4.34833,
-          50.84724
-         ],
-         [
-          4.34833,
-          50.84716
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 375                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -132375,82 +131732,6 @@
        [
         [
          [
-          4.35333,
-          50.84446
-         ],
-         [
-          4.35347,
-          50.84446
-         ],
-         [
-          4.35347,
-          50.84454
-         ],
-         [
-          4.35333,
-          50.84454
-         ],
-         [
-          4.35333,
-          50.84446
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 284                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.40563,
           50.80096
          ],
@@ -134447,82 +133728,6 @@
        {
         "language": "en",
         "text": "Berchem-Sainte-Agathe 34                                                                                                                                                                                                                                  "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.34893,
-          50.84636
-         ],
-         [
-          4.34907,
-          50.84636
-         ],
-         [
-          4.34907,
-          50.84644
-         ],
-         [
-          4.34893,
-          50.84644
-         ],
-         [
-          4.34893,
-          50.84636
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 276                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -160843,82 +160048,6 @@
        [
         [
          [
-          4.34753,
-          50.84666
-         ],
-         [
-          4.34767,
-          50.84666
-         ],
-         [
-          4.34767,
-          50.84674
-         ],
-         [
-          4.34753,
-          50.84674
-         ],
-         [
-          4.34753,
-          50.84666
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 376                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.36673,
           50.83656
          ],
@@ -163928,23 +163057,6 @@
         "ride_start_allowed": true,
         "ride_through_allowed": true,
         "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
          "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
          "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
          "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
@@ -169103,82 +168215,6 @@
        {
         "language": "en",
         "text": "Woluwe-Saint-Lambert 87                                                                                                                                                                                                                                   "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.35443,
-          50.84346
-         ],
-         [
-          4.35457,
-          50.84346
-         ],
-         [
-          4.35457,
-          50.84354
-         ],
-         [
-          4.35443,
-          50.84354
-         ],
-         [
-          4.35443,
-          50.84346
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 291                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -175156,82 +174192,6 @@
        {
         "language": "en",
         "text": "Schaerbeek 139                                                                                                                                                                                                                                            "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.35003,
-          50.84906
-         ],
-         [
-          4.35017,
-          50.84906
-         ],
-         [
-          4.35017,
-          50.84914
-         ],
-         [
-          4.35003,
-          50.84914
-         ],
-         [
-          4.35003,
-          50.84906
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 394                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -185368,82 +184328,6 @@
        [
         [
          [
-          4.35173,
-          50.84516
-         ],
-         [
-          4.35187,
-          50.84516
-         ],
-         [
-          4.35187,
-          50.84524
-         ],
-         [
-          4.35173,
-          50.84524
-         ],
-         [
-          4.35173,
-          50.84516
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 281                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.32663,
           50.78886
          ],
@@ -187896,82 +186780,6 @@
        {
         "language": "en",
         "text": "Berchem-Sainte-Agathe 28                                                                                                                                                                                                                                  "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.35463,
-          50.84346
-         ],
-         [
-          4.35477,
-          50.84346
-         ],
-         [
-          4.35477,
-          50.84354
-         ],
-         [
-          4.35463,
-          50.84354
-         ],
-         [
-          4.35463,
-          50.84346
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 290                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -197576,82 +196384,6 @@
        [
         [
          [
-          4.35073,
-          50.84876
-         ],
-         [
-          4.35087,
-          50.84876
-         ],
-         [
-          4.35087,
-          50.84884
-         ],
-         [
-          4.35073,
-          50.84884
-         ],
-         [
-          4.35073,
-          50.84876
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 373                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.37203,
           50.81506
          ],
@@ -207014,82 +205746,6 @@
        [
         [
          [
-          4.35603,
-          50.84236
-         ],
-         [
-          4.35617,
-          50.84236
-         ],
-         [
-          4.35617,
-          50.84244
-         ],
-         [
-          4.35603,
-          50.84244
-         ],
-         [
-          4.35603,
-          50.84236
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 251                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.34593,
           50.82616
          ],
@@ -208799,82 +207455,6 @@
        {
         "language": "en",
         "text": "Ville 193                                                                                                                                                                                                                                                 "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672",
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.35503,
-          50.84056
-         ],
-         [
-          4.35517,
-          50.84056
-         ],
-         [
-          4.35517,
-          50.84064
-         ],
-         [
-          4.35503,
-          50.84064
-         ],
-         [
-          4.35503,
-          50.84056
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Ville 253                                                                                                                                                                                                                                                 "
        }
       ],
       "rules": [
@@ -222523,65 +221103,6 @@
        [
         [
          [
-          4.34343,
-          50.81006
-         ],
-         [
-          4.34357,
-          50.81006
-         ],
-         [
-          4.34357,
-          50.81014
-         ],
-         [
-          4.34343,
-          50.81014
-         ],
-         [
-          4.34343,
-          50.81006
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "Uccle ARV 1                                                                                                                                                                                                                                               "
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.29583,
           50.84236
          ],
@@ -236089,16 +234610,16 @@
           50.8356
          ],
          [
-          4.3472,
-          50.8356
-         ],
-         [
-          4.3472,
-          50.8357
-         ],
-         [
           4.3473,
           50.8357
+         ],
+         [
+          4.3472,
+          50.8357
+         ],
+         [
+          4.3472,
+          50.8356
          ],
          [
           4.3473,
@@ -236131,24 +234652,7 @@
          "6810d765-42b8-51af-8374-617cc0d54f97",
          "bb0d00aa-363c-5b55-99c8-877ada6158c7",
          "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
         ]
        }
       ]
@@ -236461,82 +234965,6 @@
        [
         [
          [
-          4.3543,
-          50.8434
-         ],
-         [
-          4.3543,
-          50.8433
-         ],
-         [
-          4.3542,
-          50.8433
-         ],
-         [
-          4.3542,
-          50.8434
-         ],
-         [
-          4.3543,
-          50.8434
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "MDS Policy API RPZ _Brussels-Capital Region"
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.345,
           50.8439
          ],
@@ -236631,82 +235059,6 @@
          [
           4.3469,
           50.8457
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "MDS Policy API RPZ _Brussels-Capital Region"
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.3533,
-          50.8443
-         ],
-         [
-          4.3533,
-          50.8442
-         ],
-         [
-          4.3532,
-          50.8442
-         ],
-         [
-          4.3532,
-          50.8443
-         ],
-         [
-          4.3533,
-          50.8443
          ]
         ]
        ]
@@ -238645,82 +236997,6 @@
        [
         [
          [
-          4.349,
-          50.8464
-         ],
-         [
-          4.3489,
-          50.8464
-         ],
-         [
-          4.3489,
-          50.8465
-         ],
-         [
-          4.349,
-          50.8465
-         ],
-         [
-          4.349,
-          50.8464
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "MDS Policy API RPZ _Brussels-Capital Region"
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.3425,
           50.8448
          ],
@@ -240525,16 +238801,16 @@
           50.8339
          ],
          [
-          4.3474,
-          50.8339
-         ],
-         [
-          4.3474,
-          50.834
-         ],
-         [
           4.3475,
           50.834
+         ],
+         [
+          4.3474,
+          50.834
+         ],
+         [
+          4.3474,
+          50.8339
          ],
          [
           4.3475,
@@ -240567,24 +238843,7 @@
          "6810d765-42b8-51af-8374-617cc0d54f97",
          "bb0d00aa-363c-5b55-99c8-877ada6158c7",
          "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
         ]
        }
       ]
@@ -240691,82 +238950,6 @@
          [
           4.368,
           50.8512
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "MDS Policy API RPZ _Brussels-Capital Region"
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.3551,
-          50.8438
-         ],
-         [
-          4.3551,
-          50.8437
-         ],
-         [
-          4.355,
-          50.8437
-         ],
-         [
-          4.355,
-          50.8438
-         ],
-         [
-          4.3551,
-          50.8438
          ]
         ]
        ]
@@ -241809,82 +239992,6 @@
        [
         [
          [
-          4.3508,
-          50.8488
-         ],
-         [
-          4.3507,
-          50.8488
-         ],
-         [
-          4.3507,
-          50.8489
-         ],
-         [
-          4.3508,
-          50.8489
-         ],
-         [
-          4.3508,
-          50.8488
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "name": [
-       {
-        "language": "en",
-        "text": "MDS Policy API RPZ _Brussels-Capital Region"
-       }
-      ],
-      "rules": [
-       {
-        "ride_end_allowed": true,
-        "ride_start_allowed": true,
-        "ride_through_allowed": true,
-        "vehicle_type_id": [
-         "7ff246ec-cbdb-5da9-b9db-dfd6c323f2cc",
-         "69cbe23c-c3b5-5baa-b217-4b17641cf00a",
-         "c7df42d2-5c2d-5fc8-a66d-5ecd8fce3bd9",
-         "dc0788ca-e5fa-5816-804a-b771948365a3",
-         "23e1231b-5673-5af2-adab-47bf06b2d5e1",
-         "0fe72a8b-1cf8-53f8-bfb1-0a02528b8b99",
-         "6810d765-42b8-51af-8374-617cc0d54f97",
-         "bb0d00aa-363c-5b55-99c8-877ada6158c7",
-         "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
           4.3498,
           50.8511
          ],
@@ -242328,16 +240435,16 @@
           50.8333
          ],
          [
-          4.3475,
-          50.8332
-         ],
-         [
-          4.3474,
-          50.8332
-         ],
-         [
           4.3474,
           50.8333
+         ],
+         [
+          4.3474,
+          50.8332
+         ],
+         [
+          4.3475,
+          50.8332
          ],
          [
           4.3475,
@@ -242370,24 +240477,7 @@
          "6810d765-42b8-51af-8374-617cc0d54f97",
          "bb0d00aa-363c-5b55-99c8-877ada6158c7",
          "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
         ]
        }
       ]
@@ -242404,16 +240494,16 @@
           50.8334
          ],
          [
-          4.3461,
-          50.8333
-         ],
-         [
-          4.346,
-          50.8333
-         ],
-         [
           4.346,
           50.8334
+         ],
+         [
+          4.346,
+          50.8333
+         ],
+         [
+          4.3461,
+          50.8333
          ],
          [
           4.3461,
@@ -242446,24 +240536,7 @@
          "6810d765-42b8-51af-8374-617cc0d54f97",
          "bb0d00aa-363c-5b55-99c8-877ada6158c7",
          "63d2708b-0e5f-5093-b844-0687173baeea",
-         "e133ac24-9677-56cf-b391-d9a3d95c168d",
-         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
-         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
-         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
-         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
-         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
-         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
-         "84fe1021-7807-515b-8de9-ab80f44c8e22",
-         "1df21533-afbb-5c16-88d3-2f5127d6c489",
-         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
-         "635b05df-18f6-5850-9b22-616c7377761a",
-         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
-         "e6a437bc-f950-559f-aed5-1eb9987ca463",
-         "c82b505f-2960-5f48-bba6-18177f105e5c",
-         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
-         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
-         "4931996e-caa1-592c-9361-b9cf22ee1379",
-         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+         "e133ac24-9677-56cf-b391-d9a3d95c168d"
         ]
        }
       ]
@@ -245924,7 +243997,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -246271,7 +244344,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -246442,7 +244515,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -246593,7 +244666,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -246736,7 +244809,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247055,7 +245128,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247134,7 +245207,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247233,7 +245306,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247348,7 +245421,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247423,7 +245496,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247514,7 +245587,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247701,7 +245774,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -247860,7 +245933,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -248011,7 +246084,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -248266,7 +246339,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -248373,7 +246446,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -248536,7 +246609,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 10,
+        "maximum_speed_kph": 8,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
