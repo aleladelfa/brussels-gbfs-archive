@@ -871,8 +871,8 @@
    },
    {
     "is_virtual_station": false,
-    "lat": 50.90851,
-    "lon": 4.36545,
+    "lat": 50.908588,
+    "lon": 4.365576,
     "name": "Strombeek-Bever Ringlaan (2+1)",
     "region_id": "1246",
     "rental_uris": {

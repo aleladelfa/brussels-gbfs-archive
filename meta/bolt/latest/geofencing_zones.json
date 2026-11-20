@@ -243997,7 +243997,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -244344,7 +244344,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -244515,7 +244515,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -244666,7 +244666,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -244809,7 +244809,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245071,7 +245071,7 @@
           50.83315
          ],
          [
-          4.34244,
+          4.34243,
           50.83425
          ],
          [
@@ -245128,7 +245128,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245207,7 +245207,102 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
+        "ride_end_allowed": false,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.37154,
+          50.89625
+         ],
+         [
+          4.3714,
+          50.89624
+         ],
+         [
+          4.37146,
+          50.89609
+         ],
+         [
+          4.3714,
+          50.89592
+         ],
+         [
+          4.37142,
+          50.89578
+         ],
+         [
+          4.37138,
+          50.89549
+         ],
+         [
+          4.37146,
+          50.89539
+         ],
+         [
+          4.37161,
+          50.89535
+         ],
+         [
+          4.37173,
+          50.89542
+         ],
+         [
+          4.37502,
+          50.89552
+         ],
+         [
+          4.37495,
+          50.89653
+         ],
+         [
+          4.37154,
+          50.89625
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "SCOOTER BAN  15"
+       }
+      ],
+      "rules": [
+       {
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245306,7 +245401,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245421,7 +245516,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245496,7 +245591,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245587,7 +245682,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245620,6 +245715,66 @@
       "coordinates": [
        [
         [
+         [
+          4.33058,
+          50.83302
+         ],
+         [
+          4.33079,
+          50.83259
+         ],
+         [
+          4.33289,
+          50.83189
+         ],
+         [
+          4.3331,
+          50.83177
+         ],
+         [
+          4.33331,
+          50.83192
+         ],
+         [
+          4.33579,
+          50.8308
+         ],
+         [
+          4.33758,
+          50.8322
+         ],
+         [
+          4.34145,
+          50.83438
+         ],
+         [
+          4.3417,
+          50.83437
+         ],
+         [
+          4.34216,
+          50.83424
+         ],
+         [
+          4.34243,
+          50.83425
+         ],
+         [
+          4.34082,
+          50.83842
+         ],
+         [
+          4.34081,
+          50.83876
+         ],
+         [
+          4.34029,
+          50.84016
+         ],
+         [
+          4.34008,
+          50.84013
+         ],
          [
           4.34004,
           50.84023
@@ -245699,66 +245854,6 @@
          [
           4.33058,
           50.83302
-         ],
-         [
-          4.33079,
-          50.83259
-         ],
-         [
-          4.33289,
-          50.83189
-         ],
-         [
-          4.33311,
-          50.83177
-         ],
-         [
-          4.33331,
-          50.83192
-         ],
-         [
-          4.3358,
-          50.8308
-         ],
-         [
-          4.33759,
-          50.8322
-         ],
-         [
-          4.34145,
-          50.83438
-         ],
-         [
-          4.3417,
-          50.83437
-         ],
-         [
-          4.3422,
-          50.83423
-         ],
-         [
-          4.34244,
-          50.83425
-         ],
-         [
-          4.34082,
-          50.83842
-         ],
-         [
-          4.34081,
-          50.83876
-         ],
-         [
-          4.34029,
-          50.84016
-         ],
-         [
-          4.34008,
-          50.84013
-         ],
-         [
-          4.34004,
-          50.84023
          ]
         ]
        ]
@@ -245775,6 +245870,117 @@
       "rules": [
        {
         "maximum_speed_kph": 8,
+        "ride_end_allowed": false,
+        "ride_start_allowed": true,
+        "ride_through_allowed": true,
+        "vehicle_type_id": [
+         "a4762863-8d98-5a7b-b2e2-383b557d43f9",
+         "4f5e8477-6bde-5857-8408-34ff71e0a40a",
+         "2212d8e5-4d82-5a7f-b6db-1e8ff381652f",
+         "0ca31efe-3c56-5b6b-bf99-d9ed72eff34f",
+         "fdbbbf7e-e074-523b-b286-bfc8b68d0e28",
+         "ff2858e0-4ef3-5521-84a9-c2ad69952aff",
+         "84fe1021-7807-515b-8de9-ab80f44c8e22",
+         "1df21533-afbb-5c16-88d3-2f5127d6c489",
+         "e6fc84c1-c8cf-58d8-b626-e64f94298850",
+         "635b05df-18f6-5850-9b22-616c7377761a",
+         "a0dbcb3b-1243-5f90-a2e6-b10d34797f31",
+         "e6a437bc-f950-559f-aed5-1eb9987ca463",
+         "c82b505f-2960-5f48-bba6-18177f105e5c",
+         "d5bc57ea-90bc-561d-99c2-3ecc0a36814b",
+         "1ae4039e-a1f2-5f40-9a97-ef8295f42d59",
+         "4931996e-caa1-592c-9361-b9cf22ee1379",
+         "e92dc79f-736d-5eca-9ff4-1806653b6672"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
+          4.33371,
+          50.85448
+         ],
+         [
+          4.3335,
+          50.85433
+         ],
+         [
+          4.33466,
+          50.85379
+         ],
+         [
+          4.33425,
+          50.85353
+         ],
+         [
+          4.33467,
+          50.85329
+         ],
+         [
+          4.33502,
+          50.85359
+         ],
+         [
+          4.33646,
+          50.85292
+         ],
+         [
+          4.3366,
+          50.85309
+         ],
+         [
+          4.33637,
+          50.85319
+         ],
+         [
+          4.33683,
+          50.85357
+         ],
+         [
+          4.33636,
+          50.85387
+         ],
+         [
+          4.33592,
+          50.85432
+         ],
+         [
+          4.3356,
+          50.85434
+         ],
+         [
+          4.33556,
+          50.85439
+         ],
+         [
+          4.33499,
+          50.85392
+         ],
+         [
+          4.33371,
+          50.85448
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "name": [
+       {
+        "language": "en",
+        "text": "SCOOTER BAN  8"
+       }
+      ],
+      "rules": [
+       {
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245933,7 +246139,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -245967,23 +246173,35 @@
        [
         [
          [
+          4.34108,
+          50.83816
+         ],
+         [
           4.34183,
           50.8359
          ],
          [
-          4.34286,
-          50.83309
+          4.34243,
+          50.83425
          ],
          [
-          4.343,
-          50.83297
+          4.34288,
+          50.83315
          ],
          [
-          4.34461,
-          50.83264
+          4.34295,
+          50.83304
          ],
          [
-          4.34497,
+          4.34311,
+          50.83298
+         ],
+         [
+          4.34499,
+          50.83266
+         ],
+         [
+          4.34498,
           50.83261
          ],
          [
@@ -246065,10 +246283,6 @@
          [
           4.34108,
           50.83816
-         ],
-         [
-          4.34183,
-          50.8359
          ]
         ]
        ]
@@ -246084,7 +246298,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
@@ -246117,6 +246331,38 @@
       "coordinates": [
        [
         [
+         [
+          4.32212,
+          50.82374
+         ],
+         [
+          4.32231,
+          50.82366
+         ],
+         [
+          4.32248,
+          50.82364
+         ],
+         [
+          4.32277,
+          50.82352
+         ],
+         [
+          4.32281,
+          50.82347
+         ],
+         [
+          4.32326,
+          50.82334
+         ],
+         [
+          4.32334,
+          50.82343
+         ],
+         [
+          4.32369,
+          50.8233
+         ],
          [
           4.32426,
           50.82393
@@ -246182,7 +246428,7 @@
           50.82747
          ],
          [
-          4.33518,
+          4.33517,
           50.82752
          ],
          [
@@ -246251,7 +246497,7 @@
          ],
          [
           4.33208,
-          50.82887
+          50.82886
          ],
          [
           4.33184,
@@ -246292,38 +246538,6 @@
          [
           4.32212,
           50.82374
-         ],
-         [
-          4.32231,
-          50.82366
-         ],
-         [
-          4.32248,
-          50.82364
-         ],
-         [
-          4.32277,
-          50.82352
-         ],
-         [
-          4.32281,
-          50.82347
-         ],
-         [
-          4.32326,
-          50.82334
-         ],
-         [
-          4.32334,
-          50.82343
-         ],
-         [
-          4.32369,
-          50.8233
-         ],
-         [
-          4.32426,
-          50.82393
          ]
         ]
        ]
@@ -246339,7 +246553,7 @@
       ],
       "rules": [
        {
-        "maximum_speed_kph": 8,
+        "maximum_speed_kph": 6,
         "ride_end_allowed": false,
         "ride_start_allowed": true,
         "ride_through_allowed": true,
