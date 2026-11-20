@@ -676,3 +676,11 @@ nextbike: 250 vehicles
 nextbike: 68 stations
 nextbike: meta station_information changed, stored
 lime: 0 vehicles
+run 2026-11-20T19:08:44.039838+00:00
+bolt: 5663 vehicles
+dott: 3830 vehicles
+villo: 360 stations
+cooltra: 256 vehicles
+nextbike: 250 vehicles
+nextbike: 68 stations
+lime: 0 vehicles
