@@ -303,15 +303,15 @@
     "name": [
      {
       "language": "en",
-      "text": "015 - MONTGOMERY"
+      "text": "MONTGOMERY"
      },
      {
       "language": "nl",
-      "text": "015 - MONTGOMERY"
+      "text": "MONTGOMERY"
      },
      {
       "language": "fr",
-      "text": "015 - MONTGOMERY"
+      "text": "MONTGOMERY"
      }
     ],
     "station_id": "15"
@@ -324,15 +324,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LOUISE / LOUIZA"
+      "text": "016 - LOUISE / LOUIZA"
      },
      {
       "language": "nl",
-      "text": "LOUISE / LOUIZA"
+      "text": "016 - LOUISE / LOUIZA"
      },
      {
       "language": "fr",
-      "text": "LOUISE / LOUIZA"
+      "text": "016 - LOUISE / LOUIZA"
      }
     ],
     "station_id": "16"
@@ -387,15 +387,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PLACE MORICHAR / MORICHARPLEIN"
+      "text": "019 - PLACE MORICHAR / MORICHARPLEIN"
      },
      {
       "language": "nl",
-      "text": "PLACE MORICHAR / MORICHARPLEIN"
+      "text": "019 - PLACE MORICHAR / MORICHARPLEIN"
      },
      {
       "language": "fr",
-      "text": "PLACE MORICHAR / MORICHARPLEIN"
+      "text": "019 - PLACE MORICHAR / MORICHARPLEIN"
      }
     ],
     "station_id": "19"
@@ -429,15 +429,15 @@
     "name": [
      {
       "language": "en",
-      "text": "021 - DE BROUCKERE"
+      "text": "DE BROUCKERE"
      },
      {
       "language": "nl",
-      "text": "021 - DE BROUCKERE"
+      "text": "DE BROUCKERE"
      },
      {
       "language": "fr",
-      "text": "021 - DE BROUCKERE"
+      "text": "DE BROUCKERE"
      }
     ],
     "station_id": "21"
@@ -492,15 +492,15 @@
     "name": [
      {
       "language": "en",
-      "text": "024 - ROGIER"
+      "text": "ROGIER"
      },
      {
       "language": "nl",
-      "text": "024 - ROGIER"
+      "text": "ROGIER"
      },
      {
       "language": "fr",
-      "text": "024 - ROGIER"
+      "text": "ROGIER"
      }
     ],
     "station_id": "24"
@@ -513,15 +513,15 @@
     "name": [
      {
       "language": "en",
-      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      },
      {
       "language": "nl",
-      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      },
      {
       "language": "fr",
-      "text": "025 - PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
+      "text": "PORTE D'ANDERLECHT / ANDERLECHTSEPOORT"
      }
     ],
     "station_id": "25"
@@ -639,15 +639,15 @@
     "name": [
      {
       "language": "en",
-      "text": "031 - MUSEE DE LA BD / STRIPMUSEUM"
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      },
      {
       "language": "nl",
-      "text": "031 - MUSEE DE LA BD / STRIPMUSEUM"
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      },
      {
       "language": "fr",
-      "text": "031 - MUSEE DE LA BD / STRIPMUSEUM"
+      "text": "MUSEE DE LA BD / STRIPMUSEUM"
      }
     ],
     "station_id": "31"
@@ -681,15 +681,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MORT SUBITE"
+      "text": "033 - MORT SUBITE"
      },
      {
       "language": "nl",
-      "text": "MORT SUBITE"
+      "text": "033 - MORT SUBITE"
      },
      {
       "language": "fr",
-      "text": "MORT SUBITE"
+      "text": "033 - MORT SUBITE"
      }
     ],
     "station_id": "33"
@@ -702,15 +702,15 @@
     "name": [
      {
       "language": "en",
-      "text": "034 - FONTAINAS"
+      "text": "FONTAINAS"
      },
      {
       "language": "nl",
-      "text": "034 - FONTAINAS"
+      "text": "FONTAINAS"
      },
      {
       "language": "fr",
-      "text": "034 - FONTAINAS"
+      "text": "FONTAINAS"
      }
     ],
     "station_id": "34"
@@ -786,15 +786,15 @@
     "name": [
      {
       "language": "en",
-      "text": "038 - JEU DE BALLE / VOSSENPLEIN"
+      "text": "JEU DE BALLE / VOSSENPLEIN"
      },
      {
       "language": "nl",
-      "text": "038 - JEU DE BALLE / VOSSENPLEIN"
+      "text": "JEU DE BALLE / VOSSENPLEIN"
      },
      {
       "language": "fr",
-      "text": "038 - JEU DE BALLE / VOSSENPLEIN"
+      "text": "JEU DE BALLE / VOSSENPLEIN"
      }
     ],
     "station_id": "38"
@@ -1017,15 +1017,15 @@
     "name": [
      {
       "language": "en",
-      "text": "049 - WILLEBROECK / WILLEBROEK"
+      "text": "WILLEBROECK / WILLEBROEK"
      },
      {
       "language": "nl",
-      "text": "049 - WILLEBROECK / WILLEBROEK"
+      "text": "WILLEBROECK / WILLEBROEK"
      },
      {
       "language": "fr",
-      "text": "049 - WILLEBROECK / WILLEBROEK"
+      "text": "WILLEBROECK / WILLEBROEK"
      }
     ],
     "station_id": "49"
@@ -1101,15 +1101,15 @@
     "name": [
      {
       "language": "en",
-      "text": "GARE DU MIDI / ZUIDSTATION"
+      "text": "053 - GARE DU MIDI / ZUIDSTATION"
      },
      {
       "language": "nl",
-      "text": "GARE DU MIDI / ZUIDSTATION"
+      "text": "053 - GARE DU MIDI / ZUIDSTATION"
      },
      {
       "language": "fr",
-      "text": "GARE DU MIDI / ZUIDSTATION"
+      "text": "053 - GARE DU MIDI / ZUIDSTATION"
      }
     ],
     "station_id": "53"
@@ -1374,15 +1374,15 @@
     "name": [
      {
       "language": "en",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      },
      {
       "language": "nl",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      },
      {
       "language": "fr",
-      "text": "SCHUMAN"
+      "text": "066 - SCHUMAN"
      }
     ],
     "station_id": "66"
@@ -1689,15 +1689,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
+      "text": "081 - PONT BOCKSTAEL / BRUG BOCKSTAEL"
      },
      {
       "language": "nl",
-      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
+      "text": "081 - PONT BOCKSTAEL / BRUG BOCKSTAEL"
      },
      {
       "language": "fr",
-      "text": "PONT BOCKSTAEL / BRUG BOCKSTAEL"
+      "text": "081 - PONT BOCKSTAEL / BRUG BOCKSTAEL"
      }
     ],
     "station_id": "81"
@@ -1852,20 +1852,20 @@
    {
     "address": "Av. de Levis Mirepoix 100 / de Levis Mirepoixlaan 100",
     "capacity": 25,
-    "lat": 50.87106,
-    "lon": 4.32985,
+    "lat": 50.8710602400955,
+    "lon": 4.32984977344234,
     "name": [
      {
       "language": "en",
-      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+      "text": "089 - ATHENEE DE JETTE / ATHENEUM VAN JETTE"
      },
      {
       "language": "nl",
-      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+      "text": "089 - ATHENEE DE JETTE / ATHENEUM VAN JETTE"
      },
      {
       "language": "fr",
-      "text": "ATHENEE DE JETTE / ATHENEUM VAN JETTE"
+      "text": "089 - ATHENEE DE JETTE / ATHENEUM VAN JETTE"
      }
     ],
     "station_id": "89"
@@ -1899,15 +1899,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BELGICA"
+      "text": "091 - BELGICA"
      },
      {
       "language": "nl",
-      "text": "BELGICA"
+      "text": "091 - BELGICA"
      },
      {
       "language": "fr",
-      "text": "BELGICA"
+      "text": "091 - BELGICA"
      }
     ],
     "station_id": "91"
@@ -2130,15 +2130,15 @@
     "name": [
      {
       "language": "en",
-      "text": "102 - MUSEUM"
+      "text": "MUSEUM"
      },
      {
       "language": "nl",
-      "text": "102 - MUSEUM"
+      "text": "MUSEUM"
      },
      {
       "language": "fr",
-      "text": "102 - MUSEUM"
+      "text": "MUSEUM"
      }
     ],
     "station_id": "102"
@@ -2151,15 +2151,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ERNEST SOLVAY"
+      "text": "103 - ERNEST SOLVAY"
      },
      {
       "language": "nl",
-      "text": "ERNEST SOLVAY"
+      "text": "103 - ERNEST SOLVAY"
      },
      {
       "language": "fr",
-      "text": "ERNEST SOLVAY"
+      "text": "103 - ERNEST SOLVAY"
      }
     ],
     "station_id": "103"
@@ -2340,15 +2340,15 @@
     "name": [
      {
       "language": "en",
-      "text": "112 - PAGE / EDELKNAAP"
+      "text": "PAGE / EDELKNAAP"
      },
      {
       "language": "nl",
-      "text": "112 - PAGE / EDELKNAAP"
+      "text": "PAGE / EDELKNAAP"
      },
      {
       "language": "fr",
-      "text": "112 - PAGE / EDELKNAAP"
+      "text": "PAGE / EDELKNAAP"
      }
     ],
     "station_id": "112"
@@ -2424,15 +2424,15 @@
     "name": [
      {
       "language": "en",
-      "text": "116 - ULB PLAINE"
+      "text": "ULB PLAINE"
      },
      {
       "language": "nl",
-      "text": "116 - ULB PLAINE"
+      "text": "ULB PLAINE"
      },
      {
       "language": "fr",
-      "text": "116 - ULB PLAINE"
+      "text": "ULB PLAINE"
      }
     ],
     "station_id": "116"
@@ -2466,15 +2466,15 @@
     "name": [
      {
       "language": "en",
-      "text": "118 - SCHWEITZER"
+      "text": "SCHWEITZER"
      },
      {
       "language": "nl",
-      "text": "118 - SCHWEITZER"
+      "text": "SCHWEITZER"
      },
      {
       "language": "fr",
-      "text": "118 - SCHWEITZER"
+      "text": "SCHWEITZER"
      }
     ],
     "station_id": "118"
@@ -2487,15 +2487,15 @@
     "name": [
      {
       "language": "en",
-      "text": "119 - PAQUOT"
+      "text": "PAQUOT"
      },
      {
       "language": "nl",
-      "text": "119 - PAQUOT"
+      "text": "PAQUOT"
      },
      {
       "language": "fr",
-      "text": "119 - PAQUOT"
+      "text": "PAQUOT"
      }
     ],
     "station_id": "119"
@@ -2592,15 +2592,15 @@
     "name": [
      {
       "language": "en",
-      "text": "124 - CHARLES GRAUX"
+      "text": "CHARLES GRAUX"
      },
      {
       "language": "nl",
-      "text": "124 - CHARLES GRAUX"
+      "text": "CHARLES GRAUX"
      },
      {
       "language": "fr",
-      "text": "124 - CHARLES GRAUX"
+      "text": "CHARLES GRAUX"
      }
     ],
     "station_id": "124"
@@ -2697,15 +2697,15 @@
     "name": [
      {
       "language": "en",
-      "text": "130 - ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
      },
      {
       "language": "nl",
-      "text": "130 - ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
      },
      {
       "language": "fr",
-      "text": "130 - ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
      }
     ],
     "station_id": "130"
@@ -2756,19 +2756,19 @@
     "address": "Av. du Château / Kasteellaan 133",
     "capacity": 24,
     "lat": 50.866795,
-    "lon": 4.3092224,
+    "lon": 4.309222,
     "name": [
      {
       "language": "en",
-      "text": "133 - CHÂTEAU / KASTEEL"
+      "text": "CHÂTEAU / KASTEEL"
      },
      {
       "language": "nl",
-      "text": "133 - CHÂTEAU / KASTEEL"
+      "text": "CHÂTEAU / KASTEEL"
      },
      {
       "language": "fr",
-      "text": "133 - CHÂTEAU / KASTEEL"
+      "text": "CHÂTEAU / KASTEEL"
      }
     ],
     "station_id": "133"
@@ -2865,15 +2865,15 @@
     "name": [
      {
       "language": "en",
-      "text": "HOUFFALIZE"
+      "text": "138 - HOUFFALIZE"
      },
      {
       "language": "nl",
-      "text": "HOUFFALIZE"
+      "text": "138 - HOUFFALIZE"
      },
      {
       "language": "fr",
-      "text": "HOUFFALIZE"
+      "text": "138 - HOUFFALIZE"
      }
     ],
     "station_id": "138"
@@ -3012,15 +3012,15 @@
     "name": [
      {
       "language": "en",
-      "text": "145 - COTEAUX / WIJNHEUVELEN"
+      "text": "COTEAUX / WIJNHEUVELEN"
      },
      {
       "language": "nl",
-      "text": "145 - COTEAUX / WIJNHEUVELEN"
+      "text": "COTEAUX / WIJNHEUVELEN"
      },
      {
       "language": "fr",
-      "text": "145 - COTEAUX / WIJNHEUVELEN"
+      "text": "COTEAUX / WIJNHEUVELEN"
      }
     ],
     "station_id": "145"
@@ -3243,15 +3243,15 @@
     "name": [
      {
       "language": "en",
-      "text": "156 - JAMBLINNE DE MEUX"
+      "text": "JAMBLINNE DE MEUX"
      },
      {
       "language": "nl",
-      "text": "156 - JAMBLINNE DE MEUX"
+      "text": "JAMBLINNE DE MEUX"
      },
      {
       "language": "fr",
-      "text": "156 - JAMBLINNE DE MEUX"
+      "text": "JAMBLINNE DE MEUX"
      }
     ],
     "station_id": "156"
@@ -3726,15 +3726,15 @@
     "name": [
      {
       "language": "en",
-      "text": "180 - JOURDAN"
+      "text": "JOURDAN"
      },
      {
       "language": "nl",
-      "text": "180 - JOURDAN"
+      "text": "JOURDAN"
      },
      {
       "language": "fr",
-      "text": "180 - JOURDAN"
+      "text": "JOURDAN"
      }
     ],
     "station_id": "180"
@@ -3873,15 +3873,15 @@
     "name": [
      {
       "language": "en",
-      "text": "187 - ARSENAL / ARSENAAL"
+      "text": "ARSENAL / ARSENAAL"
      },
      {
       "language": "nl",
-      "text": "187 - ARSENAL / ARSENAAL"
+      "text": "ARSENAL / ARSENAAL"
      },
      {
       "language": "fr",
-      "text": "187 - ARSENAL / ARSENAAL"
+      "text": "ARSENAL / ARSENAAL"
      }
     ],
     "station_id": "187"
@@ -3915,15 +3915,15 @@
     "name": [
      {
       "language": "en",
-      "text": "189 - PLACE VAN MEYEL / VAN MEYELPLEIN"
+      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
      },
      {
       "language": "nl",
-      "text": "189 - PLACE VAN MEYEL / VAN MEYELPLEIN"
+      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
      },
      {
       "language": "fr",
-      "text": "189 - PLACE VAN MEYEL / VAN MEYELPLEIN"
+      "text": "PLACE VAN MEYEL / VAN MEYELPLEIN"
      }
     ],
     "station_id": "189"
@@ -4146,15 +4146,15 @@
     "name": [
      {
       "language": "en",
-      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+      "text": "200 - VETERANS COLONIAUX / KOLONIALE VETERANEN"
      },
      {
       "language": "nl",
-      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+      "text": "200 - VETERANS COLONIAUX / KOLONIALE VETERANEN"
      },
      {
       "language": "fr",
-      "text": "VETERANS COLONIAUX / KOLONIALE VETERANEN"
+      "text": "200 - VETERANS COLONIAUX / KOLONIALE VETERANEN"
      }
     ],
     "station_id": "200"
@@ -4503,15 +4503,15 @@
     "name": [
      {
       "language": "en",
-      "text": "217 - BIZET"
+      "text": "BIZET"
      },
      {
       "language": "nl",
-      "text": "217 - BIZET"
+      "text": "BIZET"
      },
      {
       "language": "fr",
-      "text": "217 - BIZET"
+      "text": "BIZET"
      }
     ],
     "station_id": "217"
@@ -4545,15 +4545,15 @@
     "name": [
      {
       "language": "en",
-      "text": "219 - VAN HELLEMONT"
+      "text": "VAN HELLEMONT"
      },
      {
       "language": "nl",
-      "text": "219 - VAN HELLEMONT"
+      "text": "VAN HELLEMONT"
      },
      {
       "language": "fr",
-      "text": "219 - VAN HELLEMONT"
+      "text": "VAN HELLEMONT"
      }
     ],
     "station_id": "219"
@@ -4566,15 +4566,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LUTHER KING"
+      "text": "220 - LUTHER KING"
      },
      {
       "language": "nl",
-      "text": "LUTHER KING"
+      "text": "220 - LUTHER KING"
      },
      {
       "language": "fr",
-      "text": "LUTHER KING"
+      "text": "220 - LUTHER KING"
      }
     ],
     "station_id": "220"
@@ -5028,15 +5028,15 @@
     "name": [
      {
       "language": "en",
-      "text": "242 - MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
      },
      {
       "language": "nl",
-      "text": "242 - MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
      },
      {
       "language": "fr",
-      "text": "242 - MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
+      "text": "MAISON COMMUNALE UCCLE / GEMEENTEHUIS UKKEL"
      }
     ],
     "station_id": "242"
@@ -5175,15 +5175,15 @@
     "name": [
      {
       "language": "en",
-      "text": "249 - SAINT-JOB / SINT-JOB"
+      "text": "SAINT-JOB / SINT-JOB"
      },
      {
       "language": "nl",
-      "text": "249 - SAINT-JOB / SINT-JOB"
+      "text": "SAINT-JOB / SINT-JOB"
      },
      {
       "language": "fr",
-      "text": "249 - SAINT-JOB / SINT-JOB"
+      "text": "SAINT-JOB / SINT-JOB"
      }
     ],
     "station_id": "249"
@@ -5259,15 +5259,15 @@
     "name": [
      {
       "language": "en",
-      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
      },
      {
       "language": "nl",
-      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
      },
      {
       "language": "fr",
-      "text": "253 - REINE FABIOLA / KONINGIN FABIOLA"
+      "text": "REINE FABIOLA / KONINGIN FABIOLA"
      }
     ],
     "station_id": "253"
@@ -5343,15 +5343,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
+      "text": "257 - MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
      },
      {
       "language": "nl",
-      "text": "MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
+      "text": "257 - MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
      },
      {
       "language": "fr",
-      "text": "MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
+      "text": "257 - MARGUERITE D'AUTR. / MARGARETHA VAN OOSTENR."
      }
     ],
     "station_id": "257"
@@ -5637,15 +5637,15 @@
     "name": [
      {
       "language": "en",
-      "text": "271 - DUBOIS"
+      "text": "DUBOIS"
      },
      {
       "language": "nl",
-      "text": "271 - DUBOIS"
+      "text": "DUBOIS"
      },
      {
       "language": "fr",
-      "text": "271 - DUBOIS"
+      "text": "DUBOIS"
      }
     ],
     "station_id": "271"
@@ -5679,15 +5679,15 @@
     "name": [
      {
       "language": "en",
-      "text": "273 - TAMARIS / TAMARISKEN"
+      "text": "TAMARIS / TAMARISKEN"
      },
      {
       "language": "nl",
-      "text": "273 - TAMARIS / TAMARISKEN"
+      "text": "TAMARIS / TAMARISKEN"
      },
      {
       "language": "fr",
-      "text": "273 - TAMARIS / TAMARISKEN"
+      "text": "TAMARIS / TAMARISKEN"
      }
     ],
     "station_id": "273"
@@ -5847,15 +5847,15 @@
     "name": [
      {
       "language": "en",
-      "text": "281 - ATOMIUM"
+      "text": "ATOMIUM"
      },
      {
       "language": "nl",
-      "text": "281 - ATOMIUM"
+      "text": "ATOMIUM"
      },
      {
       "language": "fr",
-      "text": "281 - ATOMIUM"
+      "text": "ATOMIUM"
      }
     ],
     "station_id": "281"
@@ -6141,15 +6141,15 @@
     "name": [
      {
       "language": "en",
-      "text": "COIN DU BALAI / BEZEMHOEK"
+      "text": "295 - COIN DU BALAI / BEZEMHOEK"
      },
      {
       "language": "nl",
-      "text": "COIN DU BALAI / BEZEMHOEK"
+      "text": "295 - COIN DU BALAI / BEZEMHOEK"
      },
      {
       "language": "fr",
-      "text": "COIN DU BALAI / BEZEMHOEK"
+      "text": "295 - COIN DU BALAI / BEZEMHOEK"
      }
     ],
     "station_id": "295"
@@ -6162,15 +6162,15 @@
     "name": [
      {
       "language": "en",
-      "text": "296 - BOITSFORT GARE / BOSVOORDE STATION"
+      "text": "BOITSFORT GARE / BOSVOORDE STATION"
      },
      {
       "language": "nl",
-      "text": "296 - BOITSFORT GARE / BOSVOORDE STATION"
+      "text": "BOITSFORT GARE / BOSVOORDE STATION"
      },
      {
       "language": "fr",
-      "text": "296 - BOITSFORT GARE / BOSVOORDE STATION"
+      "text": "BOITSFORT GARE / BOSVOORDE STATION"
      }
     ],
     "station_id": "296"
@@ -6267,15 +6267,15 @@
     "name": [
      {
       "language": "en",
-      "text": "MARIE-JOSE"
+      "text": "301 - MARIE-JOSE"
      },
      {
       "language": "nl",
-      "text": "MARIE-JOSE"
+      "text": "301 - MARIE-JOSE"
      },
      {
       "language": "fr",
-      "text": "MARIE-JOSE"
+      "text": "301 - MARIE-JOSE"
      }
     ],
     "station_id": "301"
@@ -6477,15 +6477,15 @@
     "name": [
      {
       "language": "en",
-      "text": "312 - CENTRE CULTUREL / CULTUREEL CENTRUM"
+      "text": "CENTRE CULTUREL / CULTUREEL CENTRUM"
      },
      {
       "language": "nl",
-      "text": "312 - CENTRE CULTUREL / CULTUREEL CENTRUM"
+      "text": "CENTRE CULTUREL / CULTUREEL CENTRUM"
      },
      {
       "language": "fr",
-      "text": "312 - CENTRE CULTUREL / CULTUREEL CENTRUM"
+      "text": "CENTRE CULTUREL / CULTUREEL CENTRUM"
      }
     ],
     "station_id": "312"
@@ -6687,15 +6687,15 @@
     "name": [
      {
       "language": "en",
-      "text": "323 - CARENE / CARINA"
+      "text": "CARENE / CARINA"
      },
      {
       "language": "nl",
-      "text": "323 - CARENE / CARINA"
+      "text": "CARENE / CARINA"
      },
      {
       "language": "fr",
-      "text": "323 - CARENE / CARINA"
+      "text": "CARENE / CARINA"
      }
     ],
     "station_id": "323"
@@ -6960,15 +6960,15 @@
     "name": [
      {
       "language": "en",
-      "text": "336 - KRAAINEM"
+      "text": "KRAAINEM"
      },
      {
       "language": "nl",
-      "text": "336 - KRAAINEM"
+      "text": "KRAAINEM"
      },
      {
       "language": "fr",
-      "text": "336 - KRAAINEM"
+      "text": "KRAAINEM"
      }
     ],
     "station_id": "336"

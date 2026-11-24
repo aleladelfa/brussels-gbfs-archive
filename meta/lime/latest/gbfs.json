@@ -1,5 +1,7 @@
 {
  "free_bike_status": "https://data.lime.bike/api/partners/v2/gbfs/brussels/free_bike_status",
+ "gbfs_versions": "https://data.lime.bike/api/partners/v2/gbfs/brussels/gbfs_versions",
+ "geofencing_zones": "https://data.lime.bike/api/partners/v2/gbfs/brussels/geofencing_zones",
  "station_information": "https://data.lime.bike/api/partners/v2/gbfs/brussels/station_information",
  "station_status": "https://data.lime.bike/api/partners/v2/gbfs/brussels/station_status",
  "system_information": "https://data.lime.bike/api/partners/v2/gbfs/brussels/system_information",
