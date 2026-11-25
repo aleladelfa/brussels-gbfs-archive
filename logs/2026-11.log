@@ -819,3 +819,11 @@ nextbike: 251 vehicles
 nextbike: 68 stations
 lime: 0 vehicles
 lime: meta geofencing_zones failed: failed after 3 attempts: https://data.lime.bike/api/partners/v2/gbfs/brussels/geofencing_zones: HTTP Error 404: Not Found
+run 2026-11-25T12:58:47.120506+00:00
+bolt: 5770 vehicles
+dott: 3417 vehicles
+villo: 360 stations
+cooltra: 247 vehicles
+nextbike: 246 vehicles
+nextbike: 68 stations
+lime: 0 vehicles
