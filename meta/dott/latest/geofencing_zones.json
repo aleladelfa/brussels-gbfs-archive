@@ -5831,6 +5831,64 @@
        [
         [
          [
+          4.34920283625035,
+          50.834987326829676
+         ],
+         [
+          4.348832691406295,
+          50.83452148409816
+         ],
+         [
+          4.3492108828773945,
+          50.834560445668416
+         ],
+         [
+          4.349468374942824,
+          50.83472645547286
+         ],
+         [
+          4.349351698850676,
+          50.834863667212446
+         ],
+         [
+          4.34920283625035,
+          50.834987326829676
+         ]
+        ]
+       ]
+      ],
+      "type": "MultiPolygon"
+     },
+     "properties": {
+      "rules": [
+       {
+        "maximum_speed_kph": 12,
+        "ride_allowed": true,
+        "ride_through_allowed": true,
+        "station_parking": false,
+        "vehicle_type_id": [
+         "dott_bicycle"
+        ]
+       },
+       {
+        "maximum_speed_kph": 7,
+        "ride_allowed": true,
+        "ride_through_allowed": true,
+        "station_parking": false,
+        "vehicle_type_id": [
+         "dott_scooter"
+        ]
+       }
+      ]
+     },
+     "type": "Feature"
+    },
+    {
+     "geometry": {
+      "coordinates": [
+       [
+        [
+         [
           4.346100156237118,
           50.853850771046446
          ],
@@ -7479,64 +7537,6 @@
       "rules": [
        {
         "maximum_speed_kph": 7,
-        "ride_allowed": true,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_bicycle"
-        ]
-       },
-       {
-        "maximum_speed_kph": 7,
-        "ride_allowed": true,
-        "ride_through_allowed": true,
-        "station_parking": false,
-        "vehicle_type_id": [
-         "dott_scooter"
-        ]
-       }
-      ]
-     },
-     "type": "Feature"
-    },
-    {
-     "geometry": {
-      "coordinates": [
-       [
-        [
-         [
-          4.34920283625035,
-          50.834987326829676
-         ],
-         [
-          4.348832691406295,
-          50.83452148409816
-         ],
-         [
-          4.3492108828773945,
-          50.834560445668416
-         ],
-         [
-          4.349468374942824,
-          50.83472645547286
-         ],
-         [
-          4.349351698850676,
-          50.834863667212446
-         ],
-         [
-          4.34920283625035,
-          50.834987326829676
-         ]
-        ]
-       ]
-      ],
-      "type": "MultiPolygon"
-     },
-     "properties": {
-      "rules": [
-       {
-        "maximum_speed_kph": 12,
         "ride_allowed": true,
         "ride_through_allowed": true,
         "station_parking": false,
