@@ -261,15 +261,15 @@
     "name": [
      {
       "language": "en",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      },
      {
       "language": "nl",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      },
      {
       "language": "fr",
-      "text": "LEMONNIER"
+      "text": "013 - LEMONNIER"
      }
     ],
     "station_id": "13"
@@ -387,15 +387,15 @@
     "name": [
      {
       "language": "en",
-      "text": "PLACE MORICHAR / MORICHARPLEIN"
+      "text": "019 - PLACE MORICHAR / MORICHARPLEIN"
      },
      {
       "language": "nl",
-      "text": "PLACE MORICHAR / MORICHARPLEIN"
+      "text": "019 - PLACE MORICHAR / MORICHARPLEIN"
      },
      {
       "language": "fr",
-      "text": "PLACE MORICHAR / MORICHARPLEIN"
+      "text": "019 - PLACE MORICHAR / MORICHARPLEIN"
      }
     ],
     "station_id": "19"
@@ -933,15 +933,15 @@
     "name": [
      {
       "language": "en",
-      "text": "STEPHANIE / STEFANIA"
+      "text": "045 - STEPHANIE / STEFANIA"
      },
      {
       "language": "nl",
-      "text": "STEPHANIE / STEFANIA"
+      "text": "045 - STEPHANIE / STEFANIA"
      },
      {
       "language": "fr",
-      "text": "STEPHANIE / STEFANIA"
+      "text": "045 - STEPHANIE / STEFANIA"
      }
     ],
     "station_id": "45"
@@ -1143,15 +1143,15 @@
     "name": [
      {
       "language": "en",
-      "text": "055 - BOTANIQUE / KRUIDTUIN"
+      "text": "BOTANIQUE / KRUIDTUIN"
      },
      {
       "language": "nl",
-      "text": "055 - BOTANIQUE / KRUIDTUIN"
+      "text": "BOTANIQUE / KRUIDTUIN"
      },
      {
       "language": "fr",
-      "text": "055 - BOTANIQUE / KRUIDTUIN"
+      "text": "BOTANIQUE / KRUIDTUIN"
      }
     ],
     "station_id": "55"
@@ -2697,15 +2697,15 @@
     "name": [
      {
       "language": "en",
-      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+      "text": "130 - ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
      },
      {
       "language": "nl",
-      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+      "text": "130 - ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
      },
      {
       "language": "fr",
-      "text": "ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
+      "text": "130 - ROND-POINT DU SOUVERAIN / VORSTRONDPUNT"
      }
     ],
     "station_id": "130"
@@ -6162,15 +6162,15 @@
     "name": [
      {
       "language": "en",
-      "text": "BOITSFORT GARE / BOSVOORDE STATION"
+      "text": "296 - BOITSFORT GARE / BOSVOORDE STATION"
      },
      {
       "language": "nl",
-      "text": "BOITSFORT GARE / BOSVOORDE STATION"
+      "text": "296 - BOITSFORT GARE / BOSVOORDE STATION"
      },
      {
       "language": "fr",
-      "text": "BOITSFORT GARE / BOSVOORDE STATION"
+      "text": "296 - BOITSFORT GARE / BOSVOORDE STATION"
      }
     ],
     "station_id": "296"
@@ -6624,15 +6624,15 @@
     "name": [
      {
       "language": "en",
-      "text": "UZ BRUSSEL"
+      "text": "320 - UZ BRUSSEL"
      },
      {
       "language": "nl",
-      "text": "UZ BRUSSEL"
+      "text": "320 - UZ BRUSSEL"
      },
      {
       "language": "fr",
-      "text": "UZ BRUSSEL"
+      "text": "320 - UZ BRUSSEL"
      }
     ],
     "station_id": "320"
@@ -6708,15 +6708,15 @@
     "name": [
      {
       "language": "en",
-      "text": "THOMAS BALIS"
+      "text": "324 - THOMAS BALIS"
      },
      {
       "language": "nl",
-      "text": "THOMAS BALIS"
+      "text": "324 - THOMAS BALIS"
      },
      {
       "language": "fr",
-      "text": "THOMAS BALIS"
+      "text": "324 - THOMAS BALIS"
      }
     ],
     "station_id": "324"
