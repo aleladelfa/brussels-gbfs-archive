@@ -1,0 +1,51 @@
+{
+ "data": {
+  "vehicle_types": [
+   {
+    "default_reserve_time": 600,
+    "form_factor": "bicycle",
+    "max_range_meters": 0,
+    "name": [
+     {
+      "language": "en",
+      "text": "Villo!"
+     },
+     {
+      "language": "nl",
+      "text": "Villo!"
+     },
+     {
+      "language": "fr",
+      "text": "Villo!"
+     }
+    ],
+    "propulsion_type": "human",
+    "return_constraint": "any_station",
+    "vehicle_type_id": "mechanical"
+   },
+   {
+    "default_reserve_time": 600,
+    "form_factor": "bicycle",
+    "max_range_meters": 40000,
+    "name": [
+     {
+      "language": "en",
+      "text": "Villo!"
+     },
+     {
+      "language": "nl",
+      "text": "Villo!"
+     },
+     {
+      "language": "fr",
+      "text": "Villo!"
+     }
+    ],
+    "propulsion_type": "electric_assist",
+    "return_constraint": "any_station",
+    "vehicle_type_id": "electrical"
+   }
+  ]
+ },
+ "version": "3.0"
+}
